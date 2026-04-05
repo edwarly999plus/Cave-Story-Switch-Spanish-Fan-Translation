@@ -51,6 +51,14 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 
 **Aviso Legal:** Este es un proyecto de fans sin fines de lucro. No estoy afiliado a Studio Pixel ni a Nicalis. Este repositorio **NO contiene el juego completo**, código fuente original de C++, archivos `.nso`, `.nro` ni ejecutables. Se requiere el juego original para utilizar estos archivos.
 
+Este contenido se distribuye bajo la licencia
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
 ---
 
 ## 🤝 Créditos
