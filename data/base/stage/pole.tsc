@@ -1,0 +1,107 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<CMU0008<FAI0001<END
+
+#0100
+<PRI<FAO0000<TRA0012:0094:0053:0036
+
+#0200
+<KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
+<MSG
+Has abierto el cofre del tesoro.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
+Obtuviste la Estrella Polar.<WAI0160<NOD<GIT0000<CLO<RMU
+<MSG
+Desde algun lugar, una transmision...<FAO0004<NOD<TRA0018:0501:0005:0000
+
+#0201
+<PRI<MSG
+Esta vacio.<NOD<END
+
+#0210
+
+
+#0300
+<KEY<MSG
+ZZZzzz...zzz...<NOD<END
+
+#0301
+<FLJ1644:0303
+<KEY<MSG
+Viste por casualidad el arma que hice?<NOD
+Alguien me la robo mientras dormia.<NOD
+Deberia haber dormido con ella en el
+bolsillo de mi chaqueta, si hubiera
+sabido que esto pasaria...<NOD<AMJ0002:0302<CLR
+Esa pistola,<NOD aun no estaba terminada.<NOD
+Con un poco mas de trabajo, se habria
+convertido en un arma increiblemente
+poderosa.<NOD<CLR
+Que lastima...<NOD<END
+
+#0302
+<KEY<MSG<CMU0000<MYB0002
+Espera!!<NOD<CLR
+Esa es MI arma!<NOD<CLR<GIT0002
+Por que la tienes tu?!
+No la hice para ti!<NOD<CLR
+Devuelvemela!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
+Te han confiscado la Estrella Polar...<NOD<CLR
+Hmph!<NOD
+Parece que le has dado un uso
+bastante considerable.<NOD<CLR
+.....<NOD<CLR
+Yo...<NOD me crie creyendo que las armas
+siempre deben ser construidas
+por uno mismo.<NOD
+Y siempre pense que aquellos que
+luchan con un arma creada por otra
+persona son unos necios!<NOD 
+Volviendose engreidos con un poder
+que nunca fue suyo para empezar...<NOD
+...Y luego culpando a su equipo de
+sus propias deficiencias.<NOD<CLR
+Necios!<NOD<CLR
+<CMU0008Aun asi...<WAI0050<CLR
+Pero ahora, al ver mi arma usada por ti,
+con tus manos, estoy realmente
+muy conmovido...<NOD
+Usar un arma incompleta, como la
+Estrella Polar, hasta este punto...<NOD<CLR
+Hmm...<NOD<CLR
+Perdona mis desvarios.<NOD<CLR
+Hagamos esto,<NOD te la dare--<NOD<CLR<CMU0000<FAO0001
+Despues de terminarla, por supuesto!<NOD<CLO
+<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
+<CMU0010<MSG<GIT0013
+La Estrella Polar ahora es la Spur!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+
+#0303
+<KEY<MSG
+Aun queda un equilibrio muy delicado
+en este mundo...<NOD<CLR
+Entre aquellos que crean y aquellos
+que experimentan las creaciones
+de otros.<NOD<CLR
+No puedo decir que no lo supiera.
+Sin embargo, nunca lo habia vivido.<NOD<CLR 
+Ahora, gracias a ti, finalmente lo hice.<NOD<CLR 
+Mientras haya alguien que aprecie
+el trabajo invertido en la creacion,
+el esfuerzo habra valido la pena.<NOD 
+Por ello, seguire creando mientras
+me sea posible.<NOD<END
+
+#0310
+<KEY<MSG<TUR
+"Fuera."<NOD<END

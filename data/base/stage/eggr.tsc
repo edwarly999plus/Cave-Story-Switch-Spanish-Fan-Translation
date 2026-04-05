@@ -1,0 +1,103 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0220:0007
+
+#0150
+<KEY<MSG
+Unos petalos de flores rojas estan
+esparcidos por el suelo.<NOD<END
+
+#0200
+<KEY<MSG
+Hay una nota aqui.<NOD<CLR<TUR
+No puedo acercarme mas a la
+Sala de Observacion por el escudo.<NOD<CLR<TUR
+Debe haber una terminal que pueda
+quitar el escudo en algun lado...<NOD<END
+
+#0300
+<PRI<FLJ0200:0001<FL+0200
+<SOU0022<CNP0300:0021:0000
+<MSG
+Has abierto el cofre del tesoro.<NOD<CLR<EVE0030
+
+#0500
+
+#0501
+<PRI<MS3
+Huevo de Dragon Volador No. 01
+Error: Estado del huevo anormal.
+Examinar mas a fondo.<NOD<END
+#0502
+<PRI<MS3<TUR
+Huevo de Dragon Volador No. 02
+Estado del huevo normal.<NOD<END
+#0503
+<PRI<MS3<TUR
+Huevo de Dragon Volador No. 03
+Estado del huevo normal.<NOD<END
+#0504
+<PRI<MS3<TUR
+Huevo de Dragon Volador No. 04
+Estado del huevo normal.<NOD<END
+#0505
+<PRI<MS3<TUR
+Huevo de Dragon Volador No. 05
+Estado del huevo normal.<NOD<END
+#0506
+<PRI<MS3
+Huevo de Dragon Volador No. 06
+Error: Estado del huevo anormal.
+Examinar mas a fondo.<NOD<END
+#0507
+<PRI<MS3<TUR
+Huevo de Dragon Volador No. 07
+Estado del huevo normal.<NOD<END
+#0508
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 08
+Estado del huevo normal.<NOD<END
+#0509
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 09
+Estado del huevo normal.<NOD<END
+#0510
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 10
+Estado del huevo normal.<NOD<END
+#0511
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 11
+Estado del huevo normal.<NOD<END
+#0512
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 12
+Estado del huevo normal.<NOD<END
+#0513
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 13
+Estado del huevo normal.<NOD<END
+#0514
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 14
+Estado del huevo normal.<NOD<END
+#0515
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 15
+Estado del huevo normal.<NOD<END
+#0516
+<PRI<MSG<TUR
+Huevo de Dragon Volador No. 16
+Estado del huevo normal.<NOD<END
+

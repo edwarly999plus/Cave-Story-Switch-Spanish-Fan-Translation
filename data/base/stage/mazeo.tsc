@@ -1,0 +1,148 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000
+<FLJ0703:0101
+<TRA0039:0094:0084:0015
+#0101
+<FL+0704<TRA0039:0094:0084:0015
+#0105
+<KEY<FAO0004<TRA0039:0094:0091:0012
+
+#0200
+<KEY<MSG
+El misterioso robot,
+Monstruo X...<NOD
+Cuando la escotilla se abra...
+sera tu oportunidad de atacar.<NOD<END
+
+#0300
+<KEY<MSG
+Soy medico.<NOD
+Permiteme que cuide de ti.<NOD<CLO<LI+1000<SOU0020
+<FLJ0704:0304
+<FLJ0702:0303
+<ITJ0016:0302
+<FLJ0700:0301<FL+0700<WAI0050
+<MSG
+No temas, no te cobrare dinero.<NOD<CLR
+A cambio, te pido que aceptes un 
+pequeno favor...<NOD<CLR
+Hay una vieja clinica cerca.<NOD
+Ve alli y mira si todavia queda 
+alguna medicina dentro.<NOD<CLR
+<GIT1017<IT+0017Obtuviste la =Llave de la Clinica=.<NOD<GIT0000<END
+
+#0301
+<KEY<MSG
+La clinica esta bastante cerca.<NOD
+Cuando llegues, busca cualquier
+medicina util que este disponible.<NOD<END
+
+#0302
+<KEY<MSG<IT-0016<FL+0702
+<GIT1016Entregaste el =Cura-Todo=.<NOD<CLR<GIT0000
+¡Oh, lo encontraste!<NOD
+Gracias y perdon por las molestias.<NOD
+Por favor, deja el resto en mis manos.<NOD<END
+
+#0303
+<KEY<MSG
+Muchas gracias.<NOD
+Deja el resto en mis manos, por favor.<NOD<END
+
+#0304
+<KEY<MSG
+Parece que la medicina finalmente
+esta haciendo efecto.<NOD
+Ella se sentira mucho mejor pronto.<NOD
+Todo es gracias a ti.<NOD<END
+
+#0310
+<FLJ0704:0313
+<FLJ0702:0312
+<FLJ0701:0311
+<KEY<MSG
+Soy enfermera.<NOD
+Trabajaba en la clinica de al lado,<NOD
+pero un fantasma oscuro empezo a 
+rondarla, asi que hui y vine aqui.<NOD<END
+
+#0311
+<KEY<MSG
+¿Eres su amigo?<NOD
+Si quieres salvarla, sera mejor que
+hagas lo que dice el doctor.<NOD<END
+
+#0312
+<KEY<MSG
+Gracias por hacer lo necesario
+para ayudar a tu amiga.<NOD
+Dime, ¿todavia habia fantasmas?<NOD<END
+
+#0313
+<KEY<MSG
+¿Vienes a visitar a tu amiga?<NOD<CLR
+Si es a ella a quien buscas, se
+dirigio hacia la Camara de la Piedra.<NOD<END
+
+#0320
+<FLJ0702:0322
+<FLJ0701:0321<FL+0701
+<KEY<MSG<FAC1119
+¡Hola!<FAC1019<NOD<CLR<FAC1119
+Cuanto tiempo sin verte.<FAC1019<NOD<FAC1119
+¡Te ves genial!<FAC1019<NOD<CLR<FAC1119
+Asi que a ti tambien te encerro
+esa bruja de Misery.<FAC1019<NOD<FAC1119
+¡A mi tambien!<FAC1019<NOD<CLR<FAC1120
+Ni siquiera tu fuiste capaz de
+tener exito contra ellos.<FAC1020<NOD<FAC1120
+Tenia una pizca de esperanza...<FAC1020<NOD<CLR<FAC1120
+Al igual que tu, hice lo que pude.
+Y aqui es donde termine.<FAC1020<NOD<CLR
+.....<NOD<CLR<FAC1120
+Estoy decepcionada de mi misma.<FAC1020<NOD<FAC1120
+A la hora de la verdad,
+no pude protegerlos.<FAC1020<NOD<FAC1120
+Con este cuerpo 
+en este estado...<FAC1020<NOD<FAC1120
+...salir de aqui va a ser
+casi imposible...<FAC1020<NOD<END
+
+#0321
+<KEY<MSG<FAC1120
+He sobrevivido hasta ahora
+y todo eso...<FAC1020<NOD<FAC1120
+pero ¿que deberia hacer ahora?<FAC1020<NOD<CLR<FAC1120
+Acaso voy a quedarme aqui
+hasta pudrirme o algo asi?<FAC1020<NOD<END
+
+#0322
+<KEY<MSG<FAC1120
+Este es el legendario Laberinto.<FAC1020<NOD<FAC1120
+No se quien lo construyo, pero
+debe ser para algun tipo de
+recoleccion de basura.<FAC1020<NOD<CLR<FAC1120
+Solo hay una forma de escapar.<FAC1020<NOD<FAC1120
+Tendrias que mover una roca
+que se encuentra dentro de 
+una camara aparte.<FAC1020<NOD<CLR<FAC1120
+Iria contigo, pero en mi estado
+actual seria mas una carga 
+que una ayuda.<FAC1020<NOD<FL+0760<FL+0703<END
+
+#0400
+<KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
+<MSG
+Abriste el cofre del tesoro.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+<CMU0010Obtuviste la =Barrera de Armas=.<WAI0160<NOD<RMU<END
