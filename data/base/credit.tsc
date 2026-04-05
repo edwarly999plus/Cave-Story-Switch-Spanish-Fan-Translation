@@ -1,0 +1,360 @@
++0192
+!0033
+[  REPARTO]0000
+-0320
+[ DESDE LA SUPERFICIE ]0000-0064
+[ Adora a]0000-0016
+[ su hermano,]0001-0016
+[ Sue Sakamoto]0000-0064
+[ Un hermano]0000-0016
+[ algo fiable]0002-0016
+[ Kazuma Sakamoto]0000-0064
+[ La madre]0000-0016
+[ de Sue]0003-0016
+[ Momorin Sakamoto]0000-0064
+[ Figura de]0000-0016
+[ abuelo de Sue]0004-0016
+[ Booster]0000-0064
+[ El cobarde]0000-0016
+[ ingeniero Mimiga]0005-0016
+[ Itoh]0000-0064
+-0063
+[ ALDEA MIMIGA]0000-0064
+[ Amable y]0000-0016
+[ valiente]0013-0016
+[ Toroko]0000-0064
+[ El Lider]0000-0016
+[ ]0014-0016
+[ King]0000-0064
+[ El Numero Dos]0000-0016
+[ ]0015-0016
+[ Jack]0000-0064
+[ Come, come,]0000-0016
+[ y come]0016-0016
+[ Mahin]0000-0064
+[ El pescador]0000-0016
+[ ]0020-0016
+[ Kanpachi]0000-0064
+[ El granjero]0000-0016
+[ ]0019-0016
+[ Sandaime]0000-0064
+-0063
+[ ZONA DE ARBUSTOS ]0000-0064
+[ Un cobarde]0000-0016
+[ solitario]0017-0016
+[ Santa]0000-0064
+[ La Mimiga]0000-0016
+[ colorida]0018-0016
+[ Chako]0000-0064
+[ Robot de]0000-0016
+[ energia]0025-0016
+[ Malco]0000-0064
+-0063
+[ ZONA DE ARENA]0000-0064
+[ Aliada de]0000-0016
+[ los Mimiga]0007-0016
+[ Curly Brace]0000-0064
+[ Los ninos]0000-0016
+[ Mimiga]0008-0016
+[ Los Colones]0000-0064
+[ Guardiana de]0000-0016
+[ la Zona Arena]0009-0016
+[ Jenka]0000-0064
+-0031
+[ Cachorros de Jenka]0000-0032
+[ Hajime]0010-0032
+[ Shinobu]0010-0032
+[ Kakeru]0010-0032
+[ Mick]0010-0032
+[ Nene]0010-0064
+-0063
+[ LABERINTO]0000-0064
+[ Mercader de]0000-0016
+[ armas]0027-0016
+[ Chaba]0000-0064
+[ El medico]0000-0016
+[ local]0028-0016
+[ Dr. Gero]0000-0064
+[ ¡Soy una]0000-0016
+[ enfermera!]0029-0016
+[ Enfermera Hasumi]0000-0064
+-0063
+[ PLANTACION]0000-0064
+[ La pequena]0000-0016
+[ Mimiga]0023-0016
+[ Chie]0000-0064
+[ El abuelo]0000-0016
+[ Mimiga]0024-0016
+[ Zett]0000-0064
+[ Gestor de]0000-0016
+[ aspersores]0022-0016
+[ Megane]0000-0064
+[ Seguidores]0000-0016
+[ del Doctor]0021-0016
+[ Equipo Pala]0000-0064
+-0063
+
+f2000:0090
+[ VILLANOS]0000-0064
+[ Atraido por]0000-0016
+[ la Corona]0006-0016
+[ El Doctor]0000-0064
+[ Maldita por]0000-0016
+[ la Corona]0011-0016
+[ Misery]0000-0064
+[ Un nuevo]0000-0016
+[ amigo]012-0016
+[ Balrog]0000-0064
+-0063
+[ ADEMAS...]0000-0064
+[ El armero]0000-0016
+[ ermitanno]0035-0016
+[ Tetsuzou Kamadani]0000-0064
+[ Una seta]0000-0016
+[ sabrosa]0045-0016
+[ Ma Pignon]0000-0064
+[ Viven en el]0000-0016
+[ muro exterior]0000-0016
+[ Los Pequenos]0031-0064
+[ Los nativos]0000-0016
+[ enigmaticos]0032-0016
+[ Cthulhu]0000-0064
+[ El escultor]0000-0016
+[ ]0088-0016
+[ Numahachi]0000-0064
+-0063
+j0100
+
+l0090
+[ VILLANOS]0000-0064
+[ Atraido por]0000-0016
+[ la Corona]0006-0016
+[ El Doctor]0000-0064
+[ Maldita por]0000-0016
+[ la Corona]0011-0016
+[ Misery]0000-0064
+[ Un nuevo]0000-0016
+[ amigo]012-0016
+[ Balrog]0000-0064
+-0063
+[ ADEMAS]0000-0064
+[ El armero]0000-0016
+[ ermitanno]0035-0016
+[ Tetsuzou Kamadani]0000-0064
+[ Una seta]0000-0016
+[ sabrosa]0045-0016
+[ Ma Pignon]0000-0064
+[ Viven en el]0000-0016
+[ muro exterior]0000-0016
+[ Los Pequenos]0031-0064
+[ Los nativos]0000-0016
+[ enigmaticos]0032-0016
+[ Cthulhu]0000-0064
+[ El escultor]0000-0016
+[ ]0088-0016
+[ Numahachi]0000-0064
+-0063
+[ CAMARA DEL SELLO]0000-0064
+[ Hermano menor]0000-0016
+[ de Jenka]0103-0016
+[ Ballos]0000-0064
+l0100
+-0100
+~
+-0250
+!0001
++0032
+[ MONSTRUOS]0000-0032
+-0063
+[ Salta y brinca: Critter]0039-0048
+[ En cada cueva: Bat]0040-0048
+[ Poseida: La Puerta]0041-0048
+[ Carga furiosa: Behemoth]0048-0048
+[ Seta blanca: Pignon]0042-0048
+[ Vale la pena: Gran Pignon]0043-0048
+[ Solo hay uno: Egg Fish]0038-0048
+[ Te hace trizas: Sepulturero]0044-0048
+[ Muy Letal: Basil]0049-0048
+[ Insecto modelo: Beetle]0046-0048
+[ El gran volador: Basu]0047-0048
+[ El aplastador: Power Critter]0050-0048
+[ Fantasma de moho: Mannan]0051-0048
+[ Ranita: Petit]0054-0048
+[ Gran croadora: Rana]0055-0048
+[ Flota por ahi: Jelly]0052-0048
+[ Reina Jelly: Kurara]0053-0048
+[ Mimiga violento: Ravil]0057-0048
+[ Trampa mortal: Press]0056-0048
+[ Mordisco subito: Sandcroc]0061-0048
+[ Calavera errante: Skullhead]0063-0048
+[ Corredor de arena: Skullstep]0065-0048
+[ Enemigo blanco: Esqueleto]0062-0048
+[ Cazador de arena: Cuervo]0064-0048
+[ Misil resistente: Armadillo]0060-0048
+[ De uno, muchos: Polish]0059-0048
+[ Dispersos: Baby]0058-0048
+[ De Toroko: Flowercub]0066-0048
+[ Mora en el laberinto: Gaudi]0067-0048
+[ Guerrero laberintico: Armor]0068-0048
+[ Bebe laberintico: Gaudi Egg]0069-0048
+[ Fanatico del fuego: Fire Whirl]0071-0048
+[ Desconocido: Base Buyobuyo]0073-0048
+[ Y: Buyobuyo]0072-0048
+[ Espiritu Gaudi: Fuzz]0074-0048
+[ Nucleo de espiritus: Fuzz Core]0075-0048
+[ Un viejo amigo: Puercoespin]0076-0048
+[ Eclosion fallida: Dragon Zombie]0079-0048
+[ Tic tac: Bomba de Tiempo]0078-0048
+[ En el muro exterior: Night Ghost]0081-0048
+[ Salta: Hoppy]0082-0048
+[ Enemigo fotosintetico: Midorin]0085-0048
+[ Nacido de la tierra: Droll]0084-0048
+[ Trampolin: Gunfish]0086-0048
+[ Mama murcielago: Orangebell]0083-0048
+[ Libelula de plantacion: Stumpy]0087-0048
+
+f2000:0190j0200l0190
+-0002
+[ Mensajero infernal: Bute]0098-0048
+[ Mensajero infernal: Mesa]0099-0048
+[ Demonio inocente: Green Devil]0100-0048
+[ Rueda por los muros: Rolling]0094-0048
+[ Bloquea el paso: Delete]0095-0048
+l0200
+-0100
++0032
+[ JEFES]0000-0032
+-0063
+[ Mimiga rabioso que]0000-0016
+[ rapto a Sue]0091-0016
+[ Igor]0000-0064
+[ Misery transformo]0000-0016
+[ a Balrog en]0104-0016
+[ Balfrog]0000-0064
+[ Maquina que acecha]0000-0016
+[ en la arena]0105-0016
+[ Omega]0000-0064
+[ Comio una flor roja]0000-0016
+[ ]0108-0016
+[ Toroko +]0000-0064
+[ Fantasma de]0000-0016
+[ la clinica]0030-0016
+[ Puu Black]0000-0064
+[ Gran jefe del]0000-0016
+[ laberinto]0070-0016
+[ Monstruo X]0000-0064
+[ Corazon de]0000-0016
+[ la isla]0106-0016
+[ Nucleo]0000-0064
+[ Pez en la arteria]0000-0016
+[ de la isla]0077-0016
+[ Ironhead]0000-0064
+[ Ataque de dragones]0000-0016
+[ gemelos]0080-0016
+[ Hermanas]0000-0064
+[ Los heroes conocen]0000-0016
+[ al]0089-0016
+[ Ogro Rojo]0000-0064
+[ El cristal rojo]0000-0016
+[ se desboca]0109-0016
+[ Muscle Doctor]0000-0064
+[ El Doctor y el]0000-0016
+[ corazon de la isla]0107-0016
+[ Nucleo No Muerto]0000-0064
+f2000:0290j0300l0290
+-0002
+[ El meca hinchado]0000-0016
+[ ]0111-0016
+[ Heavy Press]0000-0064
+[ Odio y locura]0000-0016
+[ hechos carne]0110-0016
+[ Ballos]0000-0128
+l0300
+-0080
++0032
+[CREDITOS ]0000-0032
+-0031
+[Nicalis, Inc.]0000-0048
+
+[Director Ejecutivo]0000-0032
+[Victor Rodriguez]0000-0048
+
+[Productor Ejecutivo]0000-0032
+[Tyrone Rodriguez]0000-0048
+
+[Disenno]0000-0032
+[Daisuke Amaya]0000-0048
+
+[Programadores Jefe]0000-0032
+[Jeremy Stevens]0000-0032
+[John Goodrich]0000-0048
+
+[Programacion Adicional]0000-0032
+[Michael Shirt]0000-0032
+[Simon Parzer]0000-0032
+[Adrian Gavrilita]0000-0048
+
+[Artistas]0000-0032
+[Daisuke Amaya]0000-0032
+[Jon Davies]0000-0032
+[Tyrone Rodriguez]0000-0032
+[Wayne Kubiak]0000-0032
+[Michael Stevens]0000-0032
+[Britt Brady]0000-0048
+
+[Musica y Sonido]0000-0032
+[Daisuke Amaya]0000-0032
+[Yann van Der Cruyssen]0000-0032
+[Tadd Nuznov]0000-0032
+[Ridiculon]0000-0048
+
+[Director Tecnico]0000-0032
+[Roar Flolo]0000-0048
+
+[Productor]0000-0032
+[Monica Marume]0000-0048
+
+[Asistente de Produccion]0000-0032
+[Jessica Nicholas]0000-0048
+
+[Soporte de Produccion]0000-0032
+[Chris Bieniek]0000-0032
+[Etsuko Shirai]0000-0032
+[Marc Silva]0000-0032
+[Mark Major]0000-0048
+
+[Localizacion]0000-0032
+[Yoko Saito]0000-0032
+[Rie Hagihara]0000-0048
+
+[Testers]0000-0032
+[Jessica Nicholas]0000-0032
+[Glen Sato]0000-0032
+[Marc Silva]0000-0048
+
+[Muchas Gracias]0000-0032
+[Miria, Maxx, Martin, Mario]0000-0032
+[Steve y Mark]0000-0032
+[Haruhi y Tamami]0000-0032
+[y a ti!]0000-0048
+-0100
++0040
+
++0048
+-0032
+
+-0063
+[Muchas gracias!]0129-0032
+-0240
+p2:0390
++0225
+j0400
+l0390
++0241
+l0400
+[Cave Story+ El Final]0000
+-0280
+/
+
+<<<
+2000??????????
