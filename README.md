@@ -1,5 +1,7 @@
 # Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
+[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+
 ¡Bienvenido al repositorio del parche de traducción al español para la versión de **Nintendo Switch** de Cave Story+! 
 
 Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus mejoras de calidad de vida como la escalera del Laberinto y el sistema de multi-carga de perros de Jenka) a nuestro idioma, manteniendo la esencia original y evitando errores gráficos.
