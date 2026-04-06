@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cave Story+ Switch Spanish Translation</title>
+    <style>
+        /* FONDO ANIMADO: Estrellas en movimiento */
+        body {
+            background-color: #000;
+            /* GIF corregido por el usuario */
+            background-image: url('https://www.cavestory.org/images/moonsong-gif-edition.gif');
+            background-size: cover;
+            background-attachment: fixed;
+            color: #FFFFFF;
+            margin: 0;
+            font-family: "Verdana", sans-serif;
+            display: flex;
+            justify-content: center;
+        }
+
+        /* CAPA SEMI-TRANSPARENTE PARA LEER MEJOR */
+        .main-wrapper {
+            background: rgba(0, 0, 0, 0.85); 
+            max-width: 850px;
+            width: 100%;
+            min-height: 100vh;
+            border-left: 1px dashed #444;
+            border-right: 1px dashed #444;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-shadow: 0 0 50px rgba(0,0,0,1);
+        }
+
+        header {
+            width: 100%;
+            padding: 50px 0;
+            text-align: center;
+            border-bottom: 1px solid #333;
+        }
+
+        .container {
+            padding: 40px;
+            text-align: center;
+        }
+
+        .disclaimer-box {
+            background-color: rgba(255, 0, 0, 0.1);
+            border: 1px solid #ff4444;
+            color: #ff9999;
+            padding: 15px;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+        }
+
+        .status-badge {
+            background-color: #ffff00;
+            color: #000;
+            padding: 5px 15px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .download-card {
+            background-color: #111;
+            border: 1px solid #444;
+            padding: 35px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #0000AA;
+            color: white !important;
+            padding: 18px 35px;
+            text-decoration: none;
+            border: 1px solid white;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin: 20px 0;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #0000FF;
+            transform: scale(1.05);
+        }
+
+        h1 { color: #ffff00; text-shadow: 3px 3px #000; font-size: 2.5em; }
+        h3 { color: #00ff00; }
+        code { color: #00ff00; background: #000; padding: 2px 5px; }
+
+        /* ESTILO PARA EL SELLO CC */
+        .cc-license {
+            margin: 20px 0;
+            opacity: 0.8;
+            transition: 0.3s;
+        }
+        .cc-license:hover { opacity: 1; }
+
+        footer {
+            margin-top: auto;
+            padding: 40px 20px;
+            font-size: 0.8em;
+            color: #777;
+            text-align: center;
+            width: 100%;
+            border-top: 1px solid #222;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main-wrapper">
+        <header>
+            <h1>Cave Story+ Switch</h1>
+            <p style="color: #00ff00;">Traducción Fan-Made al Español</p>
+        </header>
+
+        <div class="container">
+            <div class="disclaimer-box">
+                <b>AVISO DE LEGALIDAD:</b> Este sitio NO ofrece descargas del juego original (archivos NARC, ROM o ejecutables). 
+                Aquí solo encontrarás el parche de traducción (.tsc y archivos de datos). 
+                Es necesario tener el juego original comprado para usar este parche.
+            </div>
+
+            <p><span class="status-badge">PROGRESO: 45%</span></p>
+            <p>Estado: Hasta <strong>Cámara de la Roca</strong> (Próximamente: El Laberinto).</p>
+
+            <div class="download-card">
+                <h3>Zona de Descarga</h3>
+                <p>Baja los archivos de traducción para Atmosphere (LayeredFS):</p>
+                <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/archive/refs/heads/main.zip" class="btn">
+                    DESCARGAR PARCHE (.ZIP)
+                </a>
+            </div>
+
+            <div style="text-align: left; margin-top: 40px; background: #0a0a0a; padding: 20px; border: 1px solid #222;">
+                <b>Cómo instalar:</b>
+                <ol>
+                    <li>Extrae el contenido en tu tarjeta SD.</li>
+                    <li>Ruta: <code>/atmosphere/contents/01007D4002682000/romfs/data/</code></li>
+                </ol>
+            </div>
+        </div>
+
+        <footer>
+            <p>Cave Story es propiedad de Studio Pixel / Nicalis. Proyecto inspirado en TraduSquare.</p>
+            
+            <div class="cc-license">
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                    <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+                </a>
+                <br />
+                Esta traducción se distribuye bajo una <br>
+                <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: #777; text-decoration: none;">Licencia CC BY-NC-SA 4.0</a>
+            </div>
+
+            <p style="margin-top: 15px;"><a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation" style="color: #ffff00;">Ir al Repositorio de GitHub</a></p>
+        </footer>
+    </div>
+
+</body>
+</html>
