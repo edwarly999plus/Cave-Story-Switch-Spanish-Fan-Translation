@@ -13,13 +13,6 @@
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licencia CC BY-NC-SA 4.0">
   </a>
 
-  <p align="center">
-  <!-- Botón oficial de Creative Commons -->
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
-    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Botón CC BY-NC-SA">
-  </a>
-</p>
-
 ¡Bienvenido al repositorio del parche de traducción al español para la versión de **Nintendo Switch** de Cave Story+! 
 
 Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus mejoras de calidad de vida como la escalera del Laberinto y el sistema de multi-carga de perros de Jenka) a nuestro idioma, manteniendo la esencia original y evitando errores gráficos.
@@ -62,7 +55,15 @@ Este repositorio **solo contiene archivos editados por fans**. No se distribuye 
 
 ---
 
-## ⚖️ Licencia y Legalidad
+## ⚖️ Licencia y Legalidad   
+
+<p align="left">
+  <!-- Botón oficial de Creative Commons -->
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
+    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Botón CC BY-NC-SA">
+  </a>
+</p>
+
 Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 * **Uso libre:** Puedes compartir y adaptar el material.
 * **No Comercial:** No se permite la venta ni lucro derivado de esta traducción.
