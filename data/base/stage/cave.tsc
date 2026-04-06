@@ -45,6 +45,6 @@
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Conseguiste una Capsula de energia!.<WAI0160<NOD<RMU<ML+0003
+Obtuviste una =Capsula de energia=!.<WAI0160<NOD<RMU<ML+0003
 Salud incrementada +3.<NOD<END
 
