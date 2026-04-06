@@ -41,9 +41,10 @@
 El texto se muestra en pantalla...<NOD<CLR<TUR
 "Kazuma: pero, que sepas, si llego
 a ese punto lo hare..."<NOD<FLJ0153:0000<CLR<MSG
-Permitir teletransporte al Corredor de Huevos?<YNJ0000<CLR
-Corredor de Huevos ahora accesible via
-teletransporte.<NOD<FL+0153<PS+0001:6001<END
+Permitir teletransporte al 
+Corredor de Huevos?<YNJ0000<CLR
+Corredor de Huevos ahora es 
+accesible via teletransporte.<NOD<FL+0153<PS+0001:6001<END
 #0201
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR
@@ -60,7 +61,7 @@ Conectado a la Zona Arenosa.<NOD<END
 #0205
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR<TUR
-Teletransporte al Corredor de Huevos...
+Ven al Corredor de Huevos...
  - Kazuma<NOD<END
 #0210
 <KEY<MSG
