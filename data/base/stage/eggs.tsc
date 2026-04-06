@@ -56,12 +56,12 @@ Su toque es tan mortal como parece.<NOD<END
 #0400
 <PRI<FL+0101<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Obtuviste una Capsula de Energia.<WAI0160<NOD<RMU<ML+0003
+Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0003
 Vida maxima aumentada en 3.<NOD<END
 #0401
 <PRI<FL+0102<SOU0022<DNP0401<CLR<CMU0016
 <MSG<GIT1006
-Obtuviste una Capsula de Energia.<WAI0160<NOD<RMU<ML+0004
+Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0004
 Vida maxima aumentada en 4.<NOD<END
 #0500
 <2MV0120
