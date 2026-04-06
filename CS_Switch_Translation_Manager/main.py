@@ -7,7 +7,7 @@ import threading
 import re
 from datetime import datetime
 
-# --- VALIDACIONES ---
+# --- VALIDACIONES (Para Evitar Escribir En La Versión De Steam) ---
 
 def validar_faceanm(ruta):
     """Verifica la cabecera oficial de Switch."""
