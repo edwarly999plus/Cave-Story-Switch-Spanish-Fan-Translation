@@ -77,7 +77,7 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 ## 🤝 Créditos
 * **Desarrollador Original:** [Studio Pixel](https://www.studiopixel.jp/) (Daisuke Amaya).
 * **Editor/Port:** [Nicalis, Inc.](https://www.nicalis.com/)
-* **Traducción y Edición:** [Tu Nombre o Nick Aquí]
+* **Traducción y Edición:** [EdwarlyGamer999+](https://www.youtube.com/@EdwarlyGamer999plusxd) (Yo).
 
 ## 💬 Colaboración
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
