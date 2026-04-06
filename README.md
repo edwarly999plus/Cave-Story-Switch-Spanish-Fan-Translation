@@ -12,7 +12,8 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licencia CC BY-NC-SA 4.0">
   </a>
-  
+
+  <p align="center">
   <!-- Botón oficial de Creative Commons -->
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
     <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Botón CC BY-NC-SA">
