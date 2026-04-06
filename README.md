@@ -1,6 +1,20 @@
 # Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
-[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+<!-- Insignias -->
+<p align="left">
+  <!-- Estado de traducción (verde) -->
+  <img src="https://img.shields.io/badge/Estado%20de%20traducción-45%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 45%">
+  
+  <!-- Licencia CC BY-NC-SA 4.0 (insignia personalizada) -->
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
+    <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licencia CC BY-NC-SA 4.0">
+  </a>
+  
+  <!-- Botón oficial de Creative Commons -->
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
+    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="Botón CC BY-NC-SA">
+  </a>
+</p>
 
 ¡Bienvenido al repositorio del parche de traducción al español para la versión de **Nintendo Switch** de Cave Story+! 
 
@@ -52,14 +66,6 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 * **Compartir Igual:** Las obras derivadas deben usar esta misma licencia.
 
 **Aviso Legal:** Este es un proyecto de fans sin fines de lucro. No estoy afiliado a Studio Pixel ni a Nicalis. Este repositorio **NO contiene el juego completo**, código fuente original de C++, archivos `.nso`, `.nro` ni ejecutables. Se requiere el juego original para utilizar estos archivos.
-
-Este contenido se distribuye bajo la licencia
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 ---
 
