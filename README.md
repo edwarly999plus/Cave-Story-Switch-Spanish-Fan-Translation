@@ -2,8 +2,11 @@
 
 <!-- Insignias -->
 <p align="left">
+  
   <!-- Estado de traducción (verde) -->
   <img src="https://img.shields.io/badge/Estado%20de%20traducción-45%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 45%">
+
+  <img src="https://img.shields.io/badge/Estado%20de%20traducción%20(Mods)-5%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 5%">
   
   <!-- Licencia CC BY-NC-SA 4.0 (insignia personalizada) -->
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
