@@ -19,6 +19,29 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 
 ---
 
+## 🛠️ Requisito previo: Instalar Python
+
+Para utilizar el **Instalador del Parche**, es necesario tener instalado Python (v3.13 o superior). Aquí tienes cómo obtenerlo según tu sistema:
+
+### **Windows**
+* **Método Rápido (Recomendado):** Abre una terminal (CMD o PowerShell) y escribe:
+    ```bash
+    winget install -e --id Python.Launcher
+    ```
+* **Microsoft Store:** [Descargar desde MS Store](https://apps.microsoft.com/store/detail/python-313/9PJ7PRS2DGQC)
+* **Instalador Manual:** [Descargar .exe de Python.org](https://www.python.org/downloads/windows/) (Recuerda marcar **"Add Python to PATH"**).
+
+### **macOS**
+* **Instalador oficial:** [Descargar .pkg](https://www.python.org/ftp/python/3.13.0/python-3.13.0-macos11.pkg)
+
+### **Linux**
+* Utiliza tu gestor de paquetes:
+    ```bash
+    # Ubuntu/Debian
+    sudo apt install python3
+    ```
+  ---
+  
 ## 🛠️ Estado del Proyecto
 * **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el core).
 * **Mods y Contenido Extra:** No traducidos (¡Se buscan colaboradores!).
