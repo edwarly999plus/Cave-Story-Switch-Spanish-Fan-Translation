@@ -34,8 +34,12 @@
 
 # Executables
 *.exe
-*.out
-*.app
+
+# Nintendo Switch Rom Files
+*.nsp
+*.xci
+*.narc
+*.rom
 
 # debug information files
 *.dwo
