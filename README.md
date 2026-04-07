@@ -19,28 +19,38 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 
 ---
 
-## 🛠️ Requisito previo: Instalar Python (Opcional, si no quieres dañar tu juego moviendo archivos manualmente usa el Instalador Del Parche)
+## 🛠️ Paso 1: Instalar Python (Opcional, pero Recomendado)
 
-Para utilizar el **Instalador del Parche**, es necesario tener instalado Python (v3.13 o superior). Aquí tienes cómo obtenerlo según tu sistema:
+Aunque puedes copiar los archivos manualmente, **se recomienda encarecidamente usar el instalador** para asegurar una instalación limpia y sin errores en tu consola.
 
 ### **Windows**
-* **Método Rápido (Recomendado):** Abre una terminal (CMD o PowerShell) y escribe:
+* **Método Rápido:** Abre una terminal (CMD o PowerShell) y escribe:
     ```bash
     winget install -e --id Python.Launcher
     ```
-* **Microsoft Store:** [Descargar desde MS Store](https://apps.microsoft.com/store/detail/python-313/9PJ7PRS2DGQC)
-* **Instalador Manual:** [Descargar .exe de Python.org](https://www.python.org/downloads/windows/) (Recuerda marcar **"Add Python to PATH"**).
+* **Otras opciones:** [Microsoft Store](https://apps.microsoft.com/store/detail/python-313/9PJ7PRS2DGQC) o [Instalador Manual](https://www.python.org/downloads/windows/).
 
-### **macOS**
-* **Instalador oficial:** [Descargar .pkg](https://www.python.org/ftp/python/3.13.0/python-3.13.0-macos11.pkg)
+### **macOS / Linux**
+* **Mac:** [Descargar .pkg](https://www.python.org/ftp/python/3.13.0/python-3.13.0-macos11.pkg)
+* **Linux:** `sudo apt install python3`
 
-### **Linux**
-* Utiliza tu gestor de paquetes:
-    ```bash
-    # Ubuntu/Debian
-    sudo apt install python3
-    ```
-  ---
+---
+
+## 📥 Paso 2: Cómo Instalar el Parche
+
+### **Opción A: Usando el Instalador (Más Seguro ✅)**
+1. Descarga y extrae el archivo `.zip` del repositorio.
+2. Ejecuta `Instalador Del Parche.py`.
+3. El programa preparará los archivos automáticamente para tu Switch.
+4. Copia la carpeta resultante en tu SD.
+
+### **Opción B: Instalación Manual (Avanzado ⚠️)**
+Si prefieres no usar Python, puedes copiar la carpeta `01007D4002682000` directamente en:
+`SD:/atmosphere/contents/`
+
+*Nota: Asegúrate de respetar la estructura de carpetas `romfs/data/` para que el juego reconozca los cambios.*
+
+---
   
 ## 🛠️ Estado del Proyecto
 * **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el core).
