@@ -20,7 +20,7 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 ---
 
 ## 🛠️ Estado del Proyecto
-* **Campaña Principal:** En desarrollo (Falta pulir algunas cosas).
+* **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el core).
 * **Mods y Contenido Extra:** No traducidos (¡Se buscan colaboradores!).
 * **Compatibilidad:** Probado en Nintendo Switch y doukutsu-rs.
 
