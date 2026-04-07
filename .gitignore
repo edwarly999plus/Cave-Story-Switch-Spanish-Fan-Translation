@@ -41,5 +41,13 @@
 *.narc
 *.rom
 
+# Cave Story Code Files
+*.tbl
+*.bin
+*.wav
+*.ogg
+*.org
+*.bmp
+
 # debug information files
 *.dwo
