@@ -19,7 +19,7 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 
 ---
 
-## 🛠️ Requisito previo: Instalar Python
+## 🛠️ Requisito previo: Instalar Python (Opcional, si no quieres dañar tu juego moviendo archivos manualmente usa el Instalador Del Parche)
 
 Para utilizar el **Instalador del Parche**, es necesario tener instalado Python (v3.13 o superior). Aquí tienes cómo obtenerlo según tu sistema:
 
