@@ -1,5 +1,10 @@
 # Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
+<p align="center">
+  <b>Cambiar idioma / Change language / 言語を選択:</b><br>
+  Español 🇪🇸 | <a href="README.en.md">English 🇺🇸</a> | <a href="README.ja.md">日本語 🇯🇵</a>
+</p>
+
 <!-- Insignias -->
 <p align="left">
   
