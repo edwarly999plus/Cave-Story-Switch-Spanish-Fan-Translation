@@ -1,4 +1,4 @@
-# Cave Story+ (Nintendo Switch) - Traducción al Español
+# <p align="center"> Cave Story+ (Nintendo Switch) - Traducción al Español
 
 <p align="center">
   <img width="256" height="256" alt="csnssptlogo" src="https://github.com/user-attachments/assets/082a78cb-6e1b-4000-8b36-5262d70fc5d4" />
@@ -10,7 +10,7 @@
 </p>
 
 <!-- Insignias -->
-<p align="left">
+<p align="center">
   
   <!-- Estado de traducción (verde) -->
   <img src="https://img.shields.io/badge/Estado%20de%20traducción-56%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 56%">
