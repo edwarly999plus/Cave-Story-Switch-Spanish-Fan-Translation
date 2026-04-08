@@ -1,8 +1,8 @@
 # Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
 <p align="center">
-  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/latest">
-  <a href="https://github.com/edwarly999plus//releases/latest">
+  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
+  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
     <img src="https://img.shields.io/badge/DESCARGAR_PARCHE_AQUÍ-¡ÚLTIMA_VERSIÓN!-orange?style=for-the-badge&logo=github" alt="Descargar Parche">
   </a>
   <br>
