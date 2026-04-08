@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cambiar idioma / Change language / 言語を選択:</b><br>
-  Español 🇪🇸 | <a href="README.en.md">English 🇺🇸</a> | <a href="README.ja.md">日本語 🇯🇵</a>
+  Español 🇪🇸 | <a href="Readme_Langs/README_ENG.md">English 🇺🇸</a> | <a href="Readme_Langs/README_JP.md">日本語 🇯🇵</a>
 </p>
 
 <!-- Insignias -->
