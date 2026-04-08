@@ -36,6 +36,33 @@
 
 Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus mejoras de calidad de vida como la escalera del Laberinto y el sistema de multi-carga de perros de Jenka) a nuestro idioma, manteniendo la esencia original y evitando errores gráficos.
 
+### 1. Menús e Interfaz
+<p align="left">
+  <img width="852" height="477" alt="Comandos principales en español" src="https://github.com/user-attachments/assets/c7e0ea81-faf5-4932-9dd8-65bf11ecea7f" />
+</p>
+
+*Edición de botones SÍ/NO y menús de sistema para evitar errores gráficos.*
+
+---
+
+### 2. Inventario y Objetos
+<p align="left">
+  <img width="848" height="476" alt="Inventario en español" src="https://github.com/user-attachments/assets/441baf49-33f0-4960-944b-56f49426042d" />
+</p>
+
+*Descripciones de armas y objetos clave localizadas.*
+
+---
+
+### 3. Diálogos y Cinemáticas
+<p align="left">
+  <img width="853" height="475" alt="Corredor De Huevos 2" src="https://github.com/user-attachments/assets/4b0f70b0-8c04-4a55-be20-8fa16ce96243" />
+
+<img width="853" height="474" alt="Kazuma" src="https://github.com/user-attachments/assets/abd6f80e-bd68-475b-b35d-eeb80f2d6798" />
+</p>
+
+*Textos adaptados para una lectura fluida, respetando la personalidad de cada personaje.*
+
 ---
 
 ## 🛠️ Paso 1: Instalar Python (Opcional, pero Recomendado)
