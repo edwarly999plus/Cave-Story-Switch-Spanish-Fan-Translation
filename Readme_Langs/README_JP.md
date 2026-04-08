@@ -1,7 +1,7 @@
 # 洞窟物語+ (Nintendo Switch) - スペイン語翻訳パッチ (ファン翻訳)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/翻訳ステータス-45%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="翻訳 45%">
+  <img src="https://img.shields.io/badge/翻訳ステータス-56%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="翻訳 56%">
   <img src="https://img.shields.io/badge/MOD翻訳-5%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Mod 5%">
   
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">
