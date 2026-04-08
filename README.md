@@ -78,7 +78,7 @@ Aunque puedes copiar los archivos manualmente, **se recomienda encarecidamente u
     ```bash
     winget install -e --id Python.Launcher
     ```
-* **Otras opciones:** [Microsoft Store](https://apps.microsoft.com/store/detail/python-313/9PJ7PRS2DGQC) o [Instalador Manual](https://www.python.org/downloads/windows/).
+* **Otras opciones:** [Microsoft Store](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US) o [Instalador Manual](https://www.python.org/downloads/windows/).
 
 ### **macOS / Linux**
 * **Mac:** [Descargar .pkg](https://www.python.org/ftp/python/3.13.0/python-3.13.0-macos11.pkg)
