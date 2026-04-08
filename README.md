@@ -9,7 +9,7 @@
 <p align="left">
   
   <!-- Estado de traducción (verde) -->
-  <img src="https://img.shields.io/badge/Estado%20de%20traducción-45%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 45%">
+  <img src="https://img.shields.io/badge/Estado%20de%20traducción-56%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 56%">
 
   <img src="https://img.shields.io/badge/Estado%20de%20traducción%20(Mods)-5%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 5%">
   
@@ -58,7 +58,7 @@ Si prefieres no usar Python, puedes copiar la carpeta `01007D4002682000` directa
 ---
   
 ## 🛠️ Estado del Proyecto
-* **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el core).
+* **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el Corredor De Huevos?).
 * **Mods y Contenido Extra:** No traducidos (¡Se buscan colaboradores!).
 * **Compatibilidad:** Probado en Nintendo Switch y doukutsu-rs.
 
