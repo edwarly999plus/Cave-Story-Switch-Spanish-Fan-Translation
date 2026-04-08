@@ -62,9 +62,8 @@ causa el mayor dano.<WAI9999<END
 #1013
 <MSG<TUR=Spur=<WAI0050
 =Spur=
-Manten pulsado el boton de
-disparo para aumentar el
-poder de esta arma.<WAI9999<END
+Manten pulsado el boton de disparo 
+para aumentar el poder de disparo.<WAI9999<END
 
 #1100
 <FLJ3001:1105
@@ -381,8 +380,9 @@ Pone "Clinica del Laberinto".<WAI9999<END
 #6018
 <FLJ0742:7018
 <KEY<MSG
-Pulsa el boton de salto mientras estes en el aire
-para impulsarte durante un tiempo limitado.<NOD<CLR
+Pulsa el boton de salto mientras 
+estes en el aire para impulsarte 
+durante un tiempo limitado.<NOD<CLR
 Equiparlo?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
 Booster equipado.<NOD<WAI0003<FRE<EVE5018
 #6019
@@ -404,8 +404,9 @@ No tiene botones.<WAI9999<END
 #6023
 <FLJ0743:7023
 <KEY<MSG
-Pulsa el boton de salto mientras estes en el aire
-para impulsarte en una de cuatro direcciones.<NOD<CLR
+Pulsa el boton de salto en el aire y
+podras impulsarte en una de 
+las cuatro direcciones.<NOD<CLR
 Quieres equiparlo?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
 Booster v2.0 equipado.<NOD<WAI0003<FRE<EVE5023
 #6024
