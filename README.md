@@ -1,8 +1,8 @@
+# Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
+
 <p align="center">
   <img width="256" height="256" alt="csnssptlogo" src="https://github.com/user-attachments/assets/082a78cb-6e1b-4000-8b36-5262d70fc5d4" />
 </p>
-
-# Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
 <p align="center">
   <b>Cambiar idioma / Change language / 言語を選択:</b><br>
