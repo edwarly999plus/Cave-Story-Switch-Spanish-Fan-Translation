@@ -88,7 +88,7 @@ def proceso_instalar(path_zip, path_dest, root):
             miembros = [m for m in zr.namelist() if m.startswith('data/')]
             for i, m in enumerate(miembros):
                 zr.extract(m, temp_dir)
-                loading.actualizar(20 + (i/len(miembros)*30), "EXTRAYENDO PARCHE...", os.path.basename(m))
+                loading.actualizar(20 + (i/len(miembros)*30), "EXTRAYENDO PARCHE, NO APAGUE EL PC...", os.path.basename(m))
 
         # 3. Aplicar Parche
         src_data = os.path.join(temp_dir, "data")
@@ -193,6 +193,6 @@ tk.Button(root, text="INSTALAR TRADUCCIÓN", command=lanzar_instalar,
 tk.Button(root, text="RESTAURAR ORIGINALES", command=lanzar_restaurar, 
           bg="#333", fg="#fff", font=("Verdana", 10, "bold"), width=30, pady=12).pack(pady=10)
 
-tk.Label(root, text="Versión sin dependencias externas.", fg="#444", bg="#000", font=("Verdana", 7)).pack(side="bottom", pady=15)
+tk.Label(root, text="V1.0.", fg="#444", bg="#000", font=("Verdana", 7)).pack(side="bottom", pady=15)
 
 root.mainloop()
