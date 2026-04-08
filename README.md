@@ -1,19 +1,6 @@
 # Cave Story+ (Nintendo Switch) - Traducción al Español (Fan-Translation)
 
 <p align="center">
-  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
-  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
-    <img src="https://img.shields.io/badge/DESCARGAR_PARCHE_AQUÍ-¡ÚLTIMA_VERSIÓN!-orange?style=for-the-badge&logo=github" alt="Descargar Parche">
-  </a>
-  <br>
-  <em>(Haz clic arriba para ir a la sección de descargas / Click above to go to the download section)</em>
-</p>
-
-> [!IMPORTANT]
-> **Nota sobre Pre-release:** Al ser una versión de prueba, la descarga se encuentra en la sección de "Releases". Asegúrate de descargar el archivo `.zip` que contiene el instalador.
-
-
-<p align="center">
   <b>Cambiar idioma / Change language / 言語を選択:</b><br>
   Español 🇪🇸 | <a href="Readme_Langs/README_ENG.md">English 🇺🇸</a> | <a href="Readme_Langs/README_JP.md">日本語 🇯🇵</a>
 </p>
@@ -30,6 +17,20 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white" alt="Licencia CC BY-NC-SA 4.0">
   </a>
+
+<p align="center">
+  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
+  <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases/latest">
+    <img src="https://img.shields.io/badge/DESCARGAR_PARCHE_AQUÍ-¡ÚLTIMA_VERSIÓN!-orange?style=for-the-badge&logo=github" alt="Descargar Parche">
+  </a>
+  <br>
+  <em>(Haz clic arriba para ir a la sección de descargas / Click above to go to the download section)</em>
+</p>
+
+> [!IMPORTANT]
+> **Nota sobre Pre-release:** Al ser una versión de prueba, la descarga se encuentra en la sección de "Releases". Asegúrate de descargar el archivo `.zip` que contiene el instalador.
+
+## 🔨 Sobre El Proyecto
 
 ¡Bienvenido al repositorio del parche de traducción al español para la versión de **Nintendo Switch** de Cave Story+! 
 
