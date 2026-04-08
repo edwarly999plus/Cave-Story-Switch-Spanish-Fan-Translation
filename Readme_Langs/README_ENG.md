@@ -1,7 +1,7 @@
 # Cave Story+ (Nintendo Switch) - Spanish Fan-Translation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Translation%20Status-45%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Translation 45%">
+  <img src="https://img.shields.io/badge/Translation%20Status-56%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Translation 56%">
   <img src="https://img.shields.io/badge/Mods%20Status-5%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Mods 5%">
   
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -49,7 +49,7 @@ If you prefer not to use Python, copy the `01007D4002682000` folder directly to:
 ---
 
 ## 🛠️ Project Status
-* **Main Campaign:** In development (Translated up to the Core; currently polishing final segments).
+* **Main Campaign:** In development (56%).
 * **Mods & Extra Content:** Not translated yet (Collaborators welcome!).
 * **Compatibility:** Tested on Nintendo Switch hardware and **doukutsu-rs**.
 
