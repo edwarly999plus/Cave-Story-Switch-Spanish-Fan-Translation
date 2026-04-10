@@ -1,1 +1,2 @@
 *.tsc text linguist-language=TypeScript
+index.html linguist-vendored
