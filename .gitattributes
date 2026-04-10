@@ -1,2 +1,2 @@
-*.tsc text
+*.tsc text linguist-language=TypeScript
 *.tsc linguist-language=TypeScript
