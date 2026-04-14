@@ -42,6 +42,7 @@
 *.rom
 
 # Cave Story Code Files
+*.pxm
 *.tbl
 *.bin
 *.wav
