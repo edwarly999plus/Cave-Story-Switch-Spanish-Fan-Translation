@@ -128,7 +128,31 @@ Debido a limitaciones en el renderizado de fuentes de la versión de Switch, est
 Este repositorio **solo contiene archivos editados por fans**. No se distribuye ninguna parte protegida del código original:
 * `/data/*.tsc`: Scripts de eventos y diálogos traducidos (formato de texto plano).
 * `/data/Stage/*.png`: Elementos de interfaz y diálogos incrustados en imágenes (revisados uno a uno).
+* `/data_base` Archivos de referencia en inglés NO TOCAR
 * Está **ESTRICTAMENTE PROHIBIDO** subir el código del juego como `pxm`, `pxe`, `nso`, `tbl`, `nro`, etc. (si llegara a pasar los archivos seran eliminados).
+
+---
+
+
+### 🛠️ Reglas de Contribución y Seguridad (CODEOWNERS)
+
+Para garantizar la estabilidad de la traducción y evitar errores críticos en el motor del juego (Switch), este repositorio cuenta con reglas estrictas de protección de ramas:
+
+#### 1. 🛡️ Protección de Integridad (Archivos `.tsc`)
+* **Mecánicas Intactas:** Está terminantemente prohibido alterar, mover o eliminar cualquier comando de lógica del juego. Esto incluye, pero no se limita a: `<FLJ`, `<EVE`, `<TRA`, `<ANP`, `<GIT`, `<IT+`, `<IT-`, `<ML+`.
+* **Solo Traducción:** Las contribuciones deben limitarse exclusivamente al texto contenido dentro de las etiquetas `<MSG>`. Cualquier cambio fuera de estas etiquetas resultará en el rechazo inmediato del Pull Request.
+
+#### 2. 🗂️ Estructura de Carpetas
+* **`data/` (Principal):** Es la carpeta de trabajo donde se aplica la traducción al español.
+* **`data_base/` (Backup):** Contiene los archivos originales en inglés. **NO SE DEBE EDITAR**. Esta carpeta funciona como punto de referencia técnica para comparar y reparar scripts dañados.
+
+#### 3. 🔐 Flujo de Revisión (Code Owners)
+* **Revisión Obligatoria:** El usuario **@edwarly999plus** ha sido configurado como **Code Owner** de las carpetas de datos.
+* **Aprobación Manual:** Ningún cambio (Pull Request) será integrado a la rama principal sin la revisión y aprobación manual del dueño del proyecto. Esto previene la vandalización de scripts o la introducción de bugs que crasheen el juego.
+
+#### 4. 📝 Formato de Texto
+* Se debe respetar el límite de líneas de los cuadros de texto originales (31-36 Max.) para evitar que el texto se corte en la pantalla de la consola.
+* **IMPORTANTE:** No usar tildes ni eñes en los archivos `.tsc` para garantizar compatibilidad total con el motor de la consola y evitar caracteres extraños.
 
 ---
 
