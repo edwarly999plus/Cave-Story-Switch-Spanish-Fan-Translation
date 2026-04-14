@@ -43,6 +43,8 @@
 
 # Cave Story Code Files
 *.pxm
+*.pxbg
+*.pxatr
 *.tbl
 *.bin
 *.wav
