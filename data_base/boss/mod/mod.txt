@@ -1,0 +1,4 @@
+WCVE
+-1
+GameMode_BossAttack
+Challenge EVERY boss!
