@@ -65,6 +65,9 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 <img width="853" height="474" alt="Kazuma" src="https://github.com/user-attachments/assets/abd6f80e-bd68-475b-b35d-eeb80f2d6798" />
 </p>
 
+<img width="847" height="472" alt="image" src="https://github.com/user-attachments/assets/e29dc171-ed8b-4216-b3df-85829ac9ea16" />
+
+
 *Textos adaptados para una lectura fluida, respetando la personalidad de cada personaje.*
 
 ---
