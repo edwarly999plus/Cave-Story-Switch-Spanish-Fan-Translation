@@ -56,3 +56,6 @@
 
 # debug information files
 *.dwo
+
+# auto backup files
+*.bak
