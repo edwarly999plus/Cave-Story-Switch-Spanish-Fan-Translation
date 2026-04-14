@@ -11,7 +11,7 @@
             background-image: url('https://www.cavestory.org/images/moonsong-gif-edition.gif');
             background-size: cover;
             background-position: center;
-            background-attachment: scroll; /* Cambiado de fixed a scroll para mejor soporte móvil */
+            background-attachment: scroll; 
             color: #FFFFFF;
             margin: 0;
             padding: 0;
@@ -38,7 +38,7 @@
             border-right: 1px dashed #444;
             display: flex;
             flex-direction: column;
-            box-sizing: border-box; /* Asegura que el padding no rompa el ancho */
+            box-sizing: border-box; 
         }
 
         header {
@@ -47,6 +47,16 @@
             text-align: center;
             border-bottom: 1px solid #333;
             box-sizing: border-box;
+        }
+
+        /* Estilo para el LOGO oficial */
+        .main-logo {
+            max-width: 85%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        @media (min-width: 600px) {
+            .main-logo { max-width: 380px; }
         }
 
         .container {
@@ -82,9 +92,8 @@
             border-radius: 8px;
         }
 
-        /* Botones amigables para dedos (Touch Friendly) */
         .btn {
-            display: block; /* Ocupa ancho completo en móvil */
+            display: block;
             background-color: #0000AA;
             color: white !important;
             padding: 20px;
@@ -103,11 +112,9 @@
 
         .btn:active { background-color: #0000FF; transform: scale(0.98); }
 
-        h1 { color: #ffff00; text-shadow: 2px 2px #000; font-size: 2em; margin: 0; }
         h3 { color: #00ff00; margin-top: 0; }
         code { color: #00ff00; background: #000; padding: 2px 5px; word-break: break-all; }
 
-        /* Ajustes para los cuadros de Python en móvil */
         .info-section {
             text-align: left; 
             background: #1a1a1a; 
@@ -126,7 +133,7 @@
 
         .flex-item {
             flex: 1; 
-            min-width: 250px; /* Se apila en móviles pequeños */
+            min-width: 250px; 
             background: #222; 
             padding: 15px; 
             border: 1px solid #333; 
@@ -144,14 +151,13 @@
 
         a.link-footer { color: #ffff00; text-decoration: none; }
 
-        /* Estilo para el comando de terminal */
         .terminal-box {
             background: #000; 
             padding: 12px; 
             border: 1px solid #333; 
             border-radius: 5px; 
             margin: 10px 0;
-            overflow-x: auto; /* Scroll horizontal si el comando es largo */
+            overflow-x: auto;
         }
     </style>
 </head>
@@ -159,8 +165,8 @@
 
     <div class="main-wrapper">
         <header>
-            <h1>Cave Story+ Switch</h1>
-            <p style="color: #00ff00; margin-top: 10px;">Traducción Fan-Made al Español</p>
+            <img src="https://upload.wikimedia.org/wikipedia/fr/7/73/Cave_Story%2B_Logo.png" alt="Cave Story+ Logo" class="main-logo">
+            <p style="color: #00ff00; margin-top: 10px; font-weight: bold; font-size: 1.1em;">Traducción Fan-Made al Español</p>
         </header>
 
         <div class="container">
