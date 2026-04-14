@@ -46,6 +46,8 @@
 *.bin
 *.wav
 *.ogg
+*.pxa
+*.pxe
 *.org
 *.bmp
 
