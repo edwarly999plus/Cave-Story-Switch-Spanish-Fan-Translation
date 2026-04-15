@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0008<FAI0000<END
 #0091
@@ -22,37 +21,36 @@
 
 #0200
 <KEY<MSG
-The destination is unknown.<NOD
-Do you still wish to teleport?<YNJ0000<CLO<FL+0524
+El destino es desconocido.<NOD
+Aun asi deseas teletransportarte?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0018:0010
 
 
 #0400
 <PRI<MSG
-Oh, you're a killer robot?<NOD<CLR
-You've come to kill us?<NOD<END
+Oh, ¿eres un robot asesino?<NOD<CLR
+¿Has venido a matarnos?<NOD<END
 #0401
 <PRI<MSG
-Let us outta here!<NOD<END
+¡Sacanos de aqui!<NOD<END
 #0402
 <PRI<MSG
-The Doctor can eat it!<NOD<END
+¡El Doctor puede irse al infierno!<NOD<END
 
 #0403
 <PRI<MSG
-The Mimiga working the farm are being
-tricked by the Doctor!<NOD<CLR
-He's planning on making us fight the
-killer robots from the surface!<NOD<END
+¡Los Mimiga que trabajan en la granja
+estan siendo timados por el Doctor!<NOD<CLR
+¡Planea hacernos luchar contra los
+robots asesinos de la superficie!<NOD<END
 #0404
 <PRI<MSG
-Do you know a Sakamoto person?<NOD
-She should be hiding in the 
-Plantation, somewhere...<NOD<END
+¿Conoces a alguien llamada Sakamoto?<NOD
+Deberia estar escondida en algun
+lugar de la Plantacion...<NOD<END
 #0405
 <PRI<MSG
-There were a few humans in here as well,
-but I haven't seen them recently...<NOD
-I wonder if they escaped safely.<NOD<END
-
+Habia algunos humanos aqui tambien,
+pero no los he visto ultimamente...<NOD
+Me pregunto si escaparon a salvo.<NOD<END

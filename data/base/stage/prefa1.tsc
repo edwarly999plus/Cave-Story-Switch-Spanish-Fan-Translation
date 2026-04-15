@@ -21,24 +21,24 @@
 
 #0200
 <KEY<MSG
-It's Professor Booster's memo.<NOD
-Do you want to read it?<YNJ0000<CLR<TUR
-Further investigation of the island
-is feasible if a device to aid with
-airborne mobility is available.<NOD<CLR
-For this, I will begin development of
-the Booster rocket.<NOD<CLR
-Development of this aerial device will
-have multiple phases, with two
-Booster versions: v0.8 and v2.0.<NOD<CLR
-The plan is to make v0.8 to be
-equipped and permit some form of
-aerial propulsion.<NOD<CLR
-And as long as I can survive,
-v2.0 will also be completed.<NOD
-It being even more indispensable.<NOD<CLO
+Es una nota del Profesor Booster.<NOD
+¿Quieres leerla?<YNJ0000<CLR<TUR
+La investigacion de la isla es viable
+si se dispone de un dispositivo que
+ayude con la movilidad aerea.<NOD<CLR
+Para ello, comenzare el desarrollo
+del cohete =Booster=.<NOD<CLR
+El desarrollo de este dispositivo tendra
+varias fases, con dos versiones:
+=v0.8= y =v2.0=.<NOD<CLR
+El plan es fabricar la =v0.8= para ser
+equipada y permitir alguna forma de
+propulsion aerea.<NOD<CLR
+Y mientras logre sobrevivir, tambien
+completare la =v2.0=.<NOD
+Siendo esta aun mas indispensable.<NOD<CLO
 <FLJ0161:0000<WAI0050<MS2
-    As long as I don't die...<WAI0050<NOD<END
+    Mientras no muera...<WAI0050<NOD<END
 
 
 

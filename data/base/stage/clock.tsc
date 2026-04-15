@@ -16,16 +16,16 @@
 #0200
 <KEY<FLJ1042:0201
 <MSG
-It won't open...<NOD<END
+No se abre...<NOD<END
 #0201
 <KEY<FLJ1700:0202<FL+1700<SOU0022<CNP0200:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1022<IT+0022<CLR
-<CMU0010Obtained the 290 Counter.<WAI0160<NOD<RMU<EVE0202
+Abriste el cofre del tesoro.<NOD<GIT1022<IT+0022<CLR
+<CMU0010Obtuviste el =Contador 290=.<WAI0160<NOD<RMU<EVE0202
 #0202
 <KEY<MSG
-Something is inscribed on the counter:<NOD<CLR<TUR
-This I present to you, the challenger<NOD
-in anticipation of your determination.<NOD<CLR
-Show me your best!<NOD<END
+Hay algo grabado en el contador:<NOD<CLR<TUR
+Esto te lo presento a ti, retador,<NOD
+en anticipacion de tu determinacion.<NOD<CLR
+Muestrame tu mejor tiempo record!<NOD<END
 

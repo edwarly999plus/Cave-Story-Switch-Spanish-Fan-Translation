@@ -1,4 +1,3 @@
-
 #0090
 <MNA<FAI0000<END
 #0091
@@ -18,21 +17,19 @@
 <KEY<SOU0011<ANP0110:0000:0002
 <FAO0002<TRA0087:0095:0004:0011
 
-
-
 #0200
 #0201
-
 
 #0900
 <DNP0900
 <KEY<MYD0002<MSG
-Please kill my master.<NOD
-Doing so will liberate Misery from her
-eternal curse.<NOD<CLR
-This is the only way that a recurrence
-of the tragedy can be stopped.<NOD<CLR
-My master's name is Ballos.<NOD<CLR
-He is a man who cannot die...
-His magic is beyond any control.<NOD<ANP0201:0010:0000<FL+1620<END
-
+Por favor, mata a mi amo.<NOD
+Hacerlo liberara a Misery de su
+maldicion eterna.<NOD<CLR
+Esta es la unica forma de detener
+una repeticion de la tragedia.<NOD<CLR
+El nombre de mi amo es Ballos.<NOD<CLR
+Es un hombre que no puede morir...
+Su magia esta fuera de control.<NOD<CLR
+#0001
+<ANP0201:0010:0000<FL+1620<END

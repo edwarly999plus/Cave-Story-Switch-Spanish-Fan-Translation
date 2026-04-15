@@ -1,4 +1,3 @@
- 
 #0090
 <MNA<FAI0000<END
 #0091
@@ -16,8 +15,6 @@
 <FLJ1550:0201<END
 #0096
 <KEY<MYB0002<WAI0002<PRI<FAI0001<END
-
-
 
 #0100
 <PRI<FAO0001<TRA0081:0095:0151:0013
@@ -45,7 +42,6 @@
 <CMP0012:0014:0001
 <CMP0013:0014:0001<END
 
-
 #0240
 #0241
 <DNP0241<ANP0240:0010:0003<END
@@ -69,7 +65,6 @@
 #0256
 #0257
 <DNP0257<ANP0256:0010:0003<END
-
 
 #0290
 <DNP0290<SOU0012
@@ -108,52 +103,51 @@
 #0302
 <MOV0018:0010<END
 
-
 #0390
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
 <MSG
-Opened the treasure chest.<NOD<CLR<EVE0400
+Abriste el cofre del tesoro.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Obtained the Missile Launcher.<WAI0160<NOD<RMU<CLR
-The Missile Launcher is a powerful
-weapon, but it has limited ammo.<NOD
-Collect additional ammunition
-from fallen enemies.<NOD<END
+<CMU0010Obtuviste el =Lanzamisiles=.<WAI0160<NOD<RMU<CLR
+El Lanzamisiles es un arma potente,
+pero tiene municion limitada.<NOD
+Recoge municion adicional de los
+enemigos derrotados.<NOD<END
 #0401
 <PRI<AM+0005:0032
 <MSG
-<GIT0006Max missiles increased by <NUM0000.<NOD<END
+<GIT0006Misiles maximos aumentados en <NUM0000.<NOD<END
 #0402
 <PRI<AM+0010:0024
 <MSG
-<GIT0011Max missiles increased by <NUM0000.<NOD<END
-
+<GIT0011Misiles maximos aumentados en <NUM0000.<NOD<END
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
 <PRI<MS3
-Driven insane by his punishment,
-Ballos was confined to the floating
-island in the sky by his sister, Jenka.<NOD
-That was all she could do.<NOD
-For Jenka, killing her own younger
-brother would be impossible.<NOD<END
-
+Vuelto loco por su castigo, Ballos
+fue confinado en la isla flotante
+por su hermana, Jenka.<NOD
+Eso fue todo lo que pudo hacer.<NOD
+Para Jenka, matar a su propio
+hermano menor habria sido
+imposible.<NOD<END
 
 #0901
 <DNP0901<SKJ0025:0000<SK+0025
 <PRI<MS3
-Jenka's witch daughter, Misery,
-is to blame for the Demon Crown...<NOD
-She forced Ballos to create it.<NOD
-Because of this offense, she was
-cursed by the Crown, compelled to
-obey whoever possesses it.<NOD
-The curse can be lifted if the Demon
-Crown is destroyed.<NOD<CLR
-However...<NOD<END
+Misery, la hija bruja de Jenka,
+tiene la culpa de la Corona del
+Demonio...<NOD
+Ella obligo a Ballos a crearla.<NOD
+Debido a esta ofensa, fue maldecida
+por la Corona, obligada a obedecer
+a quienquiera que la posea.<NOD
+La maldicion puede romperse si la
+Corona del Demonio es destruida.<NOD<CLR
+Sin embargo...<NOD<END
 
 #1000
 <BOA0500<CMU0000<FL-1550<END

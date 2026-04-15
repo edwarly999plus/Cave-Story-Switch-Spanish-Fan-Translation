@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0002<FAI0000<END
 #0091
@@ -9,201 +8,197 @@
 <MNA<CMU0002<FAI0003<END
 #0094
 <MNA<CMU0002<FAI0004<END
+
 #0100
 <KEY<SOU0011<DNP0100<FAO0000<TRA0056:0090:0072:0084
+
 #0110
-<KEY
-<SOU0011
-<ANP0110:0000:0002<WAI0010<HMC
-<ANP0110:0000:0000
-<MOV0018:0012<WAI0050
-<SOU0011
-<ANP0111:0000:0002<MYD0000<SMC<WAI0010
-<ANP0111:0000:0000<END
+<KEY<SOU0011<ANP0110:0000:0002<WAI0010<HMC
+<ANP0110:0000:0000<MOV0018:0012<WAI0050<SOU0011
+<ANP0111:0000:0002<MYD0000<SMC<WAI0010<ANP0111:0000:0000<END
+
 #0111
-<KEY
-<SOU0011
-<ANP0111:0000:0002<WAI0010<HMC
-<ANP0111:0000:0000
-<MOV0018:0007<WAI0050
-<SOU0011
-<ANP0110:0000:0002<MYD0000<SMC<WAI0010
-<ANP0110:0000:0000<END
+<KEY<SOU0011<ANP0111:0000:0002<WAI0010<HMC
+<ANP0111:0000:0000<MOV0018:0007<WAI0050<SOU0011
+<ANP0110:0000:0002<MYD0000<SMC<WAI0010<ANP0110:0000:0000<END
+
 #0200
-<KEY
-<FLJ1103:0212
-<ITJ0027:0211
-<FLJ1102:0206
-<ITJ0029:0210
-<ITJ0028:0209
-<FLJ1101:0208
-<FLJ1106:0204
-<FLJ1100:0201
-<ANP0200:0003:0005<WAI0050
-<ANP0200:0000:0005<WAI0020
+<KEY<FLJ1103:0212<ITJ0027:0211<FLJ1102:0206<ITJ0029:0210
+<ITJ0028:0209<FLJ1101:0208<FLJ1106:0204<FLJ1100:0201
+<ANP0200:0003:0005<WAI0050<ANP0200:0000:0005<WAI0020
 <MSG<FL+1100<FL+0961<FAC0122
-So you're the hero Sue's
-been talking about.<FAC0022<NOD<CLR<FAC0122
-I'm glad...<FAC0022<NOD<CLR<FAC0122
-I'm Momorin Sakamoto.<FAC0022<NOD<FAC0122
-Sue's mother.<FAC0022<NOD<FAC0122
-I took my chance working at
-the Doctor's side.<FAC0022<NOD<FAC0122
-But after the flower seeds 
-were located I was of no
-use to the Doctor.<FAC0022<NOD<FAC0122
-I was thrown off of the
-island unceremoniously.
-Not very nice...<FAC0022<NOD<CLR<FAC0122
-Men who treat women without
-respect are barbarians.<FAC0022<NOD<CLR<FAC0122
-Anyway, that aside.<FAC0022<NOD<CLR<FAC0122
-I'm presently building a
-rocket for you.<FAC0022<NOD<FAC0122
-It will take you all the way up
-to the Doctor's throne.<FAC0022<NOD<FAC0122
-But evidently I don't have
-enough of the parts.<FAC0022<NOD<CLO
+Asi que tu eres el heroe del
+que Sue me ha estado hablando.<FAC0022<NOD<CLR<FAC0122
+Me alegra...<FAC0022<NOD<CLR<FAC0122
+Soy Momorin Sakamoto.<FAC0022<NOD<FAC0122
+La madre de Sue.<FAC0022<NOD<FAC0122
+Arriesgue mi vida trabajando
+al lado del Doctor.<FAC0022<NOD<FAC0122
+Pero tras localizar las semillas
+de las flores, deje de serle
+util.<FAC0022<NOD<FAC0122
+Fui expulsada de la isla
+sin contemplaciones.
+Nada agradable...<FAC0022<NOD<CLR<FAC0122
+Los hombres que no respetan
+a las mujeres son unos barbaros.<FAC0022<NOD<CLR<FAC0122
+En fin, dejando eso de lado.<FAC0022<NOD<CLR<FAC0122
+Ahora mismo estoy construyendo
+un cohete para ti.<FAC0022<NOD<FAC0122
+Te llevara directo hasta el
+trono del Doctor.<FAC0022<NOD<FAC0122
+Pero es evidente que no tengo
+piezas suficientes.<FAC0022<NOD<CLO
 <ITJ0018:0202<ITJ0023:0203<EVE0201
+
 #0201
 <ITJ0018:0202<ITJ0023:0203
 <MSG<FAC0122
-At the moment I need a
-Booster.<FAC0022<NOD<FAC0122
-I wonder if anyone would
-have a spare handy...<FAC0022<NOD<END
+De momento, necesito un
+=Booster=.<FAC0022<NOD<FAC0122
+Me pregunto si alguien tendra
+alguno de repuesto...<FAC0022<NOD<END
+
 #0202
 <MSG<CLR
 .....<NOD<CLR<FAC0122
-Oh!<FAC0022<NOD<FAC0122
-I need to borrow that
-Booster from you.<FAC0022<NOD<CLR
-<FAC0000<GIT1018Momorin takes the Booster v0.8.<NOD<GIT0000<CLR<FAC0122
-There are still not enough of
-the necessary parts to
-complete the rocket.<FAC0022<NOD<CLO
-<IT-0018<EQ-0001<FL-0742
-<FL+1106
-<EVE0204
+¡Oh!<FAC0022<NOD<FAC0122
+Necesito que me prestes
+ese =Booster v0.8=.<FAC0022<NOD<CLR
+<FAC0000<GIT1018Momorin toma el =Booster v0.8=.<NOD<GIT0000<CLR<FAC0122
+Aun no hay suficientes piezas
+necesarias para completar
+el cohete.<FAC0022<NOD<CLO
+<IT-0018<EQ-0001<FL-0742<FL+1106<EVE0204
+
 #0203
 <MSG<CLR
 .....<NOD<CLR<FAC0122
-Oh!<FAC0022<NOD<FAC0122
-I'm going to borrow that.<FAC0022<NOD<CLR
-<FAC0000<GIT1023Momorin takes the Booster v2.0.<NOD<GIT0000<CLR<FAC0122
-There are still not enough of
-the necessary parts to
-complete the rocket.<FAC0022<NOD<CLO
-<IT-0023<EQ-0032<FL-0743
-<FL+1106
-<EVE0204
+¡Oh!<FAC0022<NOD<FAC0122
+Voy a tomar eso prestado.<FAC0022<NOD<CLR
+<FAC0000<GIT1023Momorin toma el =Booster v2.0=.<NOD<GIT0000<CLR<FAC0122
+Aun no hay suficientes piezas
+necesarias para completar
+el cohete.<FAC0022<NOD<CLO
+<IT-0023<EQ-0032<FL-0743<FL+1106<EVE0204
+
 #0204
 <KEY<MSG<FAC0122
-Are you busy now?<FAC0022<YNJ0205<CLR<FAC0122
-Really?<FAC0022<NOD<FAC0122
-I see...<FAC0022<NOD<END
+¿Estas ocupado ahora?<FAC0022<YNJ0205<CLR<FAC0122
+¿En serio?<FAC0022<NOD<FAC0122
+Ya veo...<FAC0022<NOD<END
+
 #0205
 <KEY<FL+1101<MSG<FAC0122
-That's a good answer.<FAC0022<NOD<FAC0122
-To be expected from a hero.<FAC0022<NOD<CLR<FAC0122
-For now, wear this.<FAC0022<NOD<FAC0000
+Esa es una buena respuesta.<FAC0022<NOD<FAC0122
+Lo esperado de un heroe.<FAC0022<NOD<CLR<FAC0122
+Por ahora, ponte esto.<FAC0022<NOD<FAC0000
 <GIT1024<IT+0024<EQ+0064<FL+1020<MSG
-<CMU0010Obtained the Mimiga Mask.<WAI0160<NOD<RMU<CLO<GIT0000
+<CMU0010Obtuviste la =Mascara Mimiga=.<WAI0160<NOD<RMU<CLO<GIT0000
 <MSG<FAC0122
-It suits you.<FAC0022<NOD<FAC0122
-Even if it's a tad too large...<FAC0022<NOD<CLR<FAC0122
-The Mimiga working the
-Plantation are forbidden from
-speaking with any humans.<FAC0022<NOD<FAC0122
-With that outfit on, you should
-be all set to chat with them.<FAC0022<NOD<CLR<FAC0122
-Got it?<FAC0022<NOD<EVE0207
+Te queda bien.<FAC0022<NOD<FAC0122
+Aunque es un pelin grande...<FAC0022<NOD<CLR<FAC0122
+Los Mimiga que trabajan en la
+Plantacion tienen prohibido
+hablar con humanos.<FAC0022<NOD<FAC0122
+Con ese disfraz puesto, deberias
+poder charlar con ellos.<FAC0022<NOD<CLR<FAC0122
+¿Entendido?<FAC0022<NOD<EVE0207
+
 #0206
 <KEY<MSG<FAC0122<CLR
-Next thing, look for the man
-named Itoh.<FAC0022<NOD<CLR<FAC0122
-He's an incredible coward,
-so I doubt he went very far.<FAC0022<NOD<END
+Lo siguiente, busca a un
+hombre llamado Itoh.<FAC0022<NOD<CLR<FAC0122
+Es un cobarde increible,
+asi que dudo que haya ido lejos.<FAC0022<NOD<END
+
 #0207
 <MSG<FL+1027<FL+1028<FAC0122
-There's a minimum amount
-of electricity needed in order
-for me to finish the rocket.<FAC0022<NOD<FAC0122
-If I can get one of those
-sprinklers in the Plantation, 
-that might be just enough.<FAC0022<NOD<CLR<FAC0122
-Please do whatever it takes
-to get a sprinkler.<FAC0022<NOD<END
+Hay una cantidad minima de
+electricidad necesaria para que
+pueda terminar el cohete.<FAC0022<NOD<FAC0122
+Si consigo uno 
+de esos aspersores
+de la Plantacion,<FAC0022<NOD<FAC0122
+podria ser suficiente.<FAC0022<NOD<CLR<FAC0122
+Por favor, haz lo que sea para
+traerme un aspersor.<FAC0022<NOD<END
+
 #0208
 <KEY<MSG<FAC0122
-There's a minimum amount
-of electricity needed in order
-for me to finish the rocket.<FAC0022<NOD<FAC0122
-If anything is going to have
-electricity around here it'll be
-those sprinklers outside.<FAC0022<NOD<CLR<FAC0122
-Please do whatever it takes
-to get a sprinkler.<FAC0022<NOD<END
+Hay una cantidad minima de
+electricidad necesaria para que
+pueda terminar el cohete.<FAC0022<NOD<FAC0122
+Si hay algo con electricidad
+por aqui cerca, seran esos
+aspersores de afuera.<FAC0022<NOD<CLR<FAC0122
+Por favor, haz lo que sea para
+traerme un aspersor.<FAC0022<NOD<END
+
 #0209
 <KEY<MSG<FAC0122
-Thanks for the help.<FAC0022<NOD<CLR<FAC0000<GIT1028
-Show her a Broken Sprinkler.<NOD<CLR<FAC0122
+Gracias por la ayuda.<FAC0022<NOD<CLR<FAC0000<GIT1028
+Le ensenas un =Aspersor Roto=.<NOD<CLR<FAC0122
 Hm...<FAC0022<NOD<CLR<FAC0122
-This sprinkler's batteries
-are no good.<FAC0022<NOD<GIT0000<FAC0122
-I can't use it in the
-condition this one is in.<FAC0022<NOD<END
+Las baterias de este aspersor
+no sirven.<FAC0022<NOD<GIT0000<FAC0122
+No puedo usarlo en las
+condiciones en que esta.<FAC0022<NOD<END
+
 #0210
 <KEY<FL+1102<FL+1107<MSG<FAC0122
-Welcome back.<FAC0022<NOD<CLR<FAC0000
-<GIT1029<IT-0029Show her a Sprinkler.<NOD<CLR<FAC0122
-Let's have a look...<FAC0022<NOD<CLR<FAC0122
-More than enough battery
-power in this one.<FAC0022<NOD<FAC0122
-I think this might work.<FAC0022<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
+Bienvenido de vuelta.<FAC0022<NOD<CLR<FAC0000
+<GIT1029<IT-0029Le ensenas un =Aspersor=.<NOD<CLR<FAC0122
+Echemos un vistazo...<FAC0022<NOD<CLR<FAC0122
+Este tiene bateria mas que
+suficiente.<FAC0022<NOD<FAC0122
+Creo que esto servira.<FAC0022<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
 <MSG<FAC0122
-Next, can you look for a man
-by the name of Itoh?<FAC0022<NOD<CLR<FAC0122
-He conceitedly calls himself a
-"famous technician".<FAC0022<NOD<CLR<FAC0122
-But he's a big, fat coward.<FAC0022<NOD<FAC0122
-Itoh was the first to run from
-the Doctor, but I don't think 
-he got very far from here.<FAC0022<NOD<END
+Ahora, ¿puedes buscar a un
+hombre llamado Itoh?<FAC0022<NOD<CLR<FAC0122
+Se hace llamar a si mismo un
+"tecnico famoso".<FAC0022<NOD<CLR<FAC0122
+Pero es un gran cobarde.<FAC0022<NOD<FAC0122
+Itoh fue el primero en huir
+del Doctor, pero no creo que
+este muy lejos de aqui.<FAC0022<NOD<END
+
 #0211
 <MSG<FL+1103<FAC0122
-Welcome back.<FAC0022<NOD<CLR<FAC0122
-Did you find Itoh?<FAC0022<NOD<CLR
-<FAC0000<GIT1027<IT-0027Give her the Controller.<NOD<CLR<FAC0122
-There's no doubt about it.<FAC0022<NOD<FAC0122
-Itoh made this Controller.<FAC0022<NOD<GIT0000<CLR<FAC0122
+Bienvenido de vuelta.<FAC0022<NOD<CLR<FAC0122
+¿Encontraste a Itoh?<FAC0022<NOD<CLR
+<FAC0000<GIT1027<IT-0027Le das el =Controlador=.<NOD<CLR<FAC0122
+No hay ninguna duda.<FAC0022<NOD<FAC0122
+Itoh fabrico este =Controlador=.<FAC0022<NOD<GIT0000<CLR<FAC0122
 Hm...<FAC0022<NOD<CLR<FAC0122
-Without him in here helping
-me it'll be difficult to
-perform the analysis.<FAC0022<NOD<CLR<FAC0122
-Well, I'll do what I can.<FAC0022<NOD<EVE0212
+Sin el aqui ayudandome sera
+dificil realizar el analisis.<FAC0022<NOD<CLR<FAC0122
+Bueno, hare lo que pueda.<FAC0022<NOD<EVE0212
+
 #0212
 <KEY<MSG<FAC0122
-You've done well.<FAC0022<NOD<CLR<FAC0122
-This process will take some
-time before it's finished.<FAC0022<NOD<FAC0122
-Take a rest down below,
-there's a bed for you.<FAC0022<NOD<END
-#0250
+Lo has hecho bien.<FAC0022<NOD<CLR<FAC0122
+Este proceso tomara algo de
+tiempo antes de terminar.<FAC0022<NOD<FAC0122
+Descansa un poco ahi abajo,
+hay una cama para ti.<FAC0022<NOD<END
+
 #0280
 <KEY<MSG
-Would you like to rest?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+¿Te gustaria descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 .....<NOD<CLO
 <WAI0050<FLJ1103:0281
 <LI+1000<SOU0020<MYD0002<MSG
-You feel rested.<NOD<CLO<CMU0002<FAI0004<END
+Te sientes descansado.<NOD<CLO<CMU0002<FAI0004<END
+
 #0281
 <FL-1103<FL+1105<FL+1030<FL+1031<FL+1032<FL+1033<FL+1004<FL-1038<FL+1039
 <FL-1026<FL+1036
 <MSG
 .....<NOD<CLO<DNP0200<DNP0350
 <LI+1000<SOU0020<MYD0002<MSG
-You're well rested.<NOD<CLO<CMU0002<FAI0004<END
+Estas bien descansado.<NOD<CLO<CMU0002<FAI0004<END
+
 #0350
 <KEY<MSG
-It's a rocket...<NOD<END
+Es un cohete...<NOD<END

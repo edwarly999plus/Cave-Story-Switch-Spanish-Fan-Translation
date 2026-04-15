@@ -20,47 +20,49 @@
 <FLJ1440:0202
 <FLJ0835:0201
 <MSG<TUR
-Text is displayed on-screen...<NOD<CLR
-04.08.08 My child is born.<NOD<END
+Hay un texto en la pantalla...<NOD<CLR
+04.08.08 Ha nacido mi hijo.<NOD<END
 #0201
 <KEY<MSG
-Text is displayed on-screen...<NOD<CLR
-<TURHow about taking a break for now?<NOD<END
+Hay un texto en la pantalla...<NOD<CLR
+<TUR¿Que tal si te tomas un descanso?<NOD<END
 #0202
 <KEY<FL+1445<MSG
-Text is displayed on-screen...<NOD<CLR<TUR
-That reminds me, I also recorded some
-findings on that notebook.<NOD<END
+Hay un texto en la pantalla...<NOD<CLR<TUR
+Eso me recuerda, tambien anote
+algunos hallazgos en esa libreta.<NOD<END
 #0203
 <KEY<MSG
-Text is displayed on-screen...<NOD<CLR
-<TURYou can do it.<NOD<END
+Hay un texto en la pantalla...<NOD<CLR
+<TURTu puedes hacerlo.<NOD<END
 #0210
 #0220
 <KEY<MSG
-Nothing of interest...<NOD<END
+Nada interesante...<NOD<END
 #0221
 <KEY<MSG
-The notebook is covered in dust...<NOD<FLJ1441:0223<FLJ1445:0222<END
+La libreta esta llena de polvo...<NOD<FLJ1441:0223<FLJ1445:0222<END
 #0222
 <KEY<MSG
-Open the notebook?<YNJ0000<FL+1441<CLR<TUR
-Robots manufactured on the surface
-have limited aquatic mobility.<NOD<CLR
-In the case of flooding, the system
-will automatically initiate a shutdown
-to prevent from short circuiting.<NOD<CLR
-Below are instructions on how to
-service flooded robots.<NOD<CLR<MSG
+¿Abrir la libreta?<YNJ0000<FL+1441<CLR<TUR
+Los robots fabricados en la
+superficie tienen movilidad
+acuatica limitada.<NOD<CLR
+En caso de inundacion, el sistema
+iniciara automaticamente un apagado
+para evitar un cortocircuito.<NOD<CLR
+Abajo hay instrucciones sobre como
+reparar robots inundados.<NOD<CLR<MSG
 .<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010<NOD<CLR<CMU0010
-Learned how to service flooded robots!<WAI0160<NOD<RMU<CLR<TUR
-Flooded systems will begin a reboot
-process automatically after using
-the above method of draining.<WAI0030<NOD<END
+¡Aprendiste como reparar 
+robots inundados!<WAI0160<NOD<RMU<CLR<TUR
+Los sistemas inundados iniciaran
+un proceso de reinicio automatico
+tras usar el metodo de drenaje.<WAI0030<NOD<END
 #0223
 <KEY<MSG
-There's nothing else of use written
-in the notebook.<NOD<END
+No hay nada mas de utilidad
+escrito en la libreta.<NOD<END
 #0250
 <KEY
 <FLJ1444:0257
@@ -71,45 +73,45 @@ in the notebook.<NOD<END
 <FLJ0836:0251<EVE0019
 #0251
 <KEY<MSG
-Do you want to rest?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+¿Quieres descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 .....<NOD<CLO
 <WAI0100<LI+1000
 <DNP0210<FL-0836<FL+1440<MYD0002<RMU
 <TRA0073:0095:0015:0009
 #0252
 <KEY<MSG
-Although she's not moving, she seems
-to still be alive.<NOD<END
+Aunque no se mueve, parece
+que sigue con vida.<NOD<END
 #0253
 <KEY<MSG
-Drain the water from Curly?<YNJ0000<CLO
+¿Drenar el agua de Curly?<YNJ0000<CLO
 <FL+1442<FAO0001<CMU0000<WAI0200<FAI0001
 <WAI0150<MSG<FAC0020
 Nnghh...<NOD<CLR<CMU0014<FAC0025
 .....<NOD<CLR<ANP0260:0001:0002<FAC1119
-You're safe!<FAC1019<NOD<CLR<FAC1119
-Oh, I'm glad...<FAC1019<NOD<CLR<FAC1125
-I thought you were a goner<FAC1025!<NOD<FAC1125
-You lost consciousness and
-I couldn't think of anything
-to do about it...<FAC1025<NOD<CLR<FAC1125
-So I gave you my airtank.
-It worked, didn't it?<FAC1025<NOD<CLR
+¡Estas a salvo!<FAC1019<NOD<CLR<FAC1119
+Oh, que alivio...<FAC1019<NOD<CLR<FAC1125
+Pense que habias muerto.<FAC1025<NOD<FAC1125
+Perdiste el conocimiento y
+no sabia que hacer al 
+respecto...<FAC1025<NOD<CLR<FAC1125
+Asi que te di mi tanque de aire.
+Funciono, ¿verdad?<FAC1025<NOD<CLR
 <FAC1020Uuh...<NOD<CLO<FAC0000<ANP0260:0001:0000
 <WAI0050
 <MSG
-She fell asleep.<NOD
+Se quedo dormida.<NOD
 <END
 #0254
 <KEY<MSG
-The restart process will take some
-time to complete.<NOD<FL+1443<END
+El proceso de reinicio tardara
+un tiempo en completarse.<NOD<FL+1443<END
 #0255
 <KEY<MSG
-Would you like to leave her here?<YNJ0256<END
+¿Quieres dejarla aqui?<YNJ0256<END
 #0256
 <KEY<CNP0260:0259:0000<FL+0836<FL-1440<FL+1444<END
 #0257
 <KEY<MSG
-The bed is soaked.<NOD<END
+La cama esta empapada.<NOD<END
 #0260

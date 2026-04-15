@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0036<FAI0000<END
 #0091
@@ -11,11 +10,12 @@
 <MNA<CMU0036<FAI0004<END
 #0095
 <EQ+0256<MS2<TUR
-<SOU0043<GIT1022The 290 Counter is activated.<NOD<GIT0000<EVE0096
+<SOU0043<GIT1022El =Contador Nikumaru= se ha activado.<NOD<GIT0000<EVE0096
 #0096
 <MSG
-A black wind blows through your body.<NOD<CLR
-All weapons drop to Level 1!<NOD<CLO
+Un viento negro sopla a traves
+de tu cuerpo.<NOD<CLR
+¡Todas las armas bajan al Nivel 1!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 #0100
 <KEY<FAO0002<TRA0080:0090:0021:0097
@@ -27,12 +27,12 @@ All weapons drop to Level 1!<NOD<CLO
 <MYD0000<SMC<END
 #0200
 <PRI<MSG<TUR
-Welcome to Hell!<NOD<END
+¡Bienvenido al Infierno!<NOD<END
 #0400
 <PRI<SOU0022<DNP0400
 <MSG<GIT1006
-Obtained a Life Capsule.<NOD<ML+0005
-Max life increased by 5.<NOD<END
+Obtuviste una =Capsula de Energia=.<NOD<ML+0005
+La vida maxima aumento en 5.<NOD<END
 #0420
 <DNP0420
 <ANP0430:0030:0000<FON0430:0016
@@ -41,21 +41,22 @@ Max life increased by 5.<NOD<END
 #0500
 <PRI<FL-1531<FL+1532<MS3<FAC0120
 Ooow...<FAC0020<NOD<CLR<FAC0000
-<CNP0500:0259:0000<GIT1030Used the Tow Rope on Curly.<NOD
+<CNP0500:0259:0000<GIT1030Usaste la =Cuerda de Remolque= en Curly.<NOD
 <ACH0076
 <END
 #0900
 <DNP0900<SKJ0020:0000<SK+0020
 <PRI<MS3
-Did you know that the woman named
-Jenka had a younger brother?<NOD
-His name was Ballos.<NOD
-And like his sister he possessed
-magical powers that no man had.<NOD<END
+¿Sabias que la mujer llamada Jenka
+tenia un hermano menor?<NOD
+Su nombre era Ballos.<NOD
+Al igual que su hermana, poseia
+poderes magicos que ningun otro
+hombre tenia.<NOD<END
 #0901
 <DNP0901<SKJ0021:0000<SK+0021
 <PRI<MS3
-He led and protected the people with
-his magical power.<NOD
-They loved and trusted him,<NOD<CLR
-Even more than their own king.<NOD<END
+El guiaba y protegia a la gente
+con su poder magico.<NOD
+Ellos lo amaban y confiaban en el,<NOD<CLR
+Incluso mas que en su propio rey.<NOD<END

@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0008<FAI0000<END
 #0091
@@ -19,42 +18,43 @@
 <FLJ1080:0201
 <2MV0001
 <MSG
-Mmm...gulp!<NOD<CLR
-!<NOD<CLO
+Mmm... ¡gulp!<NOD<CLR
+¡!<NOD<CLO
 <MYB0000<ANP0200:0002:0004<WAI0030<MYD0000<FL+1080<FL-1025<FL+1026
 <MSG
-Ooh, you're awake.<NOD<CLR
-I thought you were already dead. 
-Sue would smack you and you wouldn't
-move an inch.<NOD<CLR
-This place is a jail.<NOD
-Those who oppose the Doctor are
-locked up here...<NOD
-To be used as test subjects for his
-ongoing experiments.<NOD<CLR
-...Sue said so.<NOD<CLR
-You a friend of hers?<NOD
-You're a little bit too late.<NOD
-She was here as well...<NOD<CLR
-She worried about you so much.<NOD
-It was only a few minutes ago that she
-was carried off.<NOD<EVE0209
+Oh, ya despertaste.<NOD<CLR
+Pense que ya estabas muerto.
+Sue te sacudia y no te movias
+ni un centimetro.<NOD<CLR
+Este lugar es una carcel.<NOD
+Quienes se oponen al Doctor son
+encerrados aqui...<NOD
+Para ser usados como sujetos de
+prueba en sus experimentos.<NOD<CLR
+...Eso dijo Sue.<NOD<CLR
+¿Eres amigo suyo?<NOD
+Llegaste un poco tarde.<NOD
+Ella tambien estuvo aqui...<NOD<CLR
+Se preocupo mucho por ti.
+Se la llevaron hace apenas
+unos minutos.<NOD<EVE0209
 #0201
 <MSG<FL+1081
-And by the way.<NOD<CLR
-She snuck something in your pocket
-while she was taken away.<NOD<CMP0024:0002:0049<EVE0209
+Y por cierto.<NOD<CLR
+Ella metio algo en tu bolsillo
+mientras se la llevaban.<NOD<CMP0024:0002:0049<EVE0209
 #0202
 <KEY<MSG
-Did ya get some kind of love letter?<NOD<CMP0024:0002:0049<EVE0209
+¿Recibiste una especie de
+carta de amor?<NOD<CMP0024:0002:0049<EVE0209
 #0209
 <KEY<ANP0200:0000:0002<END
 #0220
-<KEY<HMC<CNP0221:0150:0002<ANP0221:0010:0002<WAI0050
+<KEY<HMC<CNP0221:0150:0002<ANP0221:0110:0002<WAI0050
 <MSG<SOU0070
-Hey!<NOD<CLR
-<SOU0070HEY YOU!!!<NOD<CLR
-Are you dead or something?<NOD<CLR
+¡Hey!<NOD<CLR
+<SOU0070¡¡¡Oye tu!!!<NOD<CLR
+¿Estas muerto o que?<NOD<CLR
 .....<NOD<CLO
 <WAI0050<IT+0026<WAI0050<MNA<CMU0008<FAI0004<WAI0050<SMC<DNP0221<END
 #0221

@@ -1,4 +1,3 @@
-
 #0090
 <MNA<FAI0000<END
 #0091
@@ -23,16 +22,16 @@
 <FON0240:0016
 <WAI0160
 <MSG
-<CMU0010Kazuma catches you!<WAI0160<CLR<FAC1110
-Wow...<FAC1010<NOD<CLR<FAC1110
-I didn't think you were
-really going to do it.<FAC1010<NOD<CLR<FAC1110
-You destroyed the core!<FAC1010<NOD<CLR<FAC1110
-We probably won't be seeing
-the Doctor a second or third
-time thanks to you.<FAC1010<NOD<FAC1110
-Peace remains.<FAC1010<NOD<CLR<FAC1110
-Let's go home.<FAC1010<NOD<CLO
+<CMU0010¡Kazuma te atrapa!<WAI0160<CLR<FAC1110
+Vaya...<FAC1010<NOD<CLR<FAC1110
+Realmente no pense que fueras
+capaz de hacerlo.<FAC1010<NOD<CLR<FAC1110
+¡Destruiste el nucleo!<FAC1010<NOD<CLR<FAC1110
+Gracias a ti, probablemente no
+volveremos a ver al Doctor
+por segunda o tercera vez.<FAC1010<NOD<FAC1110
+La paz ha vuelto.<FAC1010<NOD<CLR<FAC1110
+Vamos a casa.<FAC1010<NOD<CLO
 <KEY<FAO0004<HMC
 <ITJ0024:0101
 <ACH0050<TRA0000:0100:0004:0015
@@ -46,65 +45,64 @@ Let's go home.<FAC1010<NOD<CLO
 <DNP0220<WAI0200
 <FAI0001
 <MSG<FAC0105<FL+2000<FL+1460
-Close!<FAC0005<NOD<CLR<FAC0105
-Such a narrow escape.<FAC0005<NOD<CLR<FAC1119
-I thought I was scrap
-metal this time.<FAC1019<NOD<FAC1119
-Looks like we owe you yet
-another one.<FAC1019<NOD<CLO<FAC0000<WAI0050
+¡Por poco!<FAC0005<NOD<CLR<FAC0105
+Logramos escapar por los pelos.<FAC0005<NOD<CLR<FAC1119
+Esta vez pense que acabaria
+como chatarra.<FAC1019<NOD<FAC1119
+Parece que te debemos otra.<FAC1019<NOD<CLO<FAC0000<WAI0050
 <MSG<FAC0105
-There's no need for that.<FAC0005<NOD<FAC0105
-I did what Misery asked.<FAC0005<NOD<CLR<FAC1125
-Misery? 
-As in that witch?<FAC1025<NOD<CLR
-<FAC0105Yep!<FAC0005<NOD<CLR<FAC1125
-Doesn't she hate us?<FAC1025<NOD<FAC1125
-Wait, don't YOU hate us?<FAC1025<NOD<CLR<FAC0105
-You two defeated Ballos.<FAC0005<NOD<CLR<FAC0105
-Our curse was lifted thanks
-to you.<FAC0005<NOD<FAC0105
-Misery and I no longer have to
-listen to orders from anyone.<FAC0005<NOD<CLR<FAC1119
-I thought you were a bad guy,
-but it was just because of
-the Demon Crown?<FAC1019<NOD<CLR<FAC0105
-We asked for it...<FAC0005<NOD<FAC0105
-You have to remember,
-it was Misery who had Ballos
-make the crown.<FAC0005<NOD<CLR<FAC1125
-Eh?
-Really?<FAC1025<NOD<FAC1125
-I didn't know that.<FAC1025<NOD<CLR<FAC0105
-Yep!<FAC0005<NOD<CLO<FAC0000
+No hace falta que digas eso.<FAC0005<NOD<FAC0105
+Solo hice lo que Misery pidio.<FAC0005<NOD<CLR<FAC1125
+¿Misery? 
+¿Te refieres a esa bruja?<FAC1025<NOD<CLR
+<FAC0105¡Si!<FAC0005<NOD<CLR<FAC1125
+¿Acaso ella no nos odia?<FAC1025<NOD<FAC1125
+Espera, ¿no NOS odias tu?<FAC1025<NOD<CLR<FAC0105
+Ustedes dos derrotaron a Ballos.<FAC0005<NOD<CLR<FAC0105
+Nuestra maldicion fue rota
+gracias a ustedes.<FAC0005<NOD<FAC0105
+Misery y yo ya no tenemos que
+obedecer las ordenes de nadie.<FAC0005<NOD<CLR<FAC1119
+¿O sea que eras malo solo
+por culpa de la Corona del
+Demonio?<FAC1019<NOD<CLR<FAC0105
+Nosotros la buscamos...<FAC0005<NOD<FAC0105
+Tienes que recordar que fue
+Misery quien obligo a Ballos
+a crear la corona.<FAC0005<NOD<CLR<FAC1125
+¿Eh?
+¿En serio?<FAC1025<NOD<FAC1125
+No sabia eso.<FAC1025<NOD<CLR<FAC0105
+¡Asi es!<FAC0005<NOD<CLO<FAC0000
 <WAI0150
 <MSG<FAC0105
-And now...<FAC0005<NOD<CLR
-<FAC1125Now?<FAC1025<NOD<CLR<FAC0105
-What are you gonna do now?<FAC0005<NOD<FAC0105
-I can take you anywhere!<FAC0005<NOD<CLR<FAC1119
-Well, since you asked...<FAC1019<NOD<CLR<FAC1119
-Our mission's complete so...
-I want to live somewhere
-calm with a nice view.<FAC1019<NOD<CLO<FAC0000
+Y ahora...<FAC0005<NOD<CLR
+<FAC1125¿Ahora?<FAC1025<NOD<CLR<FAC0105
+¿Que piensan hacer ahora?<FAC0005<NOD<FAC0105
+¡Puedo llevarlos a donde sea!<FAC0005<NOD<CLR<FAC1119
+Bueno, ya que lo preguntas...<FAC1019<NOD<CLR<FAC1119
+Nuestra mision termino, asi que
+quiero vivir en un lugar calma-
+do con una buena vista.<FAC1019<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0105
-Pardon me, but... um...<FAC0005<NOD<CLR
-<FAC1125Yes?<FAC1025<NOD<CLR<FAC0105
-...Can I go with?<FAC0005<NOD<CLR
-<FAC1119Sure!<FAC1019<NOD<FAC1119
-All three of us, we can live
-together for sure!<FAC1019<NOD<CLR
-<FAC0114Really?!?<FAC0014<NOD<CLR<FAC1119
-You can even pick the spot
-where we all live!<FAC1019<NOD<FAC1119
-But take us someplace nice.<FAC1019<NOD<CLR
-<FAC0114Gotcha!<FAC0014<NOD<CLR<FAC0114
-All right,
-<ANP0230:0020:0002h<WAI0010a<WAI0010n<WAI0010g<WAI0010 <WAI0010o<WAI0010n<WAI0010 <WAI0010t<WAI0010i<WAI0010g<WAI0010h<WAI0010t<WAI0010!!<FAC0014<NOD<CLO<FAC0000
+Disculpen, pero... esto...<FAC0005<NOD<CLR
+<FAC1125¿Si?<FAC1025<NOD<CLR<FAC0105
+...¿Puedo ir con ustedes?<FAC0005<NOD<CLR
+<FAC1119¡Claro!<FAC1019<NOD<FAC1119
+¡Los tres podremos vivir
+juntos sin duda alguna!<FAC1019<NOD<CLR
+<FAC0114¡¿De verdad?!<FAC0014<NOD<CLR<FAC1119
+¡Incluso puedes elegir el lugar
+donde viviremos todos!<FAC1019<NOD<FAC1119
+Pero llevanos a un sitio lindo.<FAC1019<NOD<CLR
+<FAC0114¡Entendido!<FAC0014<NOD<CLR<FAC0114
+¡Muy bien, 
+<ANP0230:0020:0002¡<WAI0010S<WAI0010u<WAI0010j<WAI0010e<WAI0010t<WAI0010e<WAI0010n<WAI0010s<WAI0010e<WAI0010 <WAI0010f<WAI0010u<WAI0010e<WAI0010r<WAI0010t<WAI0010e<WAI0010!<WAI0010!<FAC0014<NOD<CLO<FAC0000
 <KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0004:0015
 
 #0121
 <KEY<WAI0100<MSG<GIT1032
-Aren't we forgetting something?<NOD<TRA0000:0100:0004:0015
+¿No estamos olvidando algo?<NOD<TRA0000:0100:0004:0015
 
 #0200
 #0201

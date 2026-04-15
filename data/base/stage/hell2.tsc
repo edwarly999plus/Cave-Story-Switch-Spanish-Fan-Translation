@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0036<FAI0000<END
 #0091
@@ -23,27 +22,29 @@
 
 #0200
 <PRI<MSG<TUR
-You can't go back...<NOD<END
+No puedes volver atras...<NOD<END
 
 
 
 #0900
 <DNP0900<SKJ0022:0000<SK+0022
 <PRI<MS3
-Jealous of Ballos, the resentful king
-caught and imprisoned him.<NOD
-His punishment was severe and cruel.<NOD
-Humans truly are terrible creatures...<NOD<END
+Celoso de Ballos, el resentido rey
+lo capturo y lo encarcelo.<NOD
+Su castigo fue severo y cruel.<NOD
+Los humanos realmente son
+criaturas terribles...<NOD<END
 
 #0901
 <DNP0901<SKJ0023:0000<SK+0023
 <PRI<MS3
-Ballos was driven into a state of pure, 
-uncontrollable rage by the punishment.<NOD
-Weakened by the torture, he was
-helpless to contain the fury.<NOD
-The king and kingdom were swallowed by
-Ballos' wild magical force.<NOD
-The life that he loved so dearly was
-turned into ruins in a single night...
-...Shrouded only by fiery hot ashes.<NOD<END
+Ballos fue llevado a un estado de
+furia pura e incontrolable por
+el castigo.<NOD
+Debilitado por la tortura, no pudo
+contener su propia furia.<NOD
+El rey y su reino fueron devorados por
+la salvaje fuerza magica de Ballos.<NOD
+La vida que el tanto amaba se
+convirtio en ruinas en una sola noche...
+...Cubierta solo por cenizas ardientes.<NOD<END

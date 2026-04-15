@@ -55,7 +55,7 @@ Esa es MI arma!<NOD<CLR<GIT0002
 Por que la tienes tu?!
 No la hice para ti!<NOD<CLR
 Devuelvemela!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
-Te han confiscado la Estrella Polar...<NOD<CLR
+Te han confiscado la =Estrella Polar=...<NOD<CLR
 Hmph!<NOD
 Parece que le has dado un uso
 bastante considerable.<NOD<CLR
@@ -84,7 +84,7 @@ Despues de terminarla, por supuesto!<NOD<CLO
 <WAI0150<FAI0001
 <FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
 <CMU0010<MSG<GIT0013
-La Estrella Polar ahora es la Spur!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+La Estrella Polar ahora es la =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
 
 #0303
 <KEY<MSG
