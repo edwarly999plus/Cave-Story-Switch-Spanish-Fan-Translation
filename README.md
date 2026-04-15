@@ -211,5 +211,7 @@ Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos f
 
 ---
 
+<div align= "left">
+
 ## 💬 Colaboración
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
