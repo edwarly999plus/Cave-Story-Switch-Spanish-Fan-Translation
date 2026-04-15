@@ -189,5 +189,27 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 * **Editor/Port:** [Nicalis, Inc.](https://www.nicalis.com/)
 * **Traducción y Edición:** [EdwarlyGamer999+](https://www.youtube.com/@EdwarlyGamer999plusxd) (Yo).
 
+---
+
+  
+## 👥 Créditos de Colaboradores
+
+Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos finales del juego son:
+
+*  👑 **EdwarlyGamer999+ (Admin)** - Traducciones al Español de la campaña Principal y Programación TSC.
+
+
+> **Nota para colaboradores:** Si deseas contribuir, puedes enviar un Pull Request. ¡Todas las contribuciones aceptadas serán añadidas a los créditos dentro del juego!
+
+<div align= "center">
+  
+## **¡GRACIAS COLABORADORES!** 
+
+<p align= "center">
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d8ec7815-4705-471a-954e-8ca856d51fa4" /> 
+
+---
+
 ## 💬 Colaboración
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
