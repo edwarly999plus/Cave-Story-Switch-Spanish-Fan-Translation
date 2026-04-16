@@ -194,6 +194,7 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos finales del juego son:
 
 *  👑 **EdwarlyGamer999+ (Admin)** - Traducciones al Español de la campaña Principal y Programación TSC.
+*  **LAIB** - Traducciones al Español de Curly Story.
 
 
 > **Nota para colaboradores:** Si deseas contribuir, puedes enviar un Pull Request. ¡Todas las contribuciones aceptadas serán añadidas a los créditos dentro del juego!
@@ -205,6 +206,7 @@ Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos f
 <p align= "center">
 
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d8ec7815-4705-471a-954e-8ca856d51fa4" /> 
+<img width="64" height="64" alt="LAIB" src="https://github.com/user-attachments/assets/c698b57f-8a78-4ce9-9215-7af10f3ce85b" />
 
 ---
 
