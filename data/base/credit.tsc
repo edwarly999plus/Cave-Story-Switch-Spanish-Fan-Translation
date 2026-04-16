@@ -1,3 +1,4 @@
+
 +0192
 !0033
 [  REPARTO]0000
@@ -39,7 +40,7 @@
 [ ]0019-0016
 [ Sandaime]0000-0064
 -0063
-[ ZONA DE ARBUSTOS ]0000-0064
+[ GRASSTOWN ]0000-0064
 [ Un cobarde]0000-0016
 [ solitario]0017-0016
 [ Santa]0000-0064
@@ -50,7 +51,7 @@
 [ energia]0025-0016
 [ Malco]0000-0064
 -0063
-[ ZONA DE ARENA]0000-0064
+[ ZONA ARENOSA]0000-0064
 [ Aliada de]0000-0016
 [ los Mimiga]0007-0016
 [ Curly Brace]0000-0064
@@ -58,7 +59,7 @@
 [ Mimiga]0008-0016
 [ Los Colones]0000-0064
 [ Guardiana de]0000-0016
-[ la Zona Arena]0009-0016
+[ la Zona Arenosa]0009-0016
 [ Jenka]0000-0064
 -0031
 [ Cachorros de Jenka]0000-0032
@@ -103,7 +104,7 @@ f2000:0090
 [ la Corona]0011-0016
 [ Misery]0000-0064
 [ Un nuevo]0000-0016
-[ amigo]012-0016
+[ amigo]0012-0016
 [ Balrog]0000-0064
 -0063
 [ ADEMAS...]0000-0064
@@ -133,8 +134,8 @@ l0090
 [ Maldita por]0000-0016
 [ la Corona]0011-0016
 [ Misery]0000-0064
-[ Un nuevo]0000-0016
-[ amigo]012-0016
+[ Un nuevo amigo]0000-0016
+[ ]0012-0016
 [ Balrog]0000-0064
 -0063
 [ ADEMAS]0000-0064
@@ -260,7 +261,7 @@ l0200
 [ Muscle Doctor]0000-0064
 [ El Doctor y el]0000-0016
 [ corazon de la isla]0107-0016
-[ Nucleo No Muerto]0000-0064
+[ Necronucleo]0000-0064
 f2000:0290j0300l0290
 -0002
 [ El meca hinchado]0000-0016
@@ -326,6 +327,16 @@ l0300
 [Localizacion]0000-0032
 [Yoko Saito]0000-0032
 [Rie Hagihara]0000-0048
+
+[Traduccion al Espanol]0000-0032
+[Cave Story+: EdwarlyGamer999+]0000-0032
+[Curly Story: ]0000-0032
+[Machine Gun: ]0000-0032
+[Fireball: ]0000-0032
+[Easy Mod: ]0000-0032
+[Kaze: ]0000-0032
+[Time Trial: ]0000-0032
+[Nemesis: ]0000-0048
 
 [Testers]0000-0032
 [Jessica Nicholas]0000-0032
