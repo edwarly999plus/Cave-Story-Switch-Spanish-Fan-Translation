@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-    <title>Cave Story+ Switch Spanish Translation</title>
+    <title>Cave Story+ Switch Spanish Translation — Parche + Mirror Mediafire</title>
     <style>
         /* Optimización para móviles: Fondo estático en Android para evitar lag */
         body {
@@ -101,13 +101,27 @@
             border: 2px solid white;
             font-weight: bold;
             font-size: 1.1em;
-            margin: 15px 0;
             transition: 0.3s;
             border-radius: 5px;
+            text-align: center;
+        }
+
+                .btn:hover, .btn:active {
+                    background-color: #0000AA;
+                    transform: scale(0.98)
+        }
+
+        .btn-mirror {
+            background-color: #1e5f8e;  /* Azul Mediafire distintivo */
+            border: 2px solid #ffcc00;
+        }
+        .btn-mirror:hover, .btn-mirror:active {
+            background-color: #0e4a6e;
+            transform: scale(0.98);
         }
 
         @media (min-width: 600px) {
-            .btn { display: inline-block; padding: 18px 35px; }
+            .btn { padding: 18px 35px; display: inline-block; }
         }
 
         .btn:active { background-color: #0000FF; transform: scale(0.98); }
@@ -159,6 +173,56 @@
             margin: 10px 0;
             overflow-x: auto;
         }
+        
+        .mirror-note {
+            font-size: 0.75rem;
+            background: #1e2a2a;
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            color: #aaffdd;
+            margin-top: 12px;
+        }
+        
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 18px;
+            justify-content: center;
+            margin-top: 15px;
+        }
+        
+        .button-group .btn {
+            margin: 0;
+            flex: 1;
+            min-width: 200px;
+        }
+        
+         .file-size-badge {
+            background: #2a5f3a;
+            color: #ccffcc;
+            font-weight: bold;
+            font-size: 0.85rem;
+            padding: 6px 14px;
+            border-radius: 40px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            letter-spacing: 0.5px;
+            border: 1px solid #88ff88;
+            margin: 10px auto 0 auto;
+            width: fit-content;
+            backdrop-filter: blur(2px);
+        }
+        
+        .size-icon {
+            font-size: 1rem;
+        }
+        
+        hr {
+            border-color: #333;
+            margin: 15px 0;
+        }
     </style>
 </head>
 <body>
@@ -180,30 +244,53 @@
             <small>(Próximamente: Curly Story y Mods)</small></p>
 
             <div class="download-card">
-                <h3>Zona de Descarga</h3>
+                <h3>📦 Zona de Descarga</h3>
                 <p>Archivos para Atmosphere (LayeredFS):</p>
-                <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases" class="btn">
-                    DESCARGAR PARCHE (.ZIP)
-                </a>
+  
+                <!-- Indicación clara del peso del archivo ZIP -->
+                <div class="file-size-badge">
+                    <span class="size-icon">💾</span> Tamaño del parche: 11.13 MB
+                </div>
+
+                <!-- Grupo de botones: GitHub + Mediafire Mirror (descarga directa) -->
+                <div class="button-group">
+                    <a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation/releases" class="btn" target="_blank" rel="noopener noreferrer">
+                        DESCARGAR PARCHE (.ZIP) (GITHUB)
+                    </a>
+                    <a href="https://www.mediafire.com/file/55megrdfv3w2qvv/Cave_Story_Switch_ES_rc_1.0.zip/file" class="btn btn-mirror" target="_blank" rel="noopener noreferrer">
+                        DESCARGA DIRECTA (.ZIP) (MEDIAFIRE)
+                    </a>
+                </div>
+                               
+                <!-- Pequeña nota de transparencia -->
+                <p style="font-size: 0.7rem; margin-top: 18px; color: #aaa; text-align: center;">
+                    🛡️ El mirror de Mediafire está verificado y contiene exactamente los mismos archivos que la release oficial
+                    <p style="font-size: 0.7rem; margin-top: 18px; color: #aaa; text-align: center;"></p>
+                   <strong>SHA256:</strong> <code>a5db9cd8887e8bf6803cee02244ec6208a2de5c2aedb6b9a9be382f43cecda4b</code>
+                    <p style="font-size: 0.7rem; margin-top: 18px; color: #aaa; text-align: center;"></p>
+                    Pulsa <strong>DESCARGA DIRECTA</strong> si github esta caido o no puedes acceder a él.
+                </p>
             </div>
 
             <div style="text-align: left; margin-top: 20px; background: #0a0a0a; padding: 20px; border: 1px solid #222; border-radius: 8px;">
-                <b style="color: #00ff00;">Cómo instalar:</b>
+                <b style="color: #00ff00;">📀 Cómo instalar el parche:</b>
                 <ol style="padding-left: 20px; margin-top: 10px;">
-                    <li>Extrae el contenido en tu tarjeta SD.</li>
-                    <li>Ruta: <code>/atmosphere/contents/01007D4002682000/romfs/data/</code></li>
+                    <li>Extrae el contenido del <strong>.zip</strong> en la raíz de tu tarjeta SD (Nintendo Switch con Atmosphere).</li>
+                    <li>Ruta final correcta: <code>/atmosphere/contents/01007D4002682000/romfs/data/</code></li>
+                    <li>Reinicia la consola o abre el juego. El texto aparecerá automáticamente en español.</li>
                 </ol>
+                <p style="margin-top: 12px;">⚠️ <strong>Requisito:</strong> tener el juego original Cave Story+ (versión Switch).</p>
             </div>
         </div>
         
         <div class="info-section">
-            <h3>1. Requisito: Instalar Python (v3.14+)</h3>
-            <p>El instalador requiere Python para funcionar.</p>
+            <h3>🐍 Requisito: Instalar Python (v3.14+)</h3>
+            <p>El instalador / herramientas del parche requieren Python para empaquetado o scripts auxiliares. (Opcional solo si compilas desde fuente)</p>
             
             <div style="margin-bottom: 20px;">
                 <b style="color: #fff;">Windows (Recomendado):</b>
                 <div class="terminal-box">
-                    <span style="color: #aaa; font-size: 0.75em; display: block; margin-bottom: 5px;">Rápido vía Terminal:</span>
+                    <span style="color: #aaa; font-size: 0.75em; display: block; margin-bottom: 5px;">⚡ Instalación rápida vía terminal (winget):</span>
                     <code>winget install -e --id Python.Launcher</code>
                 </div>
                 
@@ -215,22 +302,22 @@
 
             <div class="flex-container">
                 <div class="flex-item">
-                    <b style="color: #fff;">macOS:</b><br>
+                    <b style="color: #fff;">🍎 macOS:</b><br>
                     <a href="https://www.python.org/ftp/python/3.14.3/python-3.14.3-macos11.pkg" style="color: #00ff00; font-size: 0.9em; text-decoration: none;">📥 Descargar .pkg</a>
                 </div>
                 <div class="flex-item">
-                    <b style="color: #fff;">Linux:</b><br>
+                    <b style="color: #fff;">🐧 Linux:</b><br>
                     <a href="https://www.python.org/downloads/source/" style="color: #00ff00; font-size: 0.9em; text-decoration: none;">🌐 Ver Fuentes</a>
                 </div>
             </div>
 
             <p style="font-size: 0.85em; color: #ffff00; margin-top: 15px; background: rgba(255,255,0,0.1); padding: 10px; border-radius: 4px;">
-                ⚠️ <b>CONFIGURACIÓN:</b> Marca la casilla <b>"Add Python to PATH"</b> al instalar.
+                ⚠️ <b>CONFIGURACIÓN IMPORTANTE:</b> Marca la casilla <b>"Add Python to PATH"</b> al instalar.
             </p>
         </div>
 
         <footer>
-            <p>Cave Story es propiedad de Studio Pixel / Nicalis.</p>
+            <p>Cave Story es propiedad de Studio Pixel / Nicalis. Esta traducción es sin fines de lucro.</p>
             
             <div style="margin: 20px 0;">
                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -239,7 +326,8 @@
                 <small>Licencia CC BY-NC-SA 4.0</small>
             </div>
 
-            <p><a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation" class="link-footer">Ir al Repositorio de GitHub</a></p>
+            <p><a href="https://github.com/edwarly999plus/Cave-Story-Switch-Spanish-Fan-Translation" class="link-footer" target="_blank">📂 Ir al Repositorio de GitHub (código, issues, progreso)</a></p>
+            <p style="margin-top: 12px;">📡 <strong>Mirror oficial en Mediafire</strong> — activo en caso de que GitHub esté temporalmente fuera de servicio.</p>
         </footer>
     </div>
 
