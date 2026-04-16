@@ -214,3 +214,5 @@ Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos f
 
 ## 💬 Colaboración
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
+
+Para más info visita este [thread](https://forum.cavestory.org/threads/cave-story-switch-spanish-translation.18209/)
