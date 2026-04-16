@@ -177,7 +177,7 @@ def lanzar_restaurar():
     threading.Thread(target=proceso_restaurar, args=(b, d, root), daemon=True).start()
 
 root = tk.Tk()
-root.title("Cave Story+ Switch Manager (Lite)")
+root.title("Cave Story+ Switch Translation Manager")
 root.geometry("450x380")
 root.configure(bg="#000")
 
@@ -185,7 +185,7 @@ style = ttk.Style()
 style.theme_use('clam')
 style.configure("TProgressbar", thickness=15, background='#0000aa', bordercolor='#fff')
 
-tk.Label(root, text="CS+ SWITCH MANAGER", fg="#ffff00", bg="#000", font=("Verdana", 14, "bold")).pack(pady=30)
+tk.Label(root, text="CS+ SWITCH TRANSLATION MANAGER", fg="#ffff00", bg="#000", font=("Verdana", 14, "bold")).pack(pady=30)
 
 tk.Button(root, text="INSTALAR TRADUCCIÓN", command=lanzar_instalar, 
           bg="#0000aa", fg="#fff", font=("Verdana", 10, "bold"), width=30, pady=12).pack(pady=10)
