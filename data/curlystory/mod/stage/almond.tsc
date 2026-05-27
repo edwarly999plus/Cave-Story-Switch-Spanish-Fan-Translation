@@ -100,7 +100,7 @@ No puedes aflojarlo.<NOD<END
 #0255
 <PRI<MSG
 Un robot roto.<NOD
-Esta severamente danado.<NOD<END
+Esta severamente dañado.<NOD<END
 
 #0256
 
@@ -109,7 +109,7 @@ Esta severamente danado.<NOD<END
 
 #0300
 <KEY<MSG<FAC1119
-Que lugar tan extrano.<FAC1019<NOD<FAC1119
+Que lugar tan extraño.<FAC1019<NOD<FAC1119
 Sera una especie de base?<FAC1019<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC1125
@@ -192,7 +192,7 @@ Escuche algo...<FAC1019<NOD<CLO<WAI0050<ANP0253:0010:0001
 <MYB0002<WAI0030<MYD0002<MSG<FAC1119
 Mira!<FAC1019<NOD<CLR<FAC1119
 Un soldado de la superficie?<FAC1019<NOD<FAC1119
-Esta totalmente danado.<FAC1019<NOD<CLO<FAC0000
+Esta totalmente dañado.<FAC1019<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
 <MSG<FAC1125
@@ -249,7 +249,7 @@ Como!?!<FAC1026<NOD<CLR<FAC1119
 Hey!<FAC1019<NOD<CLR<FAC1119
 Tu eres esa bruja que
 Me tiro aqui!<FAC1019<NOD<CLR<FAC1119
-Estan los ninos a salvo!?!<FAC1019<NOD<CLR<FAC1116
+Estan los niños a salvo!?!<FAC1019<NOD<CLR<FAC1116
 Silencio!<FAC1016<NOD<CLR<FAC1116
 acaso sabes que sitio
 es este!?!<FAC1016<NOD<CLR
@@ -286,7 +286,7 @@ HoooooOOOAAAAH!!<WAI0050<NOD<CLO
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
 <MSG
-Perdiste... La consciencia...<NOD<CLO
+Perdiendo... Consciencia...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411
