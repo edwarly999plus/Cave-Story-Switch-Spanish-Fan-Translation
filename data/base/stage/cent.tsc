@@ -17,7 +17,7 @@
 <KEY<SOU0011<ANP0115:0000:0002<FAO0002<TRA0057:0092:0003:0004
 #0120
 <PRI<FLJ1105:0122<MSG
-What's the password?<NOD<FLJ1024:0121<END
+¿Cual es la contrasena?<NOD<FLJ1024:0121<END
 #0121
 <MSG
 "yrotS evaC".<NOD<CLO
@@ -31,11 +31,12 @@ What's the password?<NOD<FLJ1024:0121<END
 <FLJ1023:0137
 <ITJ0025:0136
 <MSG
-It reads "DO NOT ENTER".<NOD
-Also, it's locked.<NOD<END
+Dice "NO ENTRAR".<NOD
+Ademas, esta cerrada.<NOD<END
 #0136
 <SOU0022<MSG<GIT1025
-Used the Teleporter Room Key.<NOD<CLO
+Usaste la 
+=Llave Sala Teletransportador=.<NOD<CLO
 <GIT0000<FL+1023<EVE0137
 #0137
 <KEY<SOU0011<ANP0135:0000:0002<FAO0000<TRA0060:0090:0021:0009
@@ -43,7 +44,7 @@ Used the Teleporter Room Key.<NOD<CLO
 <KEY<FAO0000<TRA0061:0090:0029:0009
 #0150
 <PRI<FLJ1030:0151<MSG
-You're too early...<NOD<END
+Es muy pronto para ti...<NOD<END
 #0151
 <KEY<SOU0011<ANP0150:0000:0002<FAO0002
 <ITJ0023:0160
@@ -59,33 +60,33 @@ You're too early...<NOD<END
 <EVE0299
 #0201
 <PRI<MSG
-Red flowers are being grown in
-preparation for an attack against
-the surface.<NOD
-If what the Doctor says is true...
-well, we need to make these red
-flowers bloom at once.<NOD<END
+Se cultivan flores rojas en
+preparacion para un ataque contra
+la superficie.<NOD
+Si lo que dice el Doctor es cierto...
+bueno, debemos hacer que estas flores
+rojas florezcan de inmediato.<NOD<END
 #0210
 <PRI<FLJ1020:0211
 <EVE0299
 #0211
 <PRI<MSG
-Defeating the mean killer robots will
-be so simple with the red flowers
-in our possession!<NOD
-Bloom quickly little red flower!<NOD<END
+¡Derrotar a los robots asesinos
+sera simple con las flores rojas
+en nuestro poder!<NOD
+¡Florece pronto, pequena flor!<NOD<END
 #0220
 <PRI<FLJ1020:0221
 <EVE0299
 #0221
 <PRI<MSG
-Long live the great Doctor!<NOD<END
+¡Larga vida al gran Doctor!<NOD<END
 #0230
 <PRI<FLJ1020:0231
 <EVE0299
 #0231
 <PRI<MSG
-Why aren't you working...<NOD<END
+¿Por que no estas trabajando?...<NOD<END
 #0240
 <PRI
 <FLJ1037:0242
@@ -93,24 +94,24 @@ Why aren't you working...<NOD<END
 <EVE0299
 #0241
 <PRI<FL+1037<MSG
-You.<NOD<CLR
-You're a new face around here.<NOD
-You must be puzzled having been
-brought here so suddenly.<NOD<CLR
-Whatever.<NOD
-But don't even think about
-doing anything rash.<NOD
-If you run away and are caught,
-they're gonna toss you in jail.<NOD
-I'm safe and get to eat my meals,
-but that's only as long as I take care
-of their silly flowers.<NOD<END
+Tu.<NOD<CLR
+Eres una cara nueva por aqui.<NOD
+Debes estar confundido tras haber
+sido traido tan de repente.<NOD<CLR
+Como sea.<NOD
+Pero ni pienses en hacer ninguna
+tonteria.<NOD
+Si huyes y te atrapan, te van a
+echar a la carcel.<NOD
+Estoy a salvo y recibo comida,
+pero solo mientras cuide de
+sus tontas flores.<NOD<END
 #0242
 <PRI<MSG
-Hey, how's it going?<NOD<CLR
-If we're lucky enough, the good old
-days will be back again soon.<NOD<CLR
-Hmm... Maybe.<NOD<END
+Hey, ¿como va todo?<NOD<CLR
+Si tenemos suerte, los viejos
+tiempos volveran pronto.<NOD<CLR
+Hmm... Tal vez.<NOD<END
 #0250
 <PRI
 <ITJ0029:0254
@@ -118,38 +119,37 @@ Hmm... Maybe.<NOD<END
 <FLJ1028:0252
 <FLJ1020:0251
 <PRI<MSG
-This sprinkler is...<NOD<CLR
-Oops!
-I can't be talking to humans.<NOD<END
+Este aspersor esta...<NOD<CLR
+¡Oops!
+No puedo hablar con humanos.<NOD<END
 #0251
 <PRI<MSG
-These sprinklers are very useful,<NOD
-but they're so easy to break.<NOD<END
+Estos aspersores son muy utiles,<NOD
+pero se rompen facilmente.<NOD<END
 #0252
 <PRI<FL+1029<MSG
-It broke AGAIN!<NOD<CLR
+¡Se rompio OTRA VEZ!<NOD<CLR
 .....<NOD<CLR
-Hey, you, new guy!
-Go exchange this sprinkler with a
-new one that hopefully works.<NOD<END
+¡Oye tu, el nuevo!
+Ve a cambiar este aspersor por
+uno nuevo que si funcione.<NOD<END
 #0253
 <PRI<MSG
-GO GO GO!
-Or else the flower buds will die.<NOD
-Exchange it for a new sprinkler, 
-but hurry already!<NOD<END
+¡VE VE VE!
+O los brotes moriran.<NOD
+¡Cambialo por un aspersor nuevo,
+pero date prisa!<NOD<END
 #0254
 <PRI<MSG
-The red flower will turn us
-into the strongest warriors!<NOD
-In fact, we Mimiga have been
-this powerful all along.<NOD
-The battle fought against the
-robots wasn't just a legend.<NOD<CLR
-Hee hee.<NOD<CLR
-I wonder when they'll bloom...<NOD
-I'm getting really sick and tired
-of all this farming.<NOD<END
+¡La flor roja nos convertira
+en los guerreros mas fuertes!<NOD
+De hecho, los Mimiga siempre
+hemos sido asi de poderosos.<NOD
+La batalla contra los robots
+no fue solo una leyenda.<NOD<CLR
+Je je.<NOD<CLR
+Me pregunto cuando floreceran...<NOD
+Estoy harto de toda esta granja.<NOD<END
 #0260
 <PRI
 <FLJ1023:0263
@@ -157,38 +157,39 @@ of all this farming.<NOD<END
 <FLJ1035:0261
 <FL+1035
 <MSG
-Oh, it's you.<NOD<CLR
-I caught something strange.<NOD
-You can take it, if you want.<NOD
-It's inside the bucket.<NOD<END
+Oh, eres tu.<NOD<CLR
+Pesque algo extrano.<NOD
+Puedes quedartelo, si quieres.<NOD
+Esta dentro del cubo.<NOD<END
 #0261
 <PRI<MSG
-It's inside the bucket.<NOD<END
+Esta dentro del cubo.<NOD<END
 #0262
 <PRI<MSG
-What does that key belong to?<NOD<CLR
-From what I can tell, that key should
-work on a door somewhere nearby...<NOD<CLR
-I'm starved...<NOD<END
+¿A que pertenece esa llave?<NOD<CLR
+Por lo que veo, esa llave deberia
+funcionar en una puerta cercana...<NOD<CLR
+Estoy hambriento...<NOD<END
 #0263
 <PRI<MSG
-I can't catch anything today...<NOD<END
+No puedo pescar nada hoy...<NOD<END
 #0265
 <PRI
 <FLJ1022:0267
 <FLJ1035:0266
 <MSG
-It's a bucket used for storing fish.<NOD<END
+Es un cubo usado para los peces.<NOD<END
 #0266
 <PRI<FL+1022
 <MSG
-Peeked inside of the bucket.<NOD
-Inspecting carefully, you see an item
-of some kind, shining within.<NOD<CLR<GIT1025<IT+0025<CLR
-<CMU0010Obtained the Teleporter Room Key.<WAI0160<NOD<RMU<END
+Miraste dentro del cubo.<NOD
+Al inspeccionar, ves un objeto de
+algun tipo, brillando dentro.<NOD<CLR<GIT1025<IT+0025<CLR
+<CMU0010Obtuviste la 
+=Llave Sala Teletransportador=.<WAI0160<NOD<RMU<END
 #0267
 <PRI<MSG
-There's nothing else in the bucket...<NOD<END
+No hay nada mas en el cubo...<NOD<END
 #0299
 <PRI<MSG
 .....<NOD<END
@@ -203,199 +204,197 @@ There's nothing else in the bucket...<NOD<END
 <FLJ1041:0311
 <FLJ1044:0312
 <MSG
-The Doctor from the surface is using
-the Mimiga of this island to grow red
-flowers for him.<NOD<CLR
-Similar kinds of events have occurred
-in the past, too...<NOD<END
+El Doctor esta usando a los Mimiga
+de esta isla para cultivar flores
+rojas para el.<NOD<CLR
+Eventos similares han ocurrido
+en el pasado tambien...<NOD<END
 #0311
 <PRI<MSG
-This gal fell down near the spring.<NOD
-She doesn't remember who she is...<NOD<CLR
-Probably scrap metal now.<NOD<FL+1044<EVE0312
+Esta chica cayo cerca del manantial.<NOD
+No recuerda quien es...<NOD<CLR
+Probablemente sea chatarra ahora.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSG
-Just one thing...<NOD
-I've heard about some kinda special
-mushroom that supposedly helps
-recover one's memory if eaten.<NOD
-I wonder if that'll maybe work on this
-poor girl, too?<NOD<END
+Solo una cosa...<NOD
+He oido de un hongo especial que
+ayuda a recuperar la memoria de
+quien lo coma.<NOD
+¿Quizas funcione con esta pobre
+chica tambien?<NOD<END
 #0313
 <PRI<MSG
-Her memory is back...
-Well, that's not very exciting.<NOD<END
+Su memoria volvio...
+Bueno, eso no es muy emocionante.<NOD<END
 #0320
 <PRI
 <FLJ1046:0325
 <FLJ1045:0324
 <ITJ0024:0321
 <FL+1041<MSG<FAC1125
-Who...<FAC1025<NOD<FAC1125 are you?<FAC1025<NOD<ITJ0034:0322<END
+Quien...<FAC1025<NOD<FAC1125 eres tu?<FAC1025<NOD<ITJ0034:0322<END
 #0321
 <PRI<MSG<FAC1125
-Oow...<FAC1025<NOD<FAC1125
-You're cute...<FAC1025<NOD<CLR<FAC1125
-Don't go too far.<FAC1025<NOD<FAC1125
-Be careful with bad robots...<FAC1025<NOD<ITJ0034:0322<END
+Ay...<FAC1025<NOD<FAC1125
+Eres lindo...<FAC1025<NOD<CLR<FAC1125
+No vayas muy lejos.<FAC1025<NOD<FAC1125
+Ten cuidado con los robots malos...<FAC1025<NOD<ITJ0034:0322<END
 #0322
 <FAC0000<MSG<GIT1034
-Do you want to use the Ma Pignon?<YNJ0000<GIT0000<IT-0034<CMU0000<CLR
-Stuffed it into Curly's mouth.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
+¿Quieres usar el =Ma Pignon=?<YNJ0000<GIT0000<IT-0034<CMU0000<CLR
+Se lo metiste a Curly en la boca.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
 <MSG<FAC1025
 . . . . .<NOD<CLR<FAC1119
-Quote!!<FAC1019<NOD<FAC1119
-Now I remember!
-Your name's Quote!<FAC1019<NOD<CLR<FAC1119
-You and I are...<FAC1019<NOD<CLR
-<FAC1125Well...<FAC1025<NOD<CLR<FAC1125
-Before, a great number of
-us robots were sent to
-this island...<FAC1025<NOD<FAC1125
-We were sent by the
-countries of the surface.<FAC1025<NOD<CLR<FAC1125
-The purpose of the mission...<FAC1025<NOD<FAC1125
-it was the incredible
-slumbering power found on
-this floating island...<FAC1025<NOD<FAC1125
-And it was also about the
-Demon Crown.<FAC1025<NOD<FAC1125
-But you and I were different.<FAC1025<NOD<CLR<FAC1125
-We were sent on a mission to
-destroy that power.<FAC1025<NOD<CLR<FAC1125
-The island, it was in a mess
-when we landed.<FAC1025<NOD<FAC1125
-Ravaged by the robots...<FAC1025<NOD<CLR<FAC1125
-They murdered scores of
-poor little Mimiga...<FAC1025<NOD
-<FAC1120It was horrible...<FAC1020<NOD<CLR<FAC1125
-And finally, one man seized
-the Demon Crown.<FAC1025<NOD<CLR<FAC1125
-The robots' mission was
-complete and the island fell
-totally silent.<FAC1025<NOD<CLR<FAC1125
-But that was simply the 
-beginning of the tragedy.<FAC1025<NOD<FAC1125
-The man who was able to
-capture the crown turned
-the Mimiga into beasts,<FAC1025<NOD<FAC1125
-and they began attacking
-the surface.<FAC1025<NOD<CLR<FAC1125
-I faced him and tried my best
-to defeat him.<FAC1025<NOD<FAC1125
-You were with me then.<FAC1025<NOD<CLR
+¡¡Quote!!<FAC1019<NOD<FAC1119
+¡Ahora lo recuerdo!
+¡Tu nombre es Quote!<FAC1019<NOD<CLR<FAC1119
+Tu y yo somos...<FAC1019<NOD<CLR
+<FAC1125Bueno...<FAC1025<NOD<CLR<FAC1125
+Hace tiempo, muchos robots
+como nosotros fueron enviados
+a esta isla...<FAC1025<NOD<FAC1125
+Fuimos enviados por los
+paises de la superficie.<FAC1025<NOD<CLR<FAC1125
+El proposito de la mision...<FAC1025<NOD<FAC1125
+era el increible poder que
+duerme en esta isla flotante...<FAC1025<NOD<FAC1125
+Y tambien se trataba de
+la Corona Demoniaca.<FAC1025<NOD<FAC1125
+Pero tu y yo eramos distintos.<FAC1025<NOD<CLR<FAC1125
+Fuimos enviados en una mision
+para destruir ese poder.<FAC1025<NOD<CLR<FAC1125
+La isla era un desastre
+cuando aterrizamos.<FAC1025<NOD<FAC1125
+Devastada por los robots...<FAC1025<NOD<CLR<FAC1125
+Asesinaron a montones de
+pobres e inocentes Mimiga...<FAC1025<NOD
+<FAC1120Fue horrible...<FAC1020<NOD<CLR<FAC1125
+Y finalmente, un hombre se
+apodero de la Corona.<FAC1025<NOD<CLR<FAC1125
+La mision de los robots acabo
+y la isla quedo en silencio.<FAC1025<NOD<CLR<FAC1125
+Pero eso fue simplemente el
+comienzo de la tragedia.<FAC1025<NOD<FAC1125
+El hombre que capturo la corona
+convirtio a los Mimiga en fieras,<FAC1025<NOD<FAC1125
+y comenzaron a atacar
+la superficie.<FAC1025<NOD<CLR<FAC1125
+Me enfrente a el e intente
+con todas mis fuerzas derrotarlo.<FAC1025<NOD<FAC1125
+Tu estabas conmigo entonces.<FAC1025<NOD<CLR
 .....<NOD<CLR<FAC1125
-That's all I can remember.<FAC1025<NOD<CLR<FAC1125
-The crown bearer was
-surely injured by both our
-attacks that time.<FAC1025<NOD<CLR
-<FAC1119How about you?
-Can you recall something?
-Anything?<FAC1019<NOD<CLO
+Eso es todo lo que recuerdo.<FAC1025<NOD<CLR<FAC1125
+El portador de la corona fue
+herido por nuestros ataques
+aquella vez.<FAC1025<NOD<CLR
+<FAC1119¿Y tu?
+¿Puedes recordar algo?
+¿Lo que sea?<FAC1019<NOD<CLO
 <FL+1045<RMU<FLJ1020:0323<EVE0324<END
 #0323
 <PRI<EQ+0064<EVE0324<END
 #0324
 <PRI<MSG<FAC1119
-I'm fine now.<FAC1019<NOD<FAC1119
-Don't worry about me!<FAC1019<NOD<CLR<FAC1125
-Oh,<FAC1025<NOD<FAC1125 here.<FAC1025<NOD<CLR<FAC1119
-Please<GIT1039 keep this...<FAC1019<NOD<CLR<FAC0000
-<FL+1046<IT+0039Obtained the Iron Bond.<WAI0020<NOD<GIT0000<END
+Estoy bien ahora.<FAC1019<NOD<FAC1119
+¡No te preocupes por mi!<FAC1019<NOD<CLR<FAC1125
+Oh,<FAC1025<NOD<FAC1125 toma.<FAC1025<NOD<CLR<FAC1119
+Por favor<GIT1039 guarda esto...<FAC1019<NOD<CLR<FAC0000
+<FL+1046<IT+0039Obtuviste el =Lazo de Hierro=.<WAI0020<NOD<GIT0000<END
 #0325
 <PRI<MSG<FAC1119
-I'm fine now.
-Thanks for asking!<FAC1019<NOD<END
+Estoy bien ahora.
+¡Gracias por preguntar!<FAC1019<NOD<END
 #0350
 <PRI<MSG
-Do you want to launch the Rocket?<YNJ0000<CLO
+¿Quieres lanzar el Cohete?<YNJ0000<CLO
 <ANP0350:0010:0000<END
 #0360
 <PRI<MSG<FAC0128
-I'm back!<FAC0028<NOD<CLR<FAC0128
-Trying to hide was useless.
-And the rocket would never
-be completed without me!<FAC0028<NOD<CLR<FAC0128
-By the way...<FAC0028<NOD<CLR<FAC0128
-If you defeat the Doctor,<FAC0028<NOD<FAC0128
-think I'll become a human
-once more?<FAC0028<NOD<END
+¡He vuelto!<FAC0028<NOD<CLR<FAC0128
+Intentar esconderme fue inutil.
+¡Y el cohete nunca se habria
+terminado sin mi!<FAC0028<NOD<CLR<FAC0128
+Por cierto...<FAC0028<NOD<CLR<FAC0128
+Si derrotas al Doctor,<FAC0028<NOD<FAC0128
+¿crees que volvere a ser un
+humano otra vez?<FAC0028<NOD<END
 #0370
 <PRI<FLJ1034:0380<MSG<FAC0122<FL+1034
-Did you sleep well?<FAC0022<NOD<CLR<FAC0122
-The rocket is finished.<FAC0022<NOD<CLR<FAC0122
-Surely, you can beat the
-Doctor, yes?<FAC0022<NOD<FAC0122
-I believe you can.<FAC0022<NOD<CLR<FAC0122
-Please take this...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
+¿Dormiste bien?<FAC0022<NOD<CLR<FAC0122
+El cohete esta terminado.<FAC0022<NOD<CLR<FAC0122
+Seguro que puedes vencer al
+Doctor, ¿verdad?<FAC0022<NOD<FAC0122
+Creo que puedes hacerlo.<FAC0022<NOD<CLR<FAC0122
+Por favor, toma esto...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
-The Booster v0.8 was returned.<WAI0160<NOD<RMU<CLO
+El =Booster v0.8= fue devuelto.<WAI0160<NOD<RMU<CLO
 <GIT0000<EVE0375
 #0371
 <IT+0023<GIT1023
 <CMU0010<MSG
-The Booster v2.0 was returned.<WAI0160<NOD<RMU<CLO
+El =Booster v2.0= fue devuelto.<WAI0160<NOD<RMU<CLO
 <GIT0000<EVE0375
 #0375
 <PRI<MSG<FAC0122
-You won't need that mask
-any longer.<FAC0022<NOD<CLO<FAC0000
+Ya no necesitaras mas
+esa mascara.<FAC0022<NOD<CLO<FAC0000
 <MSG<GIT1024<IT-0024<EQ-0064<FL-1020
-She took the Mimiga Mask.<NOD<CLO<GIT0000<EVE0380
+Se llevo la =Mascara Mimiga=.<NOD<CLO<GIT0000<EVE0380
 #0380
 <PRI<MSG<FAC0122
-Directly above us is a way
-that leads to the throne.<FAC0022<NOD<FAC0122
-You should be able to make
-it there using this rocket.<FAC0022<NOD<CLR<FAC0122
-The Mimiga in the Plantation 
-are all gone now.<FAC0022<NOD<CLR<FAC0122
-...That means the red flower
-might have already been
-put to use.<FAC0022<NOD<CLR<FAC0122
-Well then.<FAC0022<NOD<CLR<FAC0122
-Please get on the rocket and
-hurry to the Doctor's throne.<FAC0022<NOD<END
+Justo encima hay un camino
+que lleva al trono.<FAC0022<NOD<FAC0122
+Deberias poder llegar alli
+usando este cohete.<FAC0022<NOD<CLR<FAC0122
+Los Mimiga de la Plantacion
+ya se han ido.<FAC0022<NOD<CLR<FAC0122
+...Eso significa que la flor roja
+podria haber sido utilizada ya.<FAC0022<NOD<CLR<FAC0122
+Bueno, entonces.<FAC0022<NOD<CLR<FAC0122
+Sube al cohete y date prisa
+en llegar al trono del Doctor.<FAC0022<NOD<END
 #0400
 <PRI<FLJ1102:0401<MSG
-It's gushing water at a furious rate.<NOD<END
+Lanza agua a un ritmo furioso.<NOD<END
 #0401
 <PRI<MSG
-Oy! I'm in trouble if you take that!<NOD<END
+¡Oye! ¡Tendre serios problemas
+si te llevas eso!<NOD<END
 #0410
 <PRI<FLJ1102:0411<MSG
-It's gushing water at a furious rate.<NOD<END
+Lanza agua a un ritmo furioso.<NOD<END
 #0411
 <PRI<MSG
-Oy! I'm in trouble if you take that!<NOD<END
+¡Oye! ¡Tendre serios problemas
+si te llevas eso!<NOD<END
 #0415
 <PRI<MSG
-It has stopped.<NOD<FLJ1029:0416<END
+Se ha detenido.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
-<CMU0010Obtained the Broken Sprinkler.<WAI0160<NOD<RMU<END
+<CMU0010Obtuviste el =Aspersor Roto=.<WAI0160<NOD<RMU<END
 #0450
 <PRI<FLJ1040:0451<FL+1040<MSG
-It's been a while.<NOD
-WOOF!<NOD<CLR
-I've been hired as a courier...<NOD
-This is for you.<NOD<CLR<SOU0022<CMU0016<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0005
-Max life increased by 5.<NOD<GIT0000<ITJ0015:0451<CLR
-Oh, and this, too...<NOD<CLR
-<CMU0010<GIT1015<IT+0015<GIT1015Obtained a Life Pot.<WAI0160<NOD<GIT0000<RMU<EVE0451
+Ha pasado un tiempo.<NOD
+¡GUAU!<NOD<CLR
+Me han contratado como mensajero...<NOD
+Esto es para ti.<NOD<CLR<SOU0022<CMU0016<GIT1006
+Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0005
+Vida maxima aumento en 5.<NOD<GIT0000<ITJ0015:0451<CLR
+Ah, y esto tambien...<NOD<CLR
+<CMU0010<GIT1015<IT+0015<GIT1015Obtuviste un =Pote Vital=.<WAI0160<NOD<GIT0000<RMU<EVE0451
 
 #0451
 <PRI<MSG
-You're going to fight the Doctor.<NOD
-You have my support!
-By the way, tell Curly I said hi!
-WOOF!<NOD<END
+Vas a luchar contra el Doctor.<NOD
+¡Tienes mi apoyo!
+¡Por cierto, dile hola a Curly!
+¡GUAU!<NOD<END
 #0460
 <PRI<MSG<TUR
-Careful with the spitting Gunfish! 
-Note: They can be used as steps.<NOD<END
+¡Cuidado con los Pecestolas!
+Nota: Pueden usarse como plataformas.<NOD<END
 #0480
 <KEY<HMC
 <FON0481:0016
@@ -407,8 +406,8 @@ Note: They can be used as steps.<NOD<END
 #0500
 <PRI<SOU0022<DNP0500<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0004
-Max life increased by 4.<NOD<END
+Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0004
+Vida maxima aumento en 4.<NOD<END
 #1200
 <KEY<ANP1200:0020:0000
 <FON1200:0016<FAI0001

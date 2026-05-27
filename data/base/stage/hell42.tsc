@@ -1,4 +1,3 @@
-
 #0090
 <MNA<CMU0000<FON0200:0001<WAI0002<BOA0020<FAI0000<END
 #0091
@@ -72,7 +71,7 @@
 
 #0110
 <PRI<MSG
-It won't open.<NOD<END
+No abre.<NOD<END
 
 
 #0120
@@ -92,11 +91,12 @@ It won't open.<NOD<END
 <DNP0900<SKJ0026:0000<SK+0026
 <ACH0046
 <PRI<MS3
-The Demon Crown will be restored anew
-an infinite number of times so long
-as Ballos' heart still beats...<NOD<CLR
-That is the supreme magical power of
-his eternally enraged soul.<NOD
-It is intrinsically imbued into his evil
-creation, the Demon Crown.<NOD<END
+La Corona del Demonio se restaurara
+una y otra vez infinitamente mientras
+el corazon de Ballos siga latiendo...<NOD<CLR
+Ese es el poder magico supremo de
+su alma eternamente enfurecida.<NOD
+Esta intrinsecamente imbuido en su
+malvada creacion, la Corona del
+Demonio.<NOD<END
 

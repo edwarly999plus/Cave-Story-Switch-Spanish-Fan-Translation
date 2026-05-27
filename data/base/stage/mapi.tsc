@@ -10,8 +10,6 @@
 #0094
 <MNA<CMU0000<FAI0004<END
 
-
-
 <FLJ1563:0101
 
 #0100
@@ -19,8 +17,7 @@
 <FAO0004<TRA0016:0094:0032:0002
 #0101
 <PRI<MSG
-It won't open!<NOD<END
-
+¡No abre!<NOD<END
 
 #0400
 <2MV0000
@@ -28,74 +25,73 @@ It won't open!<NOD<END
 <FLJ1563:0420
 <FLJ1562:0411
 <FLJ1561:0403<MSG
-You got some business with me?<YNJ0401<FLJ1044:0402<CLR
-Hmph, yeah right!<NOD<CLR
-You don't have any business with me!<NOD<END
+¿Tienes algun asunto conmigo?<YNJ0401<FLJ1044:0402<CLR
+Hmph, ¡claro que si!<NOD<CLR
+¡No tienes nada que hacer aqui!<NOD<END
 
 #0401
 <KEY<MSG
 Heh heh. 
-See you later.<NOD<END
+Nos vemos luego.<NOD<END
 
 #0402
 <KEY<FL+1561<MSG
-Hm, amnesia?<NOD
-Oh, that's terrible.<NOD<EVE0403
+Hm, ¿amnesia?<NOD
+Oh, eso es terrible.<NOD<EVE0403
 #0403
 <KEY<MSG
-Do you want the Mushroom Badge?<YNJ0408<EVE0404<END
+¿Quieres la Medalla Hongo?<YNJ0408<EVE0404<END
 
 #0404
 <KEY<MSG
-But you don't really need it then?<YNJ0405<EVE0408
+¿Pero entonces no la necesitas?<YNJ0405<EVE0408
 #0405
 <KEY<MSG
-Wait, you really do want it?<YNJ0409<EVE0406
+Espera, ¿de verdad la quieres?<YNJ0409<EVE0406
 #0406
 <KEY<MSG
-You REALLY want it no matter what?<YNJ0409<EVE0407
+¿DE VERDAD la quieres sin importar que?<YNJ0409<EVE0407
 #0407
 <KEY<MSG
-Then you don't need it?<YNJ0410<EVE0409
+¿Entonces no la necesitas?<YNJ0410<EVE0409
 
 #0408
 <KEY<MSG
-Oh, I see then.<NOD<END
+Oh, ya veo.<NOD<END
 #0409
 <KEY<MSG
-You don't need it...<NOD<END
+No la necesitas...<NOD<END
 
 #0410
 <KEY<MSG
-Well then, I'll give it to you.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
-<CMU0010Obtained the Mushroom Badge.<WAI0160<NOD<RMU<END
+Bueno, entonces te la dare.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
+<CMU0010Obtuviste la Medalla Hongo.<WAI0160<NOD<RMU<END
 
 #0411
 <KEY<MSG
-WHAAAAAAAAAAAT!<NOD<END
+¡QUEEEEEEEEEEE!<NOD<END
 
 #0420
 <KEY<MSG
-Ack!<NOD
-Found me out!<NOD<CLR
-That's just a normal badge.<NOD<CLR
+¡Ack!<NOD
+¡Me descubriste!<NOD<CLR
+Eso es solo una medalla normal.<NOD<CLR
 .....<NOD<CLR
-Say what?!?<NOD
-You say you're going to eat me?!<NOD<CLR
-I'm a very, very valuable mushroom!
-And the only one in this cave, too!<NOD<CLR
-Snap!<NOD
-Don't think for one minute that I'll let
-you eat me without me putting up a fight!<NOD<CLR<CMU0004
-IT'S ON!!<NOD<CLO<FL+1564
+¡¿Que dices?!<NOD
+¡¿Dices que vas a comerme?!<NOD<CLR
+¡Soy un hongo muy, muy valioso!
+¡Y el unico en esta cueva, tambien!<NOD<CLR
+¡Grrr!<NOD
+¡Ni pienses por un segundo que dejare
+que me comas sin dar pelea!<NOD<CLR<CMU0004
+¡¡AQUI VOY!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
 <BSL0500<END
 
-
 #0500
 <KEY<CMU0000<ANP0500:0500:0005<WAI0150
 <MSG
-I've... lost.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
-<CMU0010Obtained Ma Pignon.<WAI0160<NOD<RMU<END
+He... perdido.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
+<CMU0010Obtuviste a =Ma Pignon=.<WAI0160<NOD<RMU<END
 

@@ -1,3 +1,4 @@
+
 #0090
 <MNA<CMU0008<FAI0000<END
 #0091
@@ -17,7 +18,7 @@
 #0200
 <KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
 <ANP0400:0010:0000<MSG
-Ooouuwaah!<NOD<CLO
+¡Ooouuwaah!<NOD<CLO
 <ANP0400:0020:0000<WAI0050<END
 #0400
 <KEY
@@ -28,59 +29,60 @@ Ooouuwaah!<NOD<CLO
 <2MV0000
 <ANP0400:0010:0000
 <MSG
-EEEEK!<MYB0002<NOD<CLR
-Don't kill me!<NOD
-I'm a human!
-I was turned into a Mimiga by magic!<NOD<CLR
-Eh?<NOD<CLR
+¡EEEEK!<MYB0002<NOD<CLR
+¡No me mates!<NOD
+¡Soy un humano!
+¡Me transformaron en Mimiga
+con magia!<NOD<CLR
+¿Eh?<NOD<CLR
 .....<NOD<CLR<ANP0400:0000:0000<FAC0128
-You mean, you're not a
-killer robot?<FAC0028<NOD<FAC0128
-You startled me pretty badly
-by coming in so suddenly.<FAC0028<NOD<CLR<FAC0128
-Are you here to save us?<FAC0028<NOD<END
+Quieres decir que... ¿no eres
+un robot asesino?<FAC0028<NOD<FAC0128
+Me asustaste muchisimo
+al entrar tan de repente.<FAC0028<NOD<CLR<FAC0128
+¿Vienes a salvarnos?<FAC0028<NOD<END
 #0401
 <KEY<FL+1002
 <MSG<FAC0128
-I'm Itoh.
-I'm one of the humans who
-came to study the island.<FAC0028<NOD<FAC0128
-Misery gave me this lovely
-new Mimiga appearance.<FAC0028<NOD<FAC0128
-I could probably run away,
-but take a look at me and
-how I am now.<FAC0028<NOD<CLR<FAC0128
-I'm stuck!<FAC0028<NOD<CLR<FAC0128
-You must have climbed all the
-way up the wall from outside.<FAC0028<NOD<FAC0128
-I'm quite a capable engineer,
-but I also have an innate
-fear of heights.<FAC0028<NOD<CLR<FAC0128
+Soy Itoh.
+Soy uno de los humanos que
+vino a estudiar la isla.<FAC0028<NOD<FAC0128
+Misery me dio esta adorable
+nueva apariencia de Mimiga.<FAC0028<NOD<FAC0128
+Podria escapar, pero mira
+como estoy ahora.<FAC0028<NOD<CLR<FAC0128
+¡Estoy atrapado!<FAC0028<NOD<CLR<FAC0128
+Debiste haber escalado todo
+el muro desde afuera.<FAC0028<NOD<FAC0128
+Soy un ingeniero capaz,
+pero tengo un miedo innato
+a las alturas.<FAC0028<NOD<CLR<FAC0128
 Uuugh...<FAC0028<NOD<CLR<FAC0128
-I shouldn't have come to
-such a place like this
-floating island.<FAC0028<NOD<END
+No debi haber venido a un
+lugar como esta isla
+flotante.<FAC0028<NOD<END
 #0402
 <KEY<MSG<FAC0128
-You don't need anything from
-this miserable man who
-happens to be stuck here...<FAC0028<NOD<END
+No necesitas nada de este
+pobre hombre que resulto
+atrapado aqui...<FAC0028<NOD<END
 #0403
 <KEY<MSG<FL+1003<FAC0128
-Itoh?<FAC0028<NOD<FAC0128
-That's me.<FAC0028<NOD<CLR<FAC0128
-What?<FAC0028<NOD<FAC0128
-Sakamoto is making a rocket?<FAC0028<NOD<CLR<FAC0128
-I had no idea she was still
-alive and well...<FAC0028<NOD<FAC0128
-She's really strong.<FAC0028<NOD<FAC0128
-Compared to her, I'm...<FAC0028<NOD<CLR<FAC0128
-All right.<FAC0028<NOD<FAC0128
-Take this.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Obtained the Controller.<WAI0160<NOD<RMU
+¿Itoh?<FAC0028<NOD<FAC0128
+Ese soy yo.<FAC0028<NOD<CLR<FAC0128
+¿Que?<FAC0028<NOD<FAC0128
+¿Sakamoto esta fabricando
+un cohete?<FAC0028<NOD<CLR<FAC0128
+No tenia idea de que ella
+seguia viva y bien...<FAC0028<NOD<FAC0128
+Es muy fuerte.<FAC0028<NOD<FAC0128
+Comparado con ella, yo...<FAC0028<NOD<CLR<FAC0128
+Esta bien.<FAC0028<NOD<FAC0128
+Toma esto.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Obtuviste el =Controlador=.<WAI0160<NOD<RMU
 <CLR<FAC0128
-I think, perhaps, that this is
-what Sakamoto needs.<FAC0028<NOD<GIT0000<EVE0404
+Creo que, tal vez, esto es
+lo que Sakamoto necesita.<FAC0028<NOD<GIT0000<EVE0404
 #0404
 <KEY<MSG<FAC0128
-Say hello to her for me.<FAC0028<NOD<END
+Saludala de mi parte.<FAC0028<NOD<END

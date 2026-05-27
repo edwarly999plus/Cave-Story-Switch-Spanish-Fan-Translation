@@ -22,7 +22,7 @@
 
 #0100
 <PRI<MSG
-Teleport to Arthur's house?<YNJ0000<CLO
+¿Teletransportar a la casa de Arthur?<YNJ0000<CLO
 <FLJ0106:0102
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0008:0008
@@ -45,7 +45,7 @@ Teleport to Arthur's house?<YNJ0000<CLO
 
 #0108
 <PRI<FLJ0103:0109<MSG
-It won't open!<NOD<END
+¡No abre!<NOD<END
 #0109
 <KEY<SOU0011<ANP0108:0000:0002<FAO0004<TRA0052:0094:0007:0010
 
@@ -56,17 +56,17 @@ It won't open!<NOD<END
 
 #0200
 <PRI<MSG
-The carcass of a Flying Dragon...<NOD<END
+El cadaver de un Dragon Volador...<NOD<END
 #0201
 <ANP0201:0000:0002<END
 
 #0210
 <PRI<MSG
-There was a violent explosion all of 
-the sudden!<NOD<CLR
-Everything was like this after I came
-back around.<NOD
-What the heck is going on?!?<NOD<END
+¡De repente hubo una
+explosion violenta!<NOD<CLR
+Todo estaba asi cuando 
+recupere el sentido.<NOD
+¡¿Que demonios esta pasando?!<NOD<END
 
 #0300
 #0301
@@ -74,11 +74,10 @@ What the heck is going on?!?<NOD<END
 #0320
 <PRI<FLJ0880:0001<FL+0880<SOU0022<CNP0320:0021:0000
 <MSG
-Opened the treasure chest.<NOD<EVE0030
+Abriste el cofre del tesoro.<NOD<EVE0030
 
 
 #1200
 <KEY<ANP1200:0020:0000
 <FON1200:0016<FAI0001
 <WAI0100<FAO0001<TRA0006:1200:0171:0014
-

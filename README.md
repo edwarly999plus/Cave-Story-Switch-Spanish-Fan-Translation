@@ -13,7 +13,7 @@
 <p align="center">
   
   <!-- Estado de traducción (verde) -->
-  <img src="https://img.shields.io/badge/Estado%20de%20traducción-56%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 56%">
+  <img src="https://img.shields.io/badge/Estado%20de%20traducción-100%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 100%">
 
   <img src="https://img.shields.io/badge/Estado%20de%20traducción%20(Mods)-5%25-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traducción 5%">
   
@@ -30,9 +30,6 @@
   <br>
   <em>(Haz clic arriba para ir a la sección de descargas / Click above to go to the download section)</em>
 </p>
-
-> [!IMPORTANT]
-> **Nota sobre Pre-release:** Al ser una versión de prueba, la descarga se encuentra en la sección de "Releases". Asegúrate de descargar el archivo `.zip` que contiene el instalador.
 
 ## 🔨 Sobre El Proyecto
 
@@ -106,7 +103,7 @@ Si prefieres no usar Python, puedes copiar la carpeta `01007D4002682000` directa
 ---
   
 ## 🛠️ Estado del Proyecto
-* **Campaña Principal:** En desarrollo (Falta pulir algunas cosas, todo traducido hasta el Corredor De Huevos?).
+* **Campaña Principal:** En desarrollo (Todo el juego principal traducido).
 * **Mods y Contenido Extra:** No traducidos (¡Se buscan colaboradores!).
 * **Compatibilidad:** Probado en Nintendo Switch y doukutsu-rs.
 
@@ -189,5 +186,33 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 * **Editor/Port:** [Nicalis, Inc.](https://www.nicalis.com/)
 * **Traducción y Edición:** [EdwarlyGamer999+](https://www.youtube.com/@EdwarlyGamer999plusxd) (Yo).
 
+---
+
+  
+## 👥 Créditos de Colaboradores
+
+Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos finales del juego son:
+
+*  👑 **EdwarlyGamer999+ (Admin)** - Traducciones al Español de la campaña Principal y Programación TSC.
+* **LAIB** - Traducciones al Español de Curly Story (En Proceso...).
+
+
+> **Nota para colaboradores:** Si deseas contribuir, puedes enviar un Pull Request. ¡Todas las contribuciones aceptadas serán añadidas a los créditos dentro del juego!
+
+<div align= "center">
+  
+## **¡GRACIAS COLABORADORES!** 
+
+<p align= "center">
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d8ec7815-4705-471a-954e-8ca856d51fa4" /> 
+<img width="64" height="64" alt="LAIB" src="https://github.com/user-attachments/assets/c698b57f-8a78-4ce9-9215-7af10f3ce85b" />
+
+---
+
+<div align= "left">
+
 ## 💬 Colaboración
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
+
+Para más info visita este [thread](https://forum.cavestory.org/threads/cave-story-switch-spanish-translation.18209/)

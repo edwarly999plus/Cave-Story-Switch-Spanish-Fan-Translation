@@ -87,10 +87,9 @@ Quieres tomarlo?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
 <CMU0010Obtuviste la =Cuerda de Remolque=.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
-...?<NOD<END
-#0242
+...?<NOD<END#0242
 <PRI<MSG
-Está muy enredado. 
+Esta muy enredado. 
 No puedes aflojarlo.<NOD<END
 
 #0250
@@ -323,4 +322,6 @@ Puedo respirar!<NOD<FAI0004<WAI0050<END
 #1202
 <FON1200:0016<FAI0001
 <WAI0100<FAO0001<TRA0056:1200:0069:0076
+
+
 

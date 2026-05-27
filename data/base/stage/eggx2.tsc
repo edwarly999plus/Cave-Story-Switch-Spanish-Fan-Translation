@@ -15,65 +15,66 @@
 <KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0290:0008
 #0110
 <KEY<FLJ0940:0111<MSG
-A cold breeze blows through...<NOD<END
+Por aqui esta pasando 
+un viento frio...<NOD<END
 #0111
 <KEY<FAO0002<TRA0053:0092:0004:0165
 #0110
 #0400
 #0500
 <KEY<MSG
-Text appears on-screen.<NOD<CLR
-<TUR>_ INCUBATION SUCCESSFUL.<NOD<FLJ0941:0000<CLO
+Aparece un texto en pantalla.<NOD<CLR
+<TUR>_ INCUBACION COMPLETADA.<NOD<FLJ0941:0000<CLO
 <2MV0000
 <FL+0941
 <WAI0020<CMU0000<MSG
-Who's over there?<MYD0002<NOD<CLO
+¿Quien anda ahi?<MYD0002<NOD<CLO
 <WAI0050<CNP0400:0055:0000
 <WAI0010<ANP0400:0003:0000
 <WAI0048<ANP0400:0000:0000
 <CMU0014<MSG<FAC0110
-Oh, it's you.<FAC0010<NOD<CLR<FAC0110
-I didn't know if you were
-safe or not.<FAC0010<NOD<FAC0110
-I'm the only person here.<FAC0010<NOD<CLR<FAC0110
-After you took off to Sand
-Zone we sped up preparations
-for securing an escape.<FAC0010<NOD<CLR<FAC0110
-It was then that Misery
-showed up.<FAC0010<NOD<FAC0110
-Sue was taken away...<FAC0010<NOD<FAC0110
-and Professor Booster, he
-disappeared somewhere...<FAC0010<NOD<CLR
+Oh, eres tu.<FAC0010<NOD<CLR<FAC0110
+No sabia si estabas a
+salvo o no.<FAC0010<NOD<FAC0110
+Soy la unica persona aqui.<FAC0010<NOD<CLR<FAC0110
+Tras irte a la Zona Arenosa,
+aceleramos los preparativos
+para asegurar un escape.<FAC0010<NOD<CLR<FAC0110
+Fue entonces cuando aparecio
+Misery.<FAC0010<NOD<FAC0110
+Se llevaron a Sue...<FAC0010<NOD<FAC0110
+y el Profesor Booster...
+el desaparecio tambien...<FAC0010<NOD<CLR
 .....<NOD<CLR<FAC0110
-The Doctor has apparently
-acquired the flower seeds.<FAC0010<NOD<CLR<FAC0110
-But,<FAC0010<NOD<FAC0110 I'm not blaming you.<FAC0010<NOD<ANP0400:0000:0002<FAC1110
-The Doctor's victory was
-certain from the moment he 
-acquired the Demon Crown.<FAC1010<NOD<CLR<FAC1110
-It's only a matter of time
-before his Mimiga army is 
-ready to attack the surface...<FAC1010<NOD<CLR<FAC1110
-If that does happen, it'll be
-futile to try to defeat the
-Doctor,<FAC1010<NOD<FAC1110 even for you.<FAC1010<NOD<CLO<FAC0000
+Parece que el Doctor ha
+conseguido las semillas de
+las flores rojas.<FAC0010<NOD<CLR<FAC0110
+Pero,<FAC0010<NOD<FAC0110 no te culpo.<FAC0010<NOD<ANP0400:0000:0002<FAC1110
+La victoria del Doctor era
+segura desde que obtuvo la
+Corona Demoniaca.<FAC1010<NOD<CLR<FAC1110
+Es cuestion de tiempo que
+su ejercito Mimiga este 
+listo para atacar la superficie.<FAC1010<NOD<CLR<FAC1110
+Si eso pasa, sera inutil
+tratar de derrotarlo,<FAC1010<NOD<FAC1110
+incluso para ti.<FAC1010<NOD<CLO<FAC0000
 <WAI0010<ANP0400:0003:0002
 <WAI0016<ANP0400:0000:0002
 <MSG<FAC1110
-You have no choice but to
-run from this place...<FAC1010<NOD<CLR<FAC1110
-Anyway, an escape is
-possible, but only by using
-a Flying Dragon.<FAC1010<NOD<FAC1110
-That's why I came here all
-on my own...<FAC1010<NOD<CLR<FAC1110
-For the Flying Dragon that
-I need hatched safely.<FAC1010<NOD<CLO<FAC0000
+No tienes mas opcion que
+huir de este lugar...<FAC1010<NOD<CLR<FAC1110
+De todas formas, escapar es
+posible, pero solo usando
+un Dragon Volador.<FAC1010<NOD<FAC1110
+Por eso vine aqui solo...<FAC1010<NOD<CLR<FAC1110
+Para que el Dragon que
+necesito nazca a salvo.<FAC1010<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
 <MSG<FAC0110
-Want to escape with me?<FAC0010<YNJ0501<FL+0960<CLR<ANP0400:0000:0002<FAC1110
-I know, it can't be helped.<FAC1010<NOD<FAC1110
-You did your best.<FAC1010<NOD<CLO
+¿Quieres huir conmigo?<FAC0010<YNJ0501<FL+0960<CLR<ANP0400:0000:0002<FAC1110
+Lo entiendo, no hay remedio.<FAC1010<NOD<FAC1110
+Hiciste lo que pudiste.<FAC1010<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940
@@ -81,26 +82,27 @@ You did your best.<FAC1010<NOD<CLO
 #0501
 <KEY<WAI0020<ANP0400:0000:0002
 <MSG<FAC1110
-I see...<FAC1010<NOD<CLO<FAC0000
+Ya veo...<FAC1010<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
 <MSG<FAC0110
-Truth be told...<FAC0010<NOD<FAC0110
-There is one way you can
-change the Mimiga back into
-their original state.<FAC0010<NOD<CLR<FAC0110
-Destroy the island's core.<FAC0010<NOD<FAC0110
-But the island may collapse
-if you do destroy the core.<FAC0010<NOD<FAC0110
-Is it too dangerous a choice
-for you to make?<FAC0010<NOD<WAI0050<ANP0400:0000:0000<CLR<FAC0110
-Either way, I don't know
-where to find the core...<FAC0010<NOD<CLR<FAC0110
-If you really want to try and
-do it then I'll wait for you.<FAC0010<NOD<CLR<FAC0110
-But I may need to flee the
-island at anytime if it gets
-too dangerous for me.<FAC0010<NOD<CLO
+A decir verdad...<FAC0010<NOD<FAC0110
+Hay una forma de que los
+Mimigas vuelvan a su estado
+original.<FAC0010<NOD<CLR<FAC0110
+Destruye el Nucleo de la
+isla.<FAC0010<NOD<FAC0110
+Pero la isla podria caer
+si destruyes el Nucleo.<FAC0010<NOD<FAC0110
+¿Es una opcion demasiado
+peligrosa para ti?<FAC0010<NOD<WAI0050<ANP0400:0000:0000<CLR<FAC0110
+Sea como sea, no se donde
+esta el Nucleo...<FAC0010<NOD<CLR<FAC0110
+Si de verdad quieres tratar
+de hacerlo, te esperare.<FAC0010<NOD<CLR<FAC0110
+Pero tendre que huir si se
+vuelve muy peligroso para
+mi quedarme aqui.<FAC0010<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940
