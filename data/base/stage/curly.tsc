@@ -21,7 +21,7 @@
 <FAO0004<TRA0032:0094:0011:0009
 #0102
 <PRI<MSG
-No se abre!<NOD<END
+¡No se abre!<NOD<END
 #0200
 <KEY
 <FLJ0564:0204
@@ -33,11 +33,11 @@ No tengo nada que decirte.<NOD<END
 Ten cuidado con los cocodrilos.
 Muerden de repente si te atreves
 a caminar por la arena.<NOD
-¡Y te quitaran un buen trozo!<NOD<END
+¡Y te quitarán un buen trozo!<NOD<END
 #0202
 <FLJ0273:0205
 <KEY<MSG
-Debes eliminar la maldicion
+Debes eliminar la maldición
 para mover los Soles de Piedra.<NOD<END
 #0203
 <KEY<MSG
@@ -49,25 +49,25 @@ Quiero comer un rico pescado.
 La abuela Jenka cuidaba de la
 Zona Arenosa hace MUUUCHO tiempo
 con todos sus perritos.<NOD<CLR
-La casa de la abuela Jenka esta...<NOD<CLR
+La casa de la abuela Jenka está...<NOD<CLR
 Bueno...<NOD<CLR
-En algun lugar de la Zona Arenosa.<NOD<END
+En algún lugar de la Zona Arenosa.<NOD<END
 #0205
 <KEY<MSG
-Nuestra verdadera madre murio
-hace mucho por el robot.<NOD<CLR
-Ella fue quien nos crio,
-incluso antes de que pudieramos
+Nuestra verdadera madre murió
+hace mucho por los robots.<NOD<CLR
+Ella fue quien nos crió,
+incluso antes de que pudiéramos
 abrir nuestros ojos.<NOD<END
 #0206
 <KEY<MSG
-¿Estas buscando flores rojas?<NOD
-La anciana llamada Jenka podria
+¿Estás buscando flores rojas?<NOD
+La anciana llamada Jenka podría
 saber algo sobre ellas.<NOD<CLR
-Ah, si, una cosa mas...<NOD<CLR
-Si vas a su casa, deberias llevar
-al perro que esta junto a la cama.
-Mira en la habitacion de al lado.<NOD<FL+0564<END
+Ah, sí, una cosa más...<NOD<CLR
+Si vas a su casa, deberías llevar
+al perro que está junto a la cama.
+Mira en la habitación de al lado.<NOD<FL+0564<END
 #0300
 <KEY<DNP0300<MM0<MYD0000<CMU0000
 <FL+0561<MSG
@@ -79,9 +79,9 @@ Mira en la habitacion de al lado.<NOD<FL+0564<END
 <CNP0311:0122:0002<DNP0201<WAI0010
 <CNP0312:0122:0002<DNP0202<WAI0100
 <CNP0313:0122:0002<DNP0203<MSG<FAC1119
-¡Mira, un visitante despues de
+¡Mira, un visitante después de
 tanto tiempo!<FAC1019<NOD<CLR<FAC1119
-¡Se lo que quieres hacer!<FAC1019<NOD<FAC1119
+¡Sé lo que quieres hacer!<FAC1019<NOD<FAC1119
 ¡Pero despierta!<FAC1019<NOD<FAC1119
 ¡Los Mimigas no son malos!<FAC1019<NOD<FAC1119
 ¡Son totalmente inofensivos!<FAC1019<NOD<CLR<FAC1119
@@ -119,23 +119,23 @@ no voy a perder contra ti!<FAC1019<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
 <MSG<FAC1120
-Tu ganas...<FAC1020<NOD<FAC1120
+Tú ganas...<FAC1020<NOD<FAC1120
 He perdido...<FAC1020<NOD<CLR<FAC1120
 ¿Planeas matar a
 los Mimiga?<FAC1020<YNJ0410<CLR<FAC1120
 Ya veo...<FAC1020<NOD<CLR<FAC1120
-Que lastima...<FAC1020<NOD<PRI<CLO
+Qué lástima...<FAC1020<NOD<PRI<CLO
 <FAO0004<TRA0029:0090:0015:0009
 #0410
 <KEY<FL+0562<MSG<FAC1119
 ¡Oh!<FAC1019<NOD<FAC0000<CLO
 <ANP0400:0010:0000<WAI0050
 <MSG<FAC1119
-¿Tu tambien estas del lado
+¿Tú también estás del lado
 de los Mimiga?<FAC1019<NOD<CLR<FAC1119
-¡Lo se, no es su culpa!<FAC1019<NOD<CLR<FAC1119
+¡Lo sé, no es su culpa!<FAC1019<NOD<CLR<FAC1119
 Soy Curly Brace.<FAC1019<NOD<FAC1119
-He estado con estos pequenos
+He estado con estos pequeños
 desde antes de que pueda
 recordar.<FAC1019<NOD<CLR<FAC1125
 No recuerdo nada de antes
@@ -149,7 +149,7 @@ otros robots...<FAC1020<NOD<CLO
 #0415
 <KEY<MSG<FAC1119
 ¡Ooh!<FAC1019<NOD<CLR<FAC1119
-Tu Estrella Polar, esta bastante
+Tu Estrella Polar, está bastante
 maltratada.<FAC1019<NOD<FAC1119
 ¿Quieres cambiarla por mi
 Ametralladora?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
@@ -158,10 +158,10 @@ Ametralladora?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
 <FAO0004<TRA0029:0090:0015:0009
 #0420
 <KEY<MSG<FAC1119
-¿Ah, si?<FAC1019<NOD<CLR<FAC1119
+¿Ah, sí?<FAC1019<NOD<CLR<FAC1119
 Puedes volver cuando quieras
 si terminas cambiando de
-opinion o algo.<FAC1019<NOD<PRI<CLO<MYD0000
+opinión o algo.<FAC1019<NOD<PRI<CLO<MYD0000
 <FAO0004<TRA0029:0090:0015:0009
 #0500
 <KEY
@@ -169,18 +169,18 @@ opinion o algo.<FAC1019<NOD<PRI<CLO<MYD0000
 <FLJ0562:0515
 <MSG<FAC1119
 ¿Eh?<FAC1019<NOD<CLR<FAC1119
-Hola, Sr. Maquina Asesina.<FAC1019<NOD<CLR<FAC1119
-¿Todavia vas a acabar con
+Hola, Sr. Máquina Asesina.<FAC1019<NOD<CLR<FAC1119
+¿Todavía vas a acabar con
 todos los Mimiga?<FAC1019<YNJ0510<CLR<FAC1120
 En fin...<FAC1020<NOD<CLR<FAC1120
 Es una verdadera pena...<FAC1020<NOD<END
 #0510
 <KEY<FL+0562<MSG<FAC1119
 ¡Ooh!<FAC1019<NOD<CLR<FAC1119
-¿Estas del lado de los Mimiga?<FAC1019<NOD<CLR<FAC1119
-¡Lo se, no es su culpa!<FAC1019<NOD<CLR<FAC1119
+¿Estás del lado de los Mimiga?<FAC1019<NOD<CLR<FAC1119
+¡Lo sé, no es su culpa!<FAC1019<NOD<CLR<FAC1119
 Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
-He estado con estos pequenos
+He estado con estos pequeños
 desde antes de que pueda
 recordar.<FAC1019<NOD<CLR<FAC1125
 No recuerdo nada de antes
@@ -194,7 +194,7 @@ otros robots...<FAC1020<NOD<CLO
 #0515
 <KEY<MSG<FAC1119
 ¡Ooh!<FAC1019<NOD<CLR<FAC1119
-Tu Estrella Polar, esta bastante
+Tu Estrella Polar, está bastante
 Horrible.<FAC1019<NOD<FAC1119
 ¿Quieres cambiarla por mi
 Ametralladora?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
@@ -202,13 +202,13 @@ Ametralladora?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
 <CMU0010<GIT0004Obtuviste la Ametralladora.<WAI0160<NOD<RMU<END
 #0520
 <KEY<MSG<FAC1119
-¿Ah, si?<FAC1019<NOD<CLR<FAC1119
+¿Ah, sí?<FAC1019<NOD<CLR<FAC1119
 Puedes volver cuando quieras
 si terminas cambiando de
-opinion o algo.<FAC1019<NOD<END
+opinión o algo.<FAC1019<NOD<END
 #0530
 <KEY<MSG<FAC1125
 ¡Todo esto es culpa de los
 humanos!<FAC1025<NOD<FAC1125
-Los Mimiga solo estan siendo
+Los Mimiga solo están siendo
 utilizados.<FAC1025<NOD<END

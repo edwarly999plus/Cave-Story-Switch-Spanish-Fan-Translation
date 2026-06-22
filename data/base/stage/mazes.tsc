@@ -23,14 +23,14 @@
 <KEY<FAO0004<MYD0002<TRA0045:0092:0002:0005
 #0200
 <PRI<FLJ0201:0201<MSG
-El cofre esta bajo una maldicion que
+El cofre está bajo una maldición que
 impide que sea abierto...<NOD<END
 #0201
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
 <SOU0022<CNP0200:0021:0000
 <MSG
 Has abierto el cofre del tesoro.<NOD<CLR<TAM0005:0010:0000
-<CMU0010<GIT0010Los misiles han sido mejorados!<WAI0160<NOD<RMU<END
+<CMU0010<GIT0010¡Los misiles han sido mejorados!<WAI0160<NOD<RMU<END
 #0300
 <KEY
 <FLJ0764:0303
@@ -43,9 +43,9 @@ que llegaras.<FAC0019<NOD<CLR<FAC0119
 Si movemos esta roca podremos
 seguir adelante hacia la
 salida del laberinto.<FAC0019<NOD<CLR<FAC0119
-Se rumorea que mas adelante 
+Se rumorea que más adelante 
 hay una guarida de criaturas.<FAC0019<NOD<FAC0119
-Preparate para cualquier cosa.<FAC0019<NOD<CLR<FAC0119
+Prepárate para cualquier cosa.<FAC0019<NOD<CLR<FAC0119
 Bien entonces, movamos esta
 roca a un lado.<FAC0019<NOD<FAC0119
 Sujeta ese extremo y luego...<FAC0019<NOD<CLO
@@ -53,15 +53,15 @@ Sujeta ese extremo y luego...<FAC0019<NOD<CLO
 #0301
 <KEY<ANP0300:0000:0000
 <MSG<FAC0119
-¿Que ocurre?<FAC0019<NOD<FAC0119
-No te estaras acobardando,
+¿Qué ocurre?<FAC0019<NOD<FAC0119
+No te estarás acobardando,
 ¿verdad?<FAC0019<NOD<CLR<FAC0119
 ¡Por supuesto que no, cierto!<FAC0019<NOD<FAC0119
 Ahora, sujeta ese 
 extremo de una vez.<FAC0019<NOD<ANP0300:0020:0000<END
 #0302
 <PRI<MSG
-Esta fuera de combate.<NOD<END
+Está fuera de combate.<NOD<END
 #0303
 <PRI<MSG<FAC0119
 ¡AHORA!<FAC0019<NOD<CLR<FAC0119
@@ -95,7 +95,7 @@ Esta fuera de combate.<NOD<END
 <MSG<FAC0125
 No se mueve ni un pelo.<FAC0025<NOD<FAC0125
 Tal vez sea imposible moverla
-solo con nosotros dos...<FAC0025<NOD<FAC0000<CLO
+sólo con nosotros dos...<FAC0025<NOD<FAC0000<CLO
 <WAI0050
 <MSG
 ¡¡Huzzah!!<CMU0000<NOD<CLO
@@ -104,31 +104,31 @@ solo con nosotros dos...<FAC0025<NOD<FAC0000<CLO
 <ANP0310:0030:0002<CMU0011
 <MYD0000
 <MSG<FAC0119
-¡Oye, eres tu!<FAC0019<NOD<CLR<FAC0114
+¡Oye, eres tú!<FAC0019<NOD<CLR<FAC0114
 Je je.<FAC0014<NOD<CLR<FAC0114
-¡Asi que ESTAN vivos!<FAC0014<NOD<CLR<FAC0114
+¡Así que ESTÁN vivos!<FAC0014<NOD<CLR<FAC0114
 ¡Y encima de eso, ustedes dos
-estan intentando escapar
+están intentando escapar
 del Laberinto!<FAC0014<NOD<CLR<FAC0114
-¿No deberian estar descansando
+¿No deberían estar descansando
 en lugar de intentar 
 escapar, eh?<FAC0014<NOD<CLR<FAC0114
 Recuerden que no pueden 
-desafiar al maestro mas de 
+desafiar al maestro más de 
 lo que yo puedo.<FAC0014<NOD<CLR<FAC0114
 ¡Bien entonces!<FAC0014<NOD<FAC0114
 ¡Voy a terminar con esto!<FAC0014<NOD<CLR<FAC0114
-Quedaran aqui con el resto
+Quedarán aquí con el resto
 de la chatarra.<FAC0014<NOD<CLR<FAC0119
 ¡Oh, esto es perfecto!<FAC0019<NOD<FAC0119
-Tu puedes agarrar el medio...<FAC0019<NOD<FAC0000<CLO<CMU0000
+Tú puedes agarrar el medio...<FAC0019<NOD<FAC0000<CLO<CMU0000
 <WAI0100
 <ANP0310:0060:0002<WAI0048
 <ANP0310:0050:0002<WAI0020
 <ANP0300:0020:0000<WAI0020
 <MYD0002<MYD0003<MSG<FAC0119
 ¡¿¡Listos!?!<FAC0019<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0123
-ES QUE NO ME ESTAN
+ES QUE NO ME ESTÁN
 ESCUCHANDO EN ABSOLUTO!?!<FAC0023<NOD<CLR<CLO
 <ANP0310:0000:0000<CMU0004<CNP0310:0169:0000<BSL0310
 <FL+0762<FL+0763
@@ -143,7 +143,7 @@ ESCUCHANDO EN ABSOLUTO!?!<FAC0023<NOD<CLR<CLO
 <MSG
 Es una roca gigante y pesada.<NOD<CLR
 Hay una brisa viniendo desde
-detras de la enorme roca.<NOD
+detrás de la enorme roca.<NOD
 Tal vez sea imposible para una sola
 persona moverla sin ayuda.<NOD<END
 #0501
@@ -151,7 +151,7 @@ persona moverla sin ayuda.<NOD<END
 <ANP0300:0000:0000
 <MSG<FAC0120
 ¿No puedes agarrarla un poco
-mas cerca del extremo?<FAC0020<NOD<CLO
+más cerca del extremo?<FAC0020<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
 <PRI<MSG
@@ -166,16 +166,16 @@ Es una roca gigante y pesada.<NOD<END
 <FAI0004
 <MSG<FAC0105
 Derrotado de nuevo...<FAC0005<NOD<CLR<FAC0105
-Movere la roca por ustedes.<FAC0005<NOD<FAC0105
+Moveré la roca por ustedes.<FAC0005<NOD<FAC0105
 Pero a cambio...<FAC0005<NOD<ANP0330:0000:0000<CLR<FAC0105
 Mantengan en secreto el hecho
-de que les ayude a moverla.<FAC0005<NOD<CLR<FAC1119
+de que les ayudé a moverla.<FAC0005<NOD<CLR<FAC1119
 ¡No te preocupes!<FAC1019<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000
 <MSG<FAC0119
-¡Aqui vamos!<FAC0019<NOD<CLO<FAC0000
+¡Aquí vamos!<FAC0019<NOD<CLO<FAC0000
 <ANP0500:0010:0000<WAI0100
 <ANP0330:0080:0002
 <ANP0300:0000:0002
@@ -185,7 +185,7 @@ de que les ayude a moverla.<FAC0005<NOD<CLR<FAC1119
 <WAI0100<MSG<FAC0105
 ¿Lo entienden?<FAC0005<ANP0300:0000:0000<NOD<FAC0105
 Que yo os he ayudado...
-¡ES NUESTRO PEQUENO SECRETO!<FAC0005<NOD<CLR<FAC0119
+¡ES NUESTRO PEQUEÑO SECRETO!<FAC0005<NOD<CLR<FAC0119
 ¡Cierto!<FAC0019<NOD<CLO<FAC0000<ANP0330:0010:0000
 <WAI0160<CNP0200:0015:0002<WAI0040
 <MSG<FAC0119

@@ -11,7 +11,7 @@
 
 #0100
 <PRI<MSG
-Estas encerrado...<NOD<END
+Estás encerrado...<NOD<END
 <ANP0100:0000:0002<SOU0011<FAO0004<TRA0062:0094:0079:0073
 
 #0110
@@ -29,5 +29,4 @@ tiempo un minuto o dos.<NOD<CLR
 
 #0250
 <PRI<MSG
-La cama esta inclinada hacia un lado...<NOD<END
-
+La cama está inclinada hacia un lado...<NOD<END

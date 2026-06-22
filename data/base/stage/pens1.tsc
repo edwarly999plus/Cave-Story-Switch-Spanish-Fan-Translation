@@ -40,21 +40,21 @@
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR<TUR
 "Kazuma: pero, que sepas, si llego
-a ese punto lo hare..."<NOD<FLJ0153:0000<CLR<MSG
-Permitir teletransporte al 
+a ese punto lo haré..."<NOD<FLJ0153:0000<CLR<MSG
+¿Permitir teletransporte al 
 Corredor de Huevos?<YNJ0000<CLR
 Corredor de Huevos ahora es 
-accesible via teletransporte.<NOD<FL+0153<PS+0001:6001<END
+accesible vía teletransporte.<NOD<FL+0153<PS+0001:6001<END
 #0201
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR
-Preparando conexion con Grasstown...<NOD<END
+Preparando conexión con Grasstown...<NOD<END
 #0202
 <KEY<MSG
-Conexion con Grasstown completada.<NOD<END
+Conexión con Grasstown completada.<NOD<END
 #0203
 <KEY<MSG
-Orden?<NOD<END
+¿Orden?<NOD<END
 #0204
 <KEY<MSG
 Conectado a la Zona Arenosa.<NOD<END
@@ -65,7 +65,7 @@ Ven al Corredor de Huevos...
  - Kazuma<NOD<END
 #0210
 <KEY<MSG
-Flores???<NOD<END
+¿Flores???<NOD<END
 #0300
 #0301
 #0303
@@ -85,12 +85,12 @@ a cambio de Toroko.<FAC0009<NOD<CLR<FAC0109
 Siento pena, pero Toroko--<FAC0009<NOD<FAC0109
 es de los nuestros.<FAC0009<NOD<FAC0109
 No necesitamos a alguien como
-Sue que solo piensa en si misma
-y en nadie mas.<FAC0009<NOD<END
+Sue que solo piensa en sí misma
+y en nadie más.<FAC0009<NOD<END
 #0601
 <KEY<MSG<FAC0109
 Oh, espero que Toroko 
-no este herida...<FAC0009<NOD<END
+no esté herida...<FAC0009<NOD<END
 #0620
 <KEY<CMU0000<FL+0156<FL+0444
 <ANP0500:0001:0000
@@ -100,24 +100,24 @@ no este herida...<FAC0009<NOD<END
 <ANP0621:0030:0000<WAI0100
 <MSG<FAC0118
 Auch...<FAC0018<NOD<CLR<FAC0110
-Estas bien?<FAC0010<NOD<CLO<FAC0000
+¿Estás bien?<FAC0010<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
 <MSG<FAC1118
-Si...<FAC1018<NOD<CLR<FAC1118
-Pero de verdad pense que no
-lo ibamos a lograr.<FAC1018<NOD<CLR<FAC0010
+Sí...<FAC1018<NOD<CLR<FAC1118
+Pero de verdad pensé que no
+lo íbamos a lograr.<FAC1018<NOD<CLR<FAC0010
 .....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
 <MSG<FAC0101
-Kazuma!<FAC0001<NOD<ANP0622:0000:0002<CLR<FAC0101
-Y el profesor Booster!<FAC0001<NOD<CLR<FAC1118
-Oh!<FAC1018<NOD<CLO<FAC0000
+¡Kazuma!<FAC0001<NOD<ANP0622:0000:0002<CLR<FAC0101
+¡Y el profesor Booster!<FAC0001<NOD<CLR<FAC1118
+¡Oh!<FAC1018<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
 <MSG<FAC1118
-Como has estado?!<FAC1018<NOD<CLR<FAC0101
+¡¿Cómo has estado?!<FAC1018<NOD<CLR<FAC0101
 Sobreviviendo...<FAC0001<NOD<CLO<FAC0000
 <CNP0624:0061:0000
 <ANP0625:0003:0000<WAI0016
@@ -127,20 +127,20 @@ Sobreviviendo...<FAC0001<NOD<CLO<FAC0000
 <ANP0625:0000:0000
 <MSG<FAC0007
 .....<NOD<CLR<FAC1118
-Y ese Mimiga es?<FAC1018<NOD<CLO<FAC0000
+¿Y ese Mimiga es?<FAC1018<NOD<CLO<FAC0000
 <WAI0030
 <ANP0625:0000:0002<WAI0030
 <ANP0624:0000:0002<WAI0050
 <ANP0625:0000:0000<WAI0020
 <MSG<FAC0101
 Se llama King.<FAC0001<NOD<CLR<FAC0101
-Es el lider de este pueblo
-y tambien un amigo mio.<FAC0001<NOD<CLR<FAC0101
-Muchos Mimigas solian vivir aqui
+Es el líder de este pueblo
+y también un amigo mío.<FAC0001<NOD<CLR<FAC0101
+Muchos Mimigas solían vivir aquí
 en la Aldea Mimiga.<FAC0001<NOD<FAC0101
-Pero a la mayoria se los llevaron
+Pero a la mayoría se los llevaron
 ante el Doctor.<FAC0001<NOD<CLR<FAC0101
-Los amigos de King tambien...<FAC0001<NOD<CLO
+Los amigos de King también...<FAC0001<NOD<CLO
 <CMU0002
 <ANP0500:0001:0000
 <CNP0301:0112:0002<WAI0100
@@ -155,25 +155,25 @@ algo al respecto...<FAC1018<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC1110
 Buen trabajo.<FAC1010<NOD<CLR<FAC1110
-La moto quedo hecha polvo,<FAC1010<NOD<FAC1110
+La moto quedó hecha polvo,<FAC1010<NOD<FAC1110
 pero de alguna manera 
 lo conseguimos...<FAC1010<NOD<END
 #0624
 <KEY<FLJ0158:0634<MSG<FAC1107
 Toroko...
 como arma de muerte...<FAC1007<NOD<CLR<FAC1107
-No lo permitire!<FAC1007<NOD<END
+¡No lo permitiré!<FAC1007<NOD<END
 #0625
 <KEY<FLJ0158:0635<2MV0001<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC1101Bienvenido de nuevo!<FAC1001<NOD<CLR<FAC1101
+<FAC1101¡Bienvenido de nuevo!<FAC1001<NOD<CLR<FAC1101
 Parece que te debo otra.<FAC1001<NOD<FAC1101
-Con Kazuma aqui, seguro que
+Con Kazuma aquí, seguro que
 podremos encargarnos de
-la contrasena de ese huevo.<FAC1001<NOD<CLO<FAC0000
+la contraseña de ese huevo.<FAC1001<NOD<CLO<FAC0000
 <ANP0625:0003:0000<WAI0008
 <ANP0625:0000:0000<MSG<FAC0101
 Profesor Booster.<FAC0001<NOD<CLR<FAC0101
-Podemos traerlo con nosotros?<FAC0001<NOD<CLO<FAC0000
+¿Podemos traerlo con nosotros?<FAC0001<NOD<CLO<FAC0000
 <ANP0622:0003:0002<WAI0015
 <ANP0622:0005:0002
 <MSG<FAC1018<CMU0000
@@ -181,24 +181,24 @@ Podemos traerlo con nosotros?<FAC0001<NOD<CLO<FAC0000
 <FAC1110Profesor.<FAC1010<NOD<CLR<FAC0001
 ???<NOD<CLR<FAC1118
 Sue...<FAC1018<NOD<FAC1118
-Nuestra huida tendra que
+Nuestra huida tendrá que
 esperar por ahora.<FAC1018<NOD<CLR<FAC1118
 ...El Doctor ha encontrado la
-ubicacion de las flores rojas.<FAC1018<NOD<ANP0624:0000:0000<CLR
-<FAC0007!!!<NOD<CLR<FAC0101
-Eh?<FAC0001<NOD<CLR<FAC1118
+ubicación de las flores rojas.<FAC1018<NOD<ANP0624:0000:0000<CLR
+<FAC0007¡!!<NOD<CLR<FAC0101
+¿Eh?<FAC0001<NOD<CLR<FAC1118
 Por ahora no las tiene
 en su poder, <FAC1018<NOD<FAC1118
-pero solo es cuestion de tiempo
+pero solo es cuestión de tiempo
 para que lo haga...<FAC1018<NOD<FAC1118
-Su ubicacion esta en la 
+Su ubicación está en la 
 Zona Arenosa.<FAC1018<NOD<FAC1118
-He oido que las flores rojas
-estan alli...<FAC1018<NOD<CLR
-<FAC0107Zona Arenosa?<FAC0007<NOD<CLR<FAC0107
-Entonces, si vamos alli,
-encontraremos al Doctor?<FAC0007<NOD<CLR<FAC1118
-Ejem, <FAC1018<NOD<FAC1118me temo que seran los
+He oído que las flores rojas
+están allí...<FAC1018<NOD<CLR
+<FAC0107¿Zona Arenosa?<FAC0007<NOD<CLR<FAC0107
+Entonces, si vamos allí,
+¿encontraremos al Doctor?<FAC0007<NOD<CLR<FAC1118
+Ejem, <FAC1018<NOD<FAC1118me temo que serán los
 esbirros del Doctor quienes
 presumiblemente vayan.<FAC1018<NOD<FAC1118
 Debemos ERADICAR las flores
@@ -206,27 +206,27 @@ rojas antes de que pongan
 sus manos en ellas...<FAC1018<NOD<CLR<FAC1118
 Sin embargo, la Zona Arenosa 
 es un lugar muy peligroso.<FAC1018<NOD<FAC1118
-Si fueramos, si lograremos
+Si fuéramos, si lograremos
 volver con vida no es--<FAC1018<NOD<CLR
-<FAC0107Entonces te rindes?<FAC0007<NOD<CLR<FAC1118
+<FAC0107¿Entonces te rindes?<FAC0007<NOD<CLR<FAC1118
 En realidad, no.<FAC1018<NOD<CLR<FAC1118
 Tenemos a la persona adecuada
-aqui con nosotros ahora.<FAC1018<NOD<CLO<FAC0000
+aquí con nosotros ahora.<FAC1018<NOD<CLO<FAC0000
 <ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
 <MSG<FAC1118
-Tu.<FAC1018<NOD<CLR
-<CMU0002<FAC1110...Que es el?<FAC1010<NOD<CLR<FAC1118
+Tú.<FAC1018<NOD<CLR
+<CMU0002<FAC1110...¿Qué es él?<FAC1010<NOD<CLR<FAC1118
 Mm, bueno...<FAC1018<NOD<CLR<FAC1118
 Es un robot de reconocimiento
 armado que fue enviado a esta
-isla hace diez anos.<FAC1018<NOD<CLR<FAC1110
-UN ROBOT?!?<FAC1010<NOD<CLR<FAC1118
-Habia oido que todos fueron
+isla hace diez años.<FAC1018<NOD<CLR<FAC1110
+¡¿UN ROBOT?!?<FAC1010<NOD<CLR<FAC1118
+Había oído que todos fueron
 destruidos tras la guerra...<FAC0018<ANP0621:0000:0000<NOD<FAC0118
-Sin embargo, no se los
+Sin embargo, no sé los
 detalles exactos.<FAC0018<NOD<FAC0118
-Quizas, uno de ellos--<FAC0018<NOD<CLR<FAC1110
+Quizás, uno de ellos--<FAC0018<NOD<CLR<FAC1110
 Profesor.<FAC1010<NOD<FAC1110
 Te he conectado al
 teletransportador de 
@@ -235,35 +235,35 @@ Mmm...<FAC0018<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
 <ANP0621:0000:0002<WAI0030<MSG<FAC1118
-Eres el mas indicado entre
+Eres el más indicado entre
 nosotros para explorar la isla.<FAC1018<NOD<CLR<FAC1118
-Por favor, ayudanos.<FAC1018<NOD<FL+0158<PS+0003:6003<END
+Por favor, ayúdanos.<FAC1018<NOD<FL+0158<PS+0003:6003<END
 #0631
 <KEY<MSG<FAC1118
 Puedes viajar a la Zona Arenosa
 con este teletransportador.<FAC1018<NOD<FAC1118
 Busca las flores rojas
-y quemalas todas.<FAC1018<NOD<END
+y quémalas todas.<FAC1018<NOD<END
 #0632
 <KEY<MSG<FAC1110
 Eres el de hace diez
-anos, no es asi.<FAC1010<NOD<CLR<FAC1110
-No me habia dado cuenta
+años, ¿no es así?<FAC1010<NOD<CLR<FAC1110
+No me había dado cuenta
 hasta ahora.<FAC1010<NOD<CLR<FAC1110
-Desde luego estas bien hecho.<FAC1010<NOD<END
+Desde luego estás bien hecho.<FAC1010<NOD<END
 #0634
 <KEY<MSG<FAC0107
 Zona Arenosa, eh...<FAC0007<NOD<END
 #0635
 <KEY<MSG<FAC1101
-Si no quedan mas flores
+Si no quedan más flores
 rojas podremos, con suerte,
 evitar la guerra.<FAC1001<NOD<CLR<FAC1101
 Bueno, es una responsabilidad
-bastante grande, no crees?<FAC1001<NOD<END
+bastante grande, ¿no crees?<FAC1001<NOD<END
 #0650
 <KEY<MSG<FAC1118
-Llevate a Sue y escapa...
+Llávate a Sue y escapa...
 de esta isla....<FAC1018<NOD<FAC1118
 Por favor...<FAC1018<NOD<END
 #0651
@@ -280,16 +280,16 @@ Por favor...<FAC1018<NOD<END
 <FAC0018.....<NOD<CLO<FAC0000
 <ANP0650:0000:0002<WAI0050
 <MSG<FAC1118
-Oh, eres solo tu.<FAC1018<NOD<CLR<FAC1118
+Oh, eres solo tú.<FAC1018<NOD<CLR<FAC1118
 El Doctor ha reunido
 las flores rojas.<FAC1018<NOD<CLR<FAC1118
 ...Todos los Mimigas de la isla
-han caido ahora bajo
+han caído ahora bajo
 su control.<FAC1018<NOD<CLR<FAC1118
 La tragedia es inevitable...<FAC1018<NOD<CLR<FAC1118
 Si hubiera sabido que esto
 iba a suceder, entonces...<FAC1018<NOD<FAC1118
-Al menos deberia haber hecho
+Al menos debería haber hecho
 que Sue escapara de la isla.<FAC1018<NOD<CLO<FAC0000
 <ANP0650:0003:0002<WAI0022
 <ANP0650:0005:0002
@@ -299,23 +299,23 @@ Obtuviste el =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
 <ANP0650:0000:0002
 <MSG<FAC1118
 Por favor, atiende 
-mi ultima peticion.<FAC1018<NOD<CLR<FAC1118
-Si ves a Sue una ultima vez,
-por favor llevatela y...
+mi última petición.<FAC1018<NOD<CLR<FAC1118
+Si ves a Sue una última vez,
+por favor llévatela y...
 escapa... de la isla.<FAC1018<NOD<CLR<FAC1118
 Es la hija de la Sra. Sakamoto.<FAC1018<NOD<FAC1118
-Durante mucho tiempo no quizo
+Durante mucho tiempo no quiso
 venir a esta isla.<FAC1018<NOD<FAC1118
-Pero no podia quedarse
-atras, sola...<FAC1018<NOD<CLR<FAC1118
-No tuvo mas remedio que
+Pero no podía quedarse
+atrás, sola...<FAC1018<NOD<CLR<FAC1118
+No tuvo más remedio que
 seguirnos a la isla.<FAC1018<NOD<CLR<FAC1118
 Por favor.<FAC1018<NOD<CLR<FAC1118
-Llevatela y escapa.<FAC1018<NOD<CLO
+Llévatela y escapa.<FAC1018<NOD<CLO
 <FL-0160<FL+0161<FL+0741<PS+0004:6004<END
 #0660
 <KEY<FLJ1020:0661<MSG<FAC1118
-Llevate a Sue contigo y
+Llévate a Sue contigo y
 abandona esta isla...<FAC1018<NOD<FAC1118
 Por favor...<FAC1018<NOD<END
 #0661
@@ -327,27 +327,27 @@ Los humanos somos malvados.<FAC1018<NOD<END
 <KEY<CMU0000<FAO0004<TRA0024:0700:0005:0000
 #6001
 <PRI<MSG
-Transportarse al Corredor de Huevos?<YNJ0000<CLO
+¿Transportarse al Corredor de Huevos?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
 #6002
 <PRI<MSG
-Transportarse a Grasstown?<YNJ0000<CLO
+¿Transportarse a Grasstown?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0006:0098:0004:0018
 #6003
 <PRI<MSG
-Transportarse a la Zona Arenosa?<YNJ0000<CLO
+¿Transportarse a la Zona Arenosa?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0010:0099:0036:0033
 #6004
 <PRI<MSG
-Transportarse al Laberinto?<YNJ0000<CLO
+¿Transportarse al Laberinto?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0043:0099:0013:0034
 #6005
 <PRI<MSG
-Transportarse a la Plantacion?<YNJ0000<CLO
+¿Transportarse a la Plantación?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0060:0099:0012:0009
 #6011

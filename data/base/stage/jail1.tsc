@@ -18,30 +18,30 @@
 <FLJ1080:0201
 <2MV0001
 <MSG
-Mmm... ¡gulp!<NOD<CLR
+Mmm... ¡glup!<NOD<CLR
 ¡!<NOD<CLO
 <MYB0000<ANP0200:0002:0004<WAI0030<MYD0000<FL+1080<FL-1025<FL+1026
 <MSG
 Oh, ya despertaste.<NOD<CLR
-Pense que ya estabas muerto.
-Sue te sacudia y no te movias
-ni un centimetro.<NOD<CLR
-Este lugar es una carcel.<NOD
+Pensé que ya estabas muerto.
+Sue te sacudía y no te movías
+ni un centímetro.<NOD<CLR
+Este lugar es una cárcel.<NOD
 Quienes se oponen al Doctor son
-encerrados aqui...<NOD
+encerrados aquí...<NOD
 Para ser usados como sujetos de
 prueba en sus experimentos.<NOD<CLR
 ...Eso dijo Sue.<NOD<CLR
 ¿Eres amigo suyo?<NOD
 Llegaste un poco tarde.<NOD
-Ella tambien estuvo aqui...<NOD<CLR
-Se preocupo mucho por ti.
+Ella también estuvo aquí...<NOD<CLR
+Se preocupó mucho por ti.
 Se la llevaron hace apenas
 unos minutos.<NOD<EVE0209
 #0201
 <MSG<FL+1081
 Y por cierto.<NOD<CLR
-Ella metio algo en tu bolsillo
+Ella metió algo en tu bolsillo
 mientras se la llevaban.<NOD<CMP0024:0002:0049<EVE0209
 #0202
 <KEY<MSG
@@ -53,8 +53,8 @@ carta de amor?<NOD<CMP0024:0002:0049<EVE0209
 <KEY<HMC<CNP0221:0150:0002<ANP0221:0110:0002<WAI0050
 <MSG<SOU0070
 ¡Hey!<NOD<CLR
-<SOU0070¡¡¡Oye tu!!!<NOD<CLR
-¿Estas muerto o que?<NOD<CLR
+<SOU0070¡¡¡Oye tú!!!<NOD<CLR
+¿Estás muerto o qué?<NOD<CLR
 .....<NOD<CLO
 <WAI0050<IT+0026<WAI0050<MNA<CMU0008<FAI0004<WAI0050<SMC<DNP0221<END
 #0221

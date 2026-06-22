@@ -22,12 +22,12 @@
 <ANP0099:0000:0000<WAI0030<END
 #0100
 <KEY<MSG
-Teletransportarse a casa de Arthur?<FL-0227<YNJ0000<CLO
+¿Transportarse a casa de Arthur?<FL-0227<YNJ0000<CLO
 <CNP0400:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<FLJ0219:0130<TRA0001:0099:0008:0008
 #0101
 <PRI<FL-0227<FLJ0212:0102<MSG
-Esta cerrada.<NOD<END
+Está cerrada.<NOD<END
 #0102
 <PRI<SOU0011<DNP0101<FAO0004<TRA0007:0094:0018:0008
 #0103
@@ -37,10 +37,10 @@ Esta cerrada.<NOD<END
 <FLJ0214:0106
 <ITJ0009:0105
 <MSG
-Esta cerrada.<NOD<END
+Está cerrada.<NOD<END
 #0105
 <SOU0022<MSG<GIT1009
-Usaste la Llave Oxidada.<NOD<CLO
+Usaste la =Llave Oxidada=.<NOD<CLO
 <GIT0000<FL+0214<EVE0106
 #0106
 <PRI<SOU0011<DNP0104<FAO0004<TRA0025:0094:0019:0007
@@ -57,7 +57,7 @@ Parece estar cerrada.<NOD
 En la puerta pone "Chicle".<NOD<END
 #0110
 <SOU0022<MSG<GIT1010
-Usaste la Llave Chicle.<NOD<CLO
+Usaste la =Llave Chicle=.<NOD<CLO
 <GIT0000<FL+0222<EVE0111
 #0111
 <PRI<SOU0011<DNP0109<FAO0004<TRA0028:0094:0009:0013
@@ -77,13 +77,13 @@ Usaste la Llave Chicle.<NOD<CLO
 <2MV0000
 <PRI<DNP0200<FL+0210
 <CMU0010<GIT1003<IT+0003<MSG
-Obtuviste la Llave de Santa.<WAI0160<NOD<CLO
+Obtuviste la =Llave de Santa=.<WAI0160<NOD<CLO
 <GIT0000<RMU<END
 #0201
 <PRI<FLJ0228:0207<FL+0228<MSG
-Oh?<NOD<CLR
-Eres un soldado de la superficie?<NOD
-No ha terminado ya la guerra?<NOD<CLR
+¿Oh?<NOD<CLR
+¿Eres un soldado de la superficie?<NOD
+¿No ha terminado ya la guerra?<NOD<CLR
 Da igual...<NOD<CLO<EVE0207
 #0202
 <INJ0008:0002:0204<NCJ0094:0203
@@ -99,24 +99,24 @@ Abriste el cofre del tesoro.<NOD<GIT1008<I+N0008:0002<CLR
 <FLJ0481:0206
 <PRI<MSG
 Los ventiladores se han parado.<NOD
-Alguien corto la electricidad.<NOD
+Alguien cortó la electricidad.<NOD
 Si quieres volver a encenderlos,
 busca la Sala de Suministros.<NOD<END
 #0206
 <PRI<MSG
 Te cuento una cosa.<NOD<CLR
-Si mantienes pulsado el boton de salto
+Si mantienes pulsado el botón de salto
 mientras te impulsa un ventilador,<NOD
-subiras mucho mas alto.<NOD<END
+subirás mucho más alto.<NOD<END
 #0207
 <PRI<MSG
 Si quieres seguir avanzando,
 cuidado con esos bichos azules grandes.<NOD
-Intentaran aplastarte.<NOD<END
+Intentarán aplastarte.<NOD<END
 #0210
 <PRI<MSG
-Esa moto que conducia Kazuma
-ha visto dias mejores.<NOD<END
+Esa moto que conducía Kazuma
+ha visto días mejores.<NOD<END
 #0220
 <ITJ0013:0250
 <FLJ0221:0240
@@ -133,28 +133,28 @@ No se abre...<NOD<CLO
 <FLJ0215:0232
 <PRI<MSG
 Hay alguien en esa grieta...<NOD<CLR
-Oye, tu! Chico!<NOD<CLR
-Necesito salir de aqui.<NOD
-Podrias, eh, ayudarme?
+¡Oye, tú! ¡Chico!<NOD<CLR
+Necesito salir de aquí.<NOD
+¿Podrías, eh, ayudarme?
 <YNJ0231<CLR
-Gracias!<NOD<CLR
+¡Gracias!<NOD<CLR
 Toma esto.<NOD<GIT1009<IT+0009<FL+0215<CLR
-<CMU0010Obtuviste la Llave Oxidada.<WAI0160<NOD<RMU<CLR
-Estaba abandonada en esta habitacion.<NOD
-Usala, si puedes.<NOD<END
+<CMU0010Obtuviste la =Llave Oxidada=.<WAI0160<NOD<RMU<CLR
+Estaba abandonada en esta habitación.<NOD
+Úsala, si puedes.<NOD<END
 #0231
 <PRI<MSG
 Oh, ya veo.<NOD
-Que pena...<NOD<END
+Qué pena...<NOD<END
 #0232
 <PRI<MSG
 Por favor.<NOD
 Abre la puerta.<NOD<END
 #0233
 <PRI<MSG
-Eh, que quieres decir?<NOD
-Que no es la llave adecuada?!?<NOD
-Vaya, que fastidio.<NOD<CLR
+Eh, ¿qué quieres decir?<NOD
+¡¿Que no es la llave adecuada?!?<NOD
+Vaya, qué fastidio.<NOD<CLR
 .....<NOD<FL+0223<EVE0235
 #0234
 <PRI<FL+0216<MSG
@@ -167,24 +167,24 @@ Si no hay cerradura...
 Tiene que haber una forma mejor...<NOD<END
 #0236
 <PRI<MSG
-Que?
-Usar una BOMBA??
-En esa puerta???<NOD<CLR
+¿Qué?
+¡¿Usar una BOMBA??
+¡¿En esa puerta???<NOD<CLR
 Supongo que es posible...<NOD
-Asi que buscas los materiales?<NOD<CLR
+Así que, ¿buscas los materiales?<NOD<CLR
 .....<NOD<CLR
-Has dicho base de chicle?<NOD
+¿Has dicho base de chicle?<NOD
 Espera un momento--<NOD<CLO<WAI0100
 <MSG
 Toma esto.<NOD<GIT1010<IT+0010<FL+0221<CLR
-<CMU0010Obtuviste la Llave Chicle.<WAI0160<NOD<RMU<CLR
+<CMU0010Obtuviste la =Llave Chicle=.<WAI0160<NOD<RMU<CLR
 Estaba colgada en la pared.
-Ponia la palabra "Chicle".<NOD
-Seguro que esta relacionado.<NOD
-Cuento contigo, chico!<NOD<END
+Ponía la palabra "Chicle".<NOD
+Seguro que está relacionado.<NOD
+¡Cuento contigo, chico!<NOD<END
 #0237
 <PRI<MSG
-Ya esta lista esa bomba?<NOD<END
+¿Ya está lista esa bomba?<NOD<END
 #0239
 <PRI<MSG
 Oxidada como siempre...<NOD<CLO
@@ -195,7 +195,7 @@ Oxidada como siempre...<NOD<END
 #0250
 <PRI<FL+0521<FL+0522<IT-0013
 <MSG<GIT1013
-Se ha colocado la bomba!<NOD<CLO
+¡Se ha colocado la bomba!<NOD<CLO
 <FAO0004<TRA0018:0200:0009:0000
 #0302
 <PRI<FLJ0218:0001<FL+0218
@@ -205,13 +205,13 @@ Abriste el cofre del tesoro.<NOD<EVE0030
 #0305
 <PRI<DNP0305<SOU0022<CMU0016
 <MSG<GIT1006
-Obtuviste una Capsula Vital.<WAI0160<NOD<RMU<ML+0005
-Se aumento la vida maxima en 5.<NOD<END
+Obtuviste una =Cápsula Vital=.<WAI0160<NOD<RMU<ML+0005
+Se aumentó la vida máxima en 5.<NOD<END
 #0400
 #0401
 #0450
 <PRI<MSG
-Es una especie de aeromoto?<NOD<END
+¿Es una especie de aeromoto?<NOD<END
 #0451
 #0452
 #0500
@@ -223,24 +223,23 @@ Hola.<NOD<CLR
 Me llamo Santa.<NOD<CLR
 Fui a por agua y me atacaron
 esos monstruos.<NOD
-Asi que sali corriendo a casa,
-pero perdi la llave por el camino.<NOD<CLR
+Así que salí corriendo a casa,
+pero perdí la llave por el camino.<NOD<CLR
 Ahora no puedo entrar en mi casa.<NOD<END
 #0501
 <PRI<MSG
 No puedo entrar sin la llave...
-Ay, que hago?<NOD
-Que hago???<NOD<END
+¡Ay, qué hago! ¿Qué hago???<NOD<END
 #0502
 <ITJ0003:0503<END
 #0503
 <2MV0001
 <KEY<FL+0212<MM0<MYD0000<WAI0030<PRI
 <MSG
-Oh!<NOD<CLR
-Esa es la llave de mi casa!<NOD<IT-0003<GIT1003<CLR
+¡Oh!<NOD<CLR
+¡Esa es la llave de mi casa!<NOD<IT-0003<GIT1003<CLR
 Devolviste la Llave de Santa.<NOD<GIT0000<CLR
-Gracias!<NOD<CLO
+¡Gracias!<NOD<CLO
 <KEY<ANP0500:0003:0000<WAI0176<ANP0500:0000:0002
 <SOU0011<CNP0101:0000:0000<WAI0010
 <PRI<MSG
@@ -252,27 +251,27 @@ Tengo algo bueno para ti.<NOD<CLO<KEY
 <KEY<FL+0219<CMU0000<FAI0004<MYD0002
 <MSG<FAC0110
 Cuento contigo.
-Llevanos a la Aldea Mimiga!<FAC0010<NOD<CLO<FAC0000
+¡Llévanos a la Aldea Mimiga!<FAC0010<NOD<CLO<FAC0000
 <ANP0452:0000:0000<WAI0010
 <MSG<FAC0118
 Kazuma.<FAC0018<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC1110
-Si?<FAC1010<NOD<CLO<FAC0000
+¿Sí?<FAC1010<NOD<CLO<FAC0000
 <FAC0000<WAI0010<ANP0452:0000:0002<FON0450:0016<WAI0050
 <MSG<FAC1118
-Funciona esa cosa?<FAC1018<NOD<CLO<FAC0000
+¿Funciona esa cosa?<FAC1018<NOD<CLO<FAC0000
 <ANP0451:0003:0002<WAI0040
 <ANP0452:0003:0002<WAI0040
 <ANP0451:0005:0000<WAI0036
 <ANP0452:0000:0000<WAI0050
 <ANP0451:0000:0002
 <MSG<FAC1110
-Si, parece que aun funciona.<FAC1010<NOD<CLO<FAC0000
+Sí, parece que aún funciona.<FAC1010<NOD<CLO<FAC0000
 <ANP0451:0005:0000
 <ANP0452:0005:0000<WAI0020
 <ANP0450:0010:0000<DNP0451<DNP0452<WAI0030
 <ANP0450:0020:0000<WAI0060<FOM0016<MYB0000
 <WAI0200<MSG
-No paraaaaaaaaaaaaaaaaaa!!!!!!<WAI0050<NOD<CMU0005
+¡¡¡¡¡¡No paraaaaaaaaaaaaaaaaaa!!!!!!<WAI0050<NOD<CMU0005
 <DNP0450<FL-0523<FL+0225<END
 #1200
 <KEY<ANP1200:0020:0002

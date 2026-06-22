@@ -24,8 +24,8 @@ No abre...<NOD<END
 #0300
 <PRI<SOU0022<DNP0300<CMU0016
 <MSG<GIT1006
-Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0005
-Salud maxima incrementada en 5.<NOD<END
+Obtuviste una =Cápsula de Energía=.<WAI0160<NOD<RMU<ML+0005
+Salud máxima incrementada en 5.<NOD<END
 
 
 
@@ -33,8 +33,8 @@ Salud maxima incrementada en 5.<NOD<END
 <KEY<ANP0501:0010:0002<CMU0000<MSG
 ¡¡¡!!!<NOD<CLR
 .....<NOD<CLR
-Has caido hasta el fondo.<NOD<CLR
-que es este lugar?<NOD<CLO
+Has caído hasta el fondo.<NOD<CLR
+¿Qué es este lugar?<NOD<CLO
 <MYD0002
 <MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
 
@@ -53,19 +53,19 @@ que es este lugar?<NOD<CLO
 
 #0403
 <KEY<MSG
-La puerta esta abierta.<NOD<END
+La puerta está abierta.<NOD<END
 
 #0410
 
 
 #0500
 <PRI<MSG
-A ti tambien te arrojo aqui esa
+A ti también te arrojó aquí esa
 bruja, Misery.<NOD
 Pobre amiguito...<NOD
-Aqui se guarda la chatarra de la
+Aquí se guarda la chatarra de la
 isla.<NOD
-Una vez que entras, nunca podras
+Una vez que entras, nunca podrás
 salir...<NOD<END
 
 #0501
@@ -73,9 +73,9 @@ salir...<NOD<END
 #0502
 <PRI<MSG
 Se supone que el interruptor de
-esta puerta esta alla arriba.<NOD
+esta puerta está allá arriba.<NOD
 Pero el camino es muy malo...<NOD
-He caido tantas veces que me he
+He caído tantas veces que me he
 roto la pierna.<NOD<END
 
 #0503

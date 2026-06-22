@@ -23,36 +23,36 @@
 El misterioso robot,
 Monstruo X...<NOD
 Cuando la escotilla se abra...
-sera tu oportunidad de atacar.<NOD<END
+será tu oportunidad de atacar.<NOD<END
 
 #0300
 <KEY<MSG
-Soy medico.<NOD
-Permiteme que cuide de ti.<NOD<CLO<LI+1000<SOU0020
+Soy médico.<NOD
+Permíteme que cuide de ti.<NOD<CLO<LI+1000<SOU0020
 <FLJ0704:0304
 <FLJ0702:0303
 <ITJ0016:0302
 <FLJ0700:0301<FL+0700<WAI0050
 <MSG
-No temas, no te cobrare dinero.<NOD<CLR
+No temas, no te cobraré dinero.<NOD<CLR
 A cambio, te pido que aceptes un 
-pequeno favor...<NOD<CLR
-Hay una vieja clinica cerca.<NOD
-Ve alli y mira si todavia queda 
+pequeño favor...<NOD<CLR
+Hay una vieja clínica cerca.<NOD
+Ve allí y mira si todavía queda 
 alguna medicina dentro.<NOD<CLR
-<GIT1017<IT+0017Obtuviste la =Llave de la Clinica=.<NOD<GIT0000<END
+<GIT1017<IT+0017Obtuviste la =Llave de la Clínica=.<NOD<GIT0000<END
 
 #0301
 <KEY<MSG
-La clinica esta bastante cerca.<NOD
+La clínica está bastante cerca.<NOD
 Cuando llegues, busca cualquier
-medicina util que este disponible.<NOD<END
+medicina útil que esté disponible.<NOD<END
 
 #0302
 <KEY<MSG<IT-0016<FL+0702
 <GIT1016Entregaste el =Cura-Todo=.<NOD<CLR<GIT0000
 ¡Oh, lo encontraste!<NOD
-Gracias y perdon por las molestias.<NOD
+Gracias y perdón por las molestias.<NOD
 Por favor, deja el resto en mis manos.<NOD<END
 
 #0303
@@ -63,8 +63,8 @@ Deja el resto en mis manos, por favor.<NOD<END
 #0304
 <KEY<MSG
 Parece que la medicina finalmente
-esta haciendo efecto.<NOD
-Ella se sentira mucho mejor pronto.<NOD
+está haciendo efecto.<NOD
+Ella se sentirá mucho mejor pronto.<NOD
 Todo es gracias a ti.<NOD<END
 
 #0310
@@ -73,72 +73,72 @@ Todo es gracias a ti.<NOD<END
 <FLJ0701:0311
 <KEY<MSG
 Soy enfermera.<NOD
-Trabajaba en la clinica de al lado,<NOD
-pero un fantasma oscuro empezo a 
-rondarla, asi que hui y vine aqui.<NOD<END
+Trabajaba en la clínica de al lado,<NOD
+pero un fantasma oscuro empezó a 
+rondarla, así que huí y vine aquí.<NOD<END
 
 #0311
 <KEY<MSG
 ¿Eres su amigo?<NOD
-Si quieres salvarla, sera mejor que
+Si quieres salvarla, será mejor que
 hagas lo que dice el doctor.<NOD<END
 
 #0312
 <KEY<MSG
 Gracias por hacer lo necesario
 para ayudar a tu amiga.<NOD
-Dime, ¿todavia habia fantasmas?<NOD<END
+Dime, ¿todavía había fantasmas?<NOD<END
 
 #0313
 <KEY<MSG
 ¿Vienes a visitar a tu amiga?<NOD<CLR
 Si es a ella a quien buscas, se
-dirigio hacia la Camara de la Piedra.<NOD<END
+dirigió hacia la Cámara de la Piedra.<NOD<END
 
 #0320
 <FLJ0702:0322
 <FLJ0701:0321<FL+0701
 <KEY<MSG<FAC1119
 ¡Hola!<FAC1019<NOD<CLR<FAC1119
-Cuanto tiempo sin verte.<FAC1019<NOD<FAC1119
+¡Cuánto tiempo sin verte!<FAC1019<NOD<FAC1119
 ¡Te ves genial!<FAC1019<NOD<CLR<FAC1119
-Asi que a ti tambien te encerro
+Así que a ti también te encerró
 esa bruja de Misery.<FAC1019<NOD<FAC1119
-¡A mi tambien!<FAC1019<NOD<CLR<FAC1120
-Ni siquiera tu fuiste capaz de
-tener exito contra ellos.<FAC1020<NOD<FAC1120
-Tenia una pizca de esperanza...<FAC1020<NOD<CLR<FAC1120
-Al igual que tu, hice lo que pude.
-Y aqui es donde termine.<FAC1020<NOD<CLR
+¡A mí también!<FAC1019<NOD<CLR<FAC1120
+Ni siquiera tú fuiste capaz de
+tener éxito contra ellos.<FAC1020<NOD<FAC1120
+Tenía una pizca de esperanza...<FAC1020<NOD<CLR<FAC1120
+Al igual que tú, hice lo que pude.
+Y aquí es donde terminé.<FAC1020<NOD<CLR
 .....<NOD<CLR<FAC1120
-Estoy decepcionada de mi misma.<FAC1020<NOD<FAC1120
+Estoy decepcionada de mí misma.<FAC1020<NOD<FAC1120
 A la hora de la verdad,
 no pude protegerlos.<FAC1020<NOD<FAC1120
 Con este cuerpo 
 en este estado...<FAC1020<NOD<FAC1120
-...salir de aqui va a ser
+...salir de aquí va a ser
 casi imposible...<FAC1020<NOD<END
 
 #0321
 <KEY<MSG<FAC1120
 He sobrevivido hasta ahora
 y todo eso...<FAC1020<NOD<FAC1120
-pero ¿que deberia hacer ahora?<FAC1020<NOD<CLR<FAC1120
-Acaso voy a quedarme aqui
-hasta pudrirme o algo asi?<FAC1020<NOD<END
+pero ¿qué debería hacer ahora?<FAC1020<NOD<CLR<FAC1120
+¿Acaso voy a quedarme aquí
+hasta pudrirme o algo así?<FAC1020<NOD<END
 
 #0322
 <KEY<MSG<FAC1120
 Este es el legendario Laberinto.<FAC1020<NOD<FAC1120
-No se quien lo construyo, pero
-debe ser para algun tipo de
-recoleccion de basura.<FAC1020<NOD<CLR<FAC1120
+No sé quién lo construyó, pero
+debe ser para algún tipo de
+recolección de basura.<FAC1020<NOD<CLR<FAC1120
 Solo hay una forma de escapar.<FAC1020<NOD<FAC1120
-Tendrias que mover una roca
+Tendrías que mover una roca
 que se encuentra dentro de 
-una camara aparte.<FAC1020<NOD<CLR<FAC1120
-Iria contigo, pero en mi estado
-actual seria mas una carga 
+una cámara aparte.<FAC1020<NOD<CLR<FAC1120
+Iría contigo, pero en mi estado
+actual sería más una carga 
 que una ayuda.<FAC1020<NOD<FL+0760<FL+0703<END
 
 #0400

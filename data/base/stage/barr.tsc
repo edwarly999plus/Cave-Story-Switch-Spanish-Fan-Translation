@@ -36,10 +36,10 @@
 <KEY<FL-0361<FL-0362
 <SMC<CNP0400:0012:0000<ANP0400:0020:0004<WAI0140
 <PRI<MSG<FAC0105
-¡Me acordare de esto!<FAC0005<NOD<FAC0000<KEY<CLO
+¡Me acordaré de esto!<FAC0005<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
-¡Balrog derrotado!<WAI0140<NOD
+¡Balrog derrotado!<WAI0140<NOD<CLR<KEY<CLO
 <ACH0027
 <SOU0045<CNP0150:0001:0000<WAI0004
 <SOU0045<CNP0151:0001:0000<WAI0004
@@ -62,17 +62,17 @@ muy cruel y malvada.<FAC0006<NOD<FAC0106
 Aparece en la aldea y
 secuestra a los Mimiga...
 a veces incluso mata a alguien.<FAC0006<NOD<CLR<FAC0106
-El Doctor... el mato a mi
+El Doctor... él mató a mi
 hermano mayor.<FAC0006<NOD<CLR<FAC0106
 ¡Ah!<FAC0006<NOD<FAC0106
 ¡Ese colgante!<FAC0006<GIT1004<NOD<CLR<FAC0106
-¿Lo has recogido para mi?<FAC0006<NOD<FAC0106
+¿Lo has recogido para mí?<FAC0006<NOD<FAC0106
 ¡Sue me lo dio!<FAC0006<NOD<CLR
 .....<NOD<CLR<FAC0106
 Pero ya no lo quiero.<FAC0006<NOD<FAC0106
 <GIT0000King se pone hecho una furia
 si Sue y yo nos llevamos bien.<FAC0006<NOD<FAC0106
-Quedatelo tu, por favor.<FAC0006<NOD<CLO
+Quédatelo tú, por favor.<FAC0006<NOD<CLO
 <FAC0000<CMU0000
 <QUA0030<SOU0026
 <ANP1000:0008:0000
@@ -97,20 +97,20 @@ Quedatelo tu, por favor.<FAC0006<NOD<CLO
 <CMP0009:0009:0098
 <MSG
 ¡¡Huzzah!!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014
-¡Te encontre!<NOD<CLR<FAC0105
-Es inutil esconderse.<FAC0005<NOD<FAC0105
+¡Te encontré!<NOD<CLR<FAC0105
+Es inútil esconderse.<FAC0005<NOD<FAC0105
 ¡Tengo el olfato de un
 sabueso inteligente!<FAC0005<NOD<FAC0000<CLR
 Cierto.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC1115
-Si, tiene el olfato Y el
+Sí, tiene el olfato Y el
 cerebro de un perro.<FAC1015<NOD<CLR<FAC0105
 ¡Misery!<FAC0005<NOD<CLR<FAC0105
-¡Yo la encontre primero!<FAC0005<NOD<CLR<FAC0108
-¡¡Vosotros dos estais con
+¡Yo la encontré primero!<FAC0005<NOD<CLR<FAC0108
+¡¡Vosotros dos estáis con
 el Doctor!!<FAC0008<NOD<CLR<FAC1015
 .....<NOD<CLR<FAC1116
-Tu debes de ser Sue.
+Tú debes de ser Sue.
 El gran Doctor te ha
 mandado llamar.<FAC1016<NOD<FAC1116
 Ven conmigo ahora mismo.<FAC1016<NOD<CLR<FAC0106
@@ -128,12 +128,12 @@ El resto es cosa tuya.<FAC1015<NOD<CLO
 <WAI0050
 <FAC0105<MSG
 ¡Otra vez NO!<FAC0005<NOD<FAC0105
-¡SIEMPRE me toca a mi
+¡SIEMPRE me toca a mí
 limpiar el desastre!<FAC0005<NOD<FAC0105
-¡Y fui yo quien la encontro,
+¡Y fui yo quien la encontró,
 no Misery!<FAC0005<NOD<CLR
 .....<NOD<CLR<FAC0105
-¿Asi que de que vas?<FAC0005<NOD<FAC0105
+¿Así que de qué vas?<FAC0005<NOD<FAC0105
 ¿Quieres pelear conmigo con
 esa pistola de juguete?<FAC0005<YNJ1001<ANP0400:0030:0002<CLR
 <FAC0014¡Entendido!<NOD<CLO

@@ -30,12 +30,12 @@
 #0199
 <PRI<CMU0033<MSG
 ¡Buen trabajo con el debugging!
-Esto sigue en construccion
-mas adelante...<NOD<RMU<END
+Esto sigue en construcción
+más adelante...<NOD<RMU<END
 
 #0200
 <KEY<MYD0000<DNP0200<MSG
-¡Caeras si sigues adelante!<NOD<END
+¡Caerás si sigues adelante!<NOD<END
 
 #0201
 <PRI<MSG<TUR
@@ -61,7 +61,7 @@ mas adelante...<NOD<RMU<END
 <WAI0080<ANP0299:0020:0002
 <SPS<WAI0020
 <MSG
-¡El helicoptero esta listo!<NOD<CLO<FAI0001<WAI0050
+¡El helicóptero está listo!<NOD<CLO<FAI0001<WAI0050
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
 <MSG<FAC1128
@@ -69,12 +69,12 @@ El combustible es suficiente.
 ¡Podemos irnos cuando sea!<FAC1028<NOD<CLR<FAC1128
 Ha ha...<FAC1028<NOD<CLR<FAC1128
 Nunca hubiera pensado que
-seriamos capaces de volver
+seríamos capaces de volver
 a salvo a la superficie...<FAC1028<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
 <MSG<FAC0122
 Me pregunto si esos chicos
-estaran a salvo o no...<FAC0022<NOD<CLO
+estarán a salvo o no...<FAC0022<NOD<CLO
 <FAC0000<WAI0016
 <QUA0010
 <ANP0290:0003:0000
@@ -87,7 +87,7 @@ estaran a salvo o no...<FAC0022<NOD<CLO
 <MSG<FAC1128
 ¡¿Un terremoto?!<FAC1028<NOD<CLR<FAC0122
 ¡Algo le ha pasado
-al Nucleo!<FAC0022<NOD<CLO
+al Núcleo!<FAC0022<NOD<CLO
 <FAO0003<FOM0016<CPS<MYD0002<TRA0068:0600:0024:0013
 
 #0305
@@ -98,9 +98,9 @@ al Nucleo!<FAC0022<NOD<CLO
 <ANP0305:0011:0002
 <ANP0280:0010:0000
 <FON0305:0016<MS3<FAC1103
-¡Por aqui!<FAC1003<NOD<FAC1103
-¡Seras aplastado si no
-corres lo mas rapido posible!<FAC1003<NOD<FON0280:0016<CLO
+¡Por aquí!<FAC1003<NOD<FAC1103
+¡Serás aplastado si no
+corres lo más rápido posible!<FAC1003<NOD<FON0280:0016<CLO
 <ANP0305:0030:0000<WAI0060
 <DNP0305<FL-1391<END
 
@@ -110,7 +110,7 @@ corres lo mas rapido posible!<FAC1003<NOD<FON0280:0016<CLO
 <WAS<WAI0050
 <FON0320:0016<MSG<FAC1101
 ¡Oh no! 
-¡Es un callejon sin salida!<FAC1001<NOD<FAC1101
+¡Es un callejón sin salida!<FAC1001<NOD<FAC1101
 ¡Tenemos que saltar!<FAC1001<NOD<CLR<FAC1101
 ¡No quiero que nos aplasten
 las rocas!<FAC1001<NOD<CLR<FAC1101
@@ -132,9 +132,9 @@ te sea posible!<FAC1001<NOD<CLO<KEY
 <DNP0307<DNP0280
 <WAI0100<FAI0004
 <MSG<FAC1122
-La isla, se esta cayendo...<FAC1022<NOD<CLR<FAC1128
+La isla, se está cayendo...<FAC1022<NOD<CLR<FAC1128
 ¡Es demasiado peligroso
-esperar mas tiempo!<FAC1028<NOD<CLR<FAC1128
+esperar más tiempo!<FAC1028<NOD<CLR<FAC1128
 ¡Tenemos que irnos AHORA!<FAC1028<NOD<CLO<FAO0004
 <CMU0035<TRA0049:1200:0098:0006
 #0500

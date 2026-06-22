@@ -25,18 +25,18 @@
 <FLJ0327:0201
 <KEY<MSG<FAC1107
 La llave de la casa de Arthur...<FAC1007<NOD<FAC1107
-Deberia haber al menos una
-copia mas en algun lado.<FAC1007<NOD<CLR<FAC1107
+Debería haber al menos una
+copia más en algún lado.<FAC1007<NOD<CLR<FAC1107
 Toroko...
 Ella finge ignorancia.<FAC1007<NOD<CLR<FAC1107
 Me pregunto si tal vez Jack
 sabe algo al respecto.<FAC1007<NOD<END
 #0201
 <KEY<MSG<FAC1107
-No, Toroko tambien no...<FAC1007<NOD<CLR<FAC1107
+Toroko tampoco...<FAC1007<NOD<CLR<FAC1107
 El hermano mayor de Toroko, 
 Arthur, era nuestro guerrero 
-mas fuerte.<FAC1007<NOD<CLR<FAC1107
+más fuerte.<FAC1007<NOD<CLR<FAC1107
 Pero fue asesinado por el 
 propio Doctor.<FAC1007<NOD<FAC1107
 Ni siquiera pude 
@@ -46,12 +46,12 @@ proteger a Toroko...<FAC1007<NOD<END
 Hay dos llaves para la 
 casa de Arthur.<FAC0009<NOD<FAC0109
 Toroko tiene una de ellas.<FAC0009<NOD<FAC0109
-La otra esta dentro del 
+La otra está dentro del 
 Cementerio Mimiga.<FAC0009<NOD<END
 #0220
 <KEY<MSG<FAC1109
 El hermano mayor de Toroko,
-Arthur, lucho contra 
+Arthur, luchó contra 
 un ogro rojo...<FAC1009<NOD<CLR<FAC1109
 Ese terrible ogro de la isla.
 Esa cosa devoraba Mimiga
@@ -59,18 +59,18 @@ tras Mimiga...<FAC1009<NOD<CLR<FAC1109
 Esto no tiene nada que ver
 con el Doctor, pero...<FAC1009<NOD<FAC1109
 El ogro ha vivido en esta
-isla hace muchos anos.<FAC1009<NOD<CLR<FAC1109
-Arthur envio a esa bestia
+isla hace muchos años.<FAC1009<NOD<CLR<FAC1109
+Arthur envió a esa bestia
 malvada lejos de nuestra aldea
 para siempre.<FAC1009<NOD<FAC1109
 Fue muy valiente de su parte
 ponerse en peligro por el
 bien de la isla.<FAC1009<NOD<CLR<FAC1109
-Nunca lo olvidare.<FAC1009<NOD<CLR<FAC1109
+Nunca lo olvidaré.<FAC1009<NOD<CLR<FAC1109
 Aunque Arthur fue 
 asesinado por el Doctor,<FAC1009<NOD<FAC1109
-el sigue siendo un
-verdadero heroe para nosotros.<FAC1009<NOD<END
+él sigue siendo un
+verdadero héroe para nosotros.<FAC1009<NOD<END
 #0300
 <ITJ0008:0301
 <KEY<MSG
@@ -78,7 +78,7 @@ Las llamas arden en la chimenea.<NOD<FLJ0442:0000<CLR
 Hay algo al otro lado.<NOD<END
 #0301
 <KEY<GIT1008<MSG
-Quieres usar el
+¿Quieres usar el
 Jugo de Medusa?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
 <MSG

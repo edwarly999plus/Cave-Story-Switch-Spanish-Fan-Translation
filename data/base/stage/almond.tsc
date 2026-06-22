@@ -56,7 +56,7 @@ EN MAL FUNCIONAMIENTO.<NOD<END
 >_ ACENSOR ABAJADO.<NOD<END
 #0203
 <KEY<MSG
->_ ACENSOR ESTA ABAJO.<NOD<END
+>_ ACENSOR ESTÁ ABAJO.<NOD<END
 #0204
 <KEY<MSG
 >_ ERROR.<NOD<END
@@ -70,7 +70,7 @@ EN MAL FUNCIONAMIENTO.<NOD<END
 #0211
 <KEY<MSG
 >_ LA COMPUERTA GRANDE 
-YA ESTA ABIERTA.<NOD<ANP0256:0010:0001<WAI0000<ANP0301:0003:0002<ANP0302:0003:0002<WAI0000<DNP0256<END
+YA ESTÁ ABIERTA.<NOD<ANP0256:0010:0001<WAI0000<ANP0301:0003:0002<ANP0302:0003:0002<WAI0000<DNP0256<END
 #0212
 <KEY<MSG
 >_ ERROR.<NOD<END
@@ -78,14 +78,14 @@ YA ESTA ABIERTA.<NOD<ANP0256:0010:0001<WAI0000<ANP0301:0003:0002<ANP0302:0003:00
 <PRI<FLJ0828:0241<MSG
 Hay algo amarrado a este
 brazo roto de un robot.<NOD<CLR
-Lo tomaras?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
+¿Lo tomarás?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
 <CMU0010Obtuviste la =Cuerda de Remolque=.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
 ...?<NOD<END
 #0242
 <PRI<MSG
-Esta envuelto, y esta
+Está envuelto, y está
 demasiado apretado 
 para soltarse.<NOD<END
 #0250
@@ -97,26 +97,26 @@ para soltarse.<NOD<END
 <PRI<MSG
 Un robot roto.<NOD
 su exterior ha sufrido una
-increible cantidad de dano.<NOD<END
+increíble cantidad de daño.<NOD<END
 #0256
 #0257
 #0258
 #0300
 <KEY<MSG<FAC0119
-Que extrano lugar.<FAC0019<NOD<FAC0119
-Esto sera alguna clase de base?<FAC0019<NOD<END
+Qué extraño lugar.<FAC0019<NOD<FAC0119
+¿Esto será alguna clase de base?<FAC0019<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC1125
 Esta compuerta...
-solo se abrio por mitad...<FAC1025<NOD<CLR<FAC1125
-creo que esta atorada
+solo se abrió por mitad...<FAC1025<NOD<CLR<FAC1125
+creo que está atorada
 en algo...<FAC1025<NOD<END
 #0302
 <KEY<MSG<FAC1119
-Compuertas y mas compuertas.<FAC1019<NOD<FAC1119
-Hay algo detras de
+Compuertas y más compuertas.<FAC1019<NOD<FAC1119
+Hay algo detrás de
 esta loca seguridad.<FAC1019<NOD<FAC1119
-Que crees que nos esconden?<FAC1019<NOD<CLR<END
+¿Qué crees que nos esconden?<FAC1019<NOD<CLR<END
 #0304
 <PRI<MSG
 Yo...<NOD<END
@@ -131,7 +131,7 @@ No hay respuesta...<NOD<ITJ0030:0307<END
 Ella se sigue moviendo, 
 pero parece que sigue
 con vida.<NOD<CLR
-<GIT1030Usar la =Cuerda de Remolque=?<YNJ0000<CLO<GIT0000
+<GIT1030¿Usar la =Cuerda de Remolque=?<YNJ0000<CLO<GIT0000
 <CNP0306:0259:0000
 <FL+0835<FL+0836<FL-0829
 <MSG
@@ -141,7 +141,7 @@ Amarraste la cuerda a Curly.<NOD<END
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
 <MSG
 Escuchaste el sonido de algo
-liberandose...<NOD<CLO<WAI0050<ANP0253:0010:0001
+liberándose...<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -178,25 +178,25 @@ liberandose...<NOD<CLO<WAI0050<ANP0253:0010:0001
 <MYB0002<WAI0030<MYD0002<MSG<FAC1119
 ¡Mira!<FAC1019<NOD<CLR<FAC1119
 ¿Un soldado de la superficie?<FAC1019<NOD<FAC1119
-Esta casi destruido.<FAC1019<NOD<CLO<FAC0000
+Está casi destruido.<FAC1019<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
 <MSG<FAC1125
 Hay otros como este por 
 todas partes.<FAC1025<NOD<FAC1125
-¿Quien hizo esto?<FAC1025<NOD<CLR<FAC1125
+¿Quién hizo esto?<FAC1025<NOD<CLR<FAC1125
 No pudo ser un Mimiga.
-¿Como pudo pasar esto?<FAC1025<NOD<CLO
+¿Cómo pudo pasar esto?<FAC1025<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
 <ANP0450:0001:0002<MSG
 <FAC1025¡¡¡!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC1119¡Aun funciona!<FAC1019<NOD<CLR
+<FAC1119¡Aún funciona!<FAC1019<NOD<CLR
 <FAC0024...Re-i-ni-cian-do...<NOD<CLR
 EQUIPO 9 TERMINADO.<NOD
 INCAPAZ DE ELIMINAR 
 AL OBJETIVO.<NOD<CLR
-LA DESTRUCCION DEL 
+LA DESTRUCCIÓN DEL 
 OBJETIVO...<NOD<CLR
 ES IMPOSIBLE CON 
 EL ARMAMENTO EQUIPADO 
@@ -228,21 +228,21 @@ ACTUALMENTE.<NOD<CLR
 <FON0401:0016<CNP0400:0067:0002<WAI0050
 <MSG<FAC1126
 ¡Aah!<FAC1026<NOD<CLR<FAC1126
-¡¿Como?!<FAC1026<NOD<CLR<FAC0119
+¡¿Cómo?!<FAC1026<NOD<CLR<FAC0119
 ¡Oye!<FAC0019<NOD<CLR<FAC0119
 ¡Es la misma bruja que me
 dio esa descarga!<FAC0019<NOD<CLR<FAC0119
-¡¿Estan a salvo esos ninos?!<FAC0019<NOD<CLR<FAC1116
-¡Callate!<FAC1016<NOD<CLR<FAC1116
-¡No actues como si fueras
+¡¿Están a salvo esos niños?!<FAC0019<NOD<CLR<FAC1116
+¡Cállate!<FAC1016<NOD<CLR<FAC1116
+¡No actúes como si fueras
 su madre!<FAC1016<NOD<FAC1116
-¡¿Siquiera sabes que es 
+¡¿Siquiera sabes qué es 
 esta cosa?!<FAC1016<NOD<CLR
 <FAC0119¿Eh?<FAC0019<NOD<CLR<FAC1116
-¡Esta es la razon por la que
+¡Esta es la razón por la que
 ODIO A LOS ROBOTS!<FAC1016<NOD<CLR<FAC1116
-¡Este es el corazon de la isla!<FAC1016<NOD<CLR<FAC1116
-¡La isla caera si ESTO
+¡Este es el corazón de la isla!<FAC1016<NOD<CLR<FAC1116
+¡La isla caerá si ESTO
 se detiene!<FAC1016<NOD<CLR<FAC1116
 ¡¿Realmente quieres morir
 junto con la isla?!<FAC1016<NOD<CLR<FAC1116
@@ -250,10 +250,10 @@ junto con la isla?!<FAC1016<NOD<CLR<FAC1116
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0121
 ¡¡MISERY!!<FAC0221<NOD<CLR<FAC0121
-¡¿Que estas haciendo?!
-Lleva el Nucleo al 
+¡¿Qué estás haciendo?!
+Lleva el Núcleo al 
 laboratorio YA!<FAC0221<NOD<CLR<FAC0121
-¡Mientras aun tengas tiempo!<FAC0221<NOD<CLO<FAC0000
+¡Mientras aún tengas tiempo!<FAC0221<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
 <ANP0400:0025:0002<FMU
@@ -279,11 +279,11 @@ Perdiste el conocimiento...<NOD<CLO
 <ITJ0030:1101<EVE1110
 #1101
 <WAI0150
-<KEY<MS2¿Sabias que la mujer llamada 
-Jenka tenia un hermano menor?<NOD
+<KEY<MS2¿Sabías que la mujer llamada 
+Jenka tenía un hermano menor?<NOD
 Su nombre era Ballos.<NOD
-Como su hermana mayor, tenia
-poderes magicos mas alla de lo
+Como su hermana mayor, tenía
+poderes mágicos más allá de lo
 que nadie pudiera imaginar...<NOD<CLO<EVE1110
 #1110
 <CNP0306:0117:0002

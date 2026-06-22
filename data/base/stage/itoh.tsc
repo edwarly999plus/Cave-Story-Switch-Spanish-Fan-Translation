@@ -38,7 +38,7 @@ con magia!<NOD<CLR
 .....<NOD<CLR<ANP0400:0000:0000<FAC0128
 Quieres decir que... ¿no eres
 un robot asesino?<FAC0028<NOD<FAC0128
-Me asustaste muchisimo
+Me asustaste muchísimo
 al entrar tan de repente.<FAC0028<NOD<CLR<FAC0128
 ¿Vienes a salvarnos?<FAC0028<NOD<END
 #0401
@@ -49,8 +49,8 @@ Soy uno de los humanos que
 vino a estudiar la isla.<FAC0028<NOD<FAC0128
 Misery me dio esta adorable
 nueva apariencia de Mimiga.<FAC0028<NOD<FAC0128
-Podria escapar, pero mira
-como estoy ahora.<FAC0028<NOD<CLR<FAC0128
+Podría escapar, pero mira
+cómo estoy ahora.<FAC0028<NOD<CLR<FAC0128
 ¡Estoy atrapado!<FAC0028<NOD<CLR<FAC0128
 Debiste haber escalado todo
 el muro desde afuera.<FAC0028<NOD<FAC0128
@@ -58,26 +58,26 @@ Soy un ingeniero capaz,
 pero tengo un miedo innato
 a las alturas.<FAC0028<NOD<CLR<FAC0128
 Uuugh...<FAC0028<NOD<CLR<FAC0128
-No debi haber venido a un
+No debí haber venido a un
 lugar como esta isla
 flotante.<FAC0028<NOD<END
 #0402
 <KEY<MSG<FAC0128
 No necesitas nada de este
-pobre hombre que resulto
-atrapado aqui...<FAC0028<NOD<END
+pobre hombre que resultó
+atrapado aquí...<FAC0028<NOD<END
 #0403
 <KEY<MSG<FL+1003<FAC0128
 ¿Itoh?<FAC0028<NOD<FAC0128
 Ese soy yo.<FAC0028<NOD<CLR<FAC0128
-¿Que?<FAC0028<NOD<FAC0128
-¿Sakamoto esta fabricando
+¿Qué?<FAC0028<NOD<FAC0128
+¿Sakamoto está fabricando
 un cohete?<FAC0028<NOD<CLR<FAC0128
-No tenia idea de que ella
-seguia viva y bien...<FAC0028<NOD<FAC0128
+No tenía idea de que ella
+seguía viva y bien...<FAC0028<NOD<FAC0128
 Es muy fuerte.<FAC0028<NOD<FAC0128
 Comparado con ella, yo...<FAC0028<NOD<CLR<FAC0128
-Esta bien.<FAC0028<NOD<FAC0128
+Está bien.<FAC0028<NOD<FAC0128
 Toma esto.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
 <CMU0010Obtuviste el =Controlador=.<WAI0160<NOD<RMU
 <CLR<FAC0128
@@ -85,4 +85,4 @@ Creo que, tal vez, esto es
 lo que Sakamoto necesita.<FAC0028<NOD<GIT0000<EVE0404
 #0404
 <KEY<MSG<FAC0128
-Saludala de mi parte.<FAC0028<NOD<END
+Salúdala de mi parte.<FAC0028<NOD<END
