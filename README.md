@@ -113,10 +113,12 @@ Si prefieres no usar Python, puedes copiar la carpeta `01007D4002682000` directa
 * **Entorno de Debugging:** Testeo nativo realizado mediante **doukutsu-rs** (motor en Rust) para garantizar la fluidez de los diálogos y la estabilidad de los eventos sin lag de emulación.
 * **Filtrado de Archivos:** Se ha realizado una limpieza profunda mediante *Everything* para incluir únicamente archivos de texto y recursos visuales, eliminando datos de mapas (.pxm) o entidades (.pxe) no modificados.
 
-## ⚠️ Notas de Localización (Importante)
-Debido a limitaciones en el renderizado de fuentes de la versión de Switch, esta traducción sigue estas reglas para evitar "píxeles basura" o crashes:
-* **Sin Acentos:** Se han omitido los acentos (á, é, í, ó, ú).
-* **Sin letra Ñ:** Sustituida por "n" o palabras alternativas (ej. "pequena" o "chica").
+## ⚠️ Notas de Localización (Actualizado)
+Gracias al trabajo de **ChrisXolt**, se ha implementado un **nuevo font personalizado** que reemplaza la fuente original del juego. Esta nueva fuente permite renderizar correctamente los caracteres del español sin los problemas de "píxeles basura" o crashes que ocurrían con la fuente por defecto.
+
+* **Acentos y diéresis:** Ahora se muestran correctamente (á, é, í, ó, ú, ü).
+* **Letra Ñ:** La eñe (Ñ/ñ) se renderiza sin fallos.
+* **Signos de apertura:** Los signos de exclamación e interrogación de apertura (¡, ¿) también son compatibles.
 * **Gráficos Limpios:** Se han editado archivos `.png` mediante revisión individual para localizar opciones de menú como el cuadro de **SÍ / NO**.
 
 ---
@@ -149,7 +151,7 @@ Para garantizar la estabilidad de la traducción y evitar errores críticos en e
 
 #### 4. 📝 Formato de Texto
 * Se debe respetar el límite de líneas de los cuadros de texto originales (31-36 Max.) para evitar que el texto se corte en la pantalla de la consola.
-* **IMPORTANTE:** No usar tildes ni eñes en los archivos `.tsc` para garantizar compatibilidad total con el motor de la consola y evitar caracteres extraños.
+* **IMPORTANTE:** Gracias al nuevo font de ChrisXolt, ya se pueden usar tildes, eñes y signos de apertura (¡, ¿) sin problemas en los archivos `.tsc`. Asegúrate de que el texto se mantenga dentro de los límites de caracteres por línea.
 
 ---
 
@@ -194,6 +196,7 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos finales del juego son:
 
 *  👑 **EdwarlyGamer999+ (Admin)** - Traducciones al Español de la campaña Principal y Programación TSC.
+*  🔧 **ChrisXolt** - Creación e implementación del font personalizado que permite caracteres especiales (acentos, eñes, ¡¿).
 * **LAIB** - Traducciones al Español de Curly Story (En Proceso...).
 
 
