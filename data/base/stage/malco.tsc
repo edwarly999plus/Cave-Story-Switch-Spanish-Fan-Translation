@@ -57,7 +57,7 @@ Energía funcionando: Normal.<NOD<END
 ¿¡Qué eres tú?!?<FAC0005<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
-¡Balrog derrotado!<WAI0140<NOD
+¡Balrog derrotado!<WAI0140<NOD<CLO
 <ACH0030
 <CMU0008<FL-0480<FL+0482<END
 #0204
