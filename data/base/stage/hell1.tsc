@@ -13,7 +13,7 @@
 <SOU0043<GIT1022El =Contador Nikumaru= se ha activado.<NOD<GIT0000<EVE0096
 #0096
 <MSG
-Un viento negro sopla a traves
+Un viento negro sopla a través
 de tu cuerpo.<NOD<CLR
 ¡Todas las armas bajan al Nivel 1!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
@@ -31,8 +31,8 @@ de tu cuerpo.<NOD<CLR
 #0400
 <PRI<SOU0022<DNP0400
 <MSG<GIT1006
-Obtuviste una =Capsula de Energia=.<NOD<ML+0005
-La vida maxima aumento en 5.<NOD<END
+Obtuviste una =Cápsula de Energía=.<NOD<ML+0005
+La vida máxima aumentó en 5.<NOD<END
 #0420
 <DNP0420
 <ANP0430:0030:0000<FON0430:0016
@@ -47,16 +47,16 @@ Ooow...<FAC0020<NOD<CLR<FAC0000
 #0900
 <DNP0900<SKJ0020:0000<SK+0020
 <PRI<MS3
-¿Sabias que la mujer llamada Jenka
-tenia un hermano menor?<NOD
+¿Sabías que la mujer llamada Jenka
+tenía un hermano menor?<NOD
 Su nombre era Ballos.<NOD
-Al igual que su hermana, poseia
-poderes magicos que ningun otro
-hombre tenia.<NOD<END
+Al igual que su hermana, poseía
+poderes mágicos que ningún otro
+hombre tenía.<NOD<END
 #0901
 <DNP0901<SKJ0021:0000<SK+0021
 <PRI<MS3
-El guiaba y protegia a la gente
-con su poder magico.<NOD
-Ellos lo amaban y confiaban en el,<NOD<CLR
-Incluso mas que en su propio rey.<NOD<END
+Él guiaba y protegía a la gente
+con su poder mágico.<NOD
+Ellos lo amaban y confiaban en él,<NOD<CLR
+Incluso más que en su propio rey.<NOD<END

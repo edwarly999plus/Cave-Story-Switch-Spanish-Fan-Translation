@@ -15,7 +15,7 @@
 
 #0400
 <PRI<MSG<SOU0105
-Guau! <SOU0105Guau! <SOU0105Guau!<NOD<CLR
+¡Guau! <SOU0105¡Guau! <SOU0105¡Guau!<NOD<CLR
 ¿Quieres llevarlo contigo?<YNJ0000<CLR
 <DNP0400<FL+0610<GIT1014<I+N0014:0005Recogiste al perro.<NOD<CLO
 <FL+3002

@@ -15,16 +15,16 @@
 
 #0150
 <KEY<MSG
-Unos petalos de flores rojas estan
+Unos pétalos de flores rojas están
 esparcidos por el suelo.<NOD<END
 
 #0200
 <KEY<MSG
-Hay una nota aqui.<NOD<CLR<TUR
-No puedo acercarme mas a la
-Sala de Observacion por el escudo.<NOD<CLR<TUR
+Hay una nota aquí.<NOD<CLR<TUR
+No puedo acercarme más a la
+Sala de Observación por el escudo.<NOD<CLR<TUR
 Debe haber una terminal que pueda
-quitar el escudo en algun lado...<NOD<END
+quitar el escudo en algún lado...<NOD<END
 
 #0300
 <PRI<FLJ0200:0001<FL+0200
@@ -36,68 +36,68 @@ Has abierto el cofre del tesoro.<NOD<CLR<EVE0030
 
 #0501
 <PRI<MS3
-Huevo de Dragon Volador No. 01
+Huevo de Dragón Volador No. 01
 Error: Estado del huevo anormal.
-Examinar mas a fondo.<NOD<END
+Examinar más a fondo.<NOD<END
 #0502
 <PRI<MS3<TUR
-Huevo de Dragon Volador No. 02
+Huevo de Dragón Volador No. 02
 Estado del huevo normal.<NOD<END
 #0503
 <PRI<MS3<TUR
-Huevo de Dragon Volador No. 03
+Huevo de Dragón Volador No. 03
 Estado del huevo normal.<NOD<END
 #0504
 <PRI<MS3<TUR
-Huevo de Dragon Volador No. 04
+Huevo de Dragón Volador No. 04
 Estado del huevo normal.<NOD<END
 #0505
 <PRI<MS3<TUR
-Huevo de Dragon Volador No. 05
+Huevo de Dragón Volador No. 05
 Estado del huevo normal.<NOD<END
 #0506
 <PRI<MS3
-Huevo de Dragon Volador No. 06
+Huevo de Dragón Volador No. 06
 Error: Estado del huevo anormal.
-Examinar mas a fondo.<NOD<END
+Examinar más a fondo.<NOD<END
 #0507
 <PRI<MS3<TUR
-Huevo de Dragon Volador No. 07
+Huevo de Dragón Volador No. 07
 Estado del huevo normal.<NOD<END
 #0508
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 08
+Huevo de Dragón Volador No. 08
 Estado del huevo normal.<NOD<END
 #0509
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 09
+Huevo de Dragón Volador No. 09
 Estado del huevo normal.<NOD<END
 #0510
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 10
+Huevo de Dragón Volador No. 10
 Estado del huevo normal.<NOD<END
 #0511
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 11
+Huevo de Dragón Volador No. 11
 Estado del huevo normal.<NOD<END
 #0512
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 12
+Huevo de Dragón Volador No. 12
 Estado del huevo normal.<NOD<END
 #0513
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 13
+Huevo de Dragón Volador No. 13
 Estado del huevo normal.<NOD<END
 #0514
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 14
+Huevo de Dragón Volador No. 14
 Estado del huevo normal.<NOD<END
 #0515
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 15
+Huevo de Dragón Volador No. 15
 Estado del huevo normal.<NOD<END
 #0516
 <PRI<MSG<TUR
-Huevo de Dragon Volador No. 16
+Huevo de Dragón Volador No. 16
 Estado del huevo normal.<NOD<END
 

@@ -24,9 +24,9 @@
 <MSG
 <CMU0010¡Kazuma te atrapa!<WAI0160<CLR<FAC1110
 Vaya...<FAC1010<NOD<CLR<FAC1110
-Realmente no pense que fueras
+Realmente no pensé que fueras
 capaz de hacerlo.<FAC1010<NOD<CLR<FAC1110
-¡Destruiste el nucleo!<FAC1010<NOD<CLR<FAC1110
+¡Destruiste el núcleo!<FAC1010<NOD<CLR<FAC1110
 Gracias a ti, probablemente no
 volveremos a ver al Doctor
 por segunda o tercera vez.<FAC1010<NOD<FAC1110
@@ -47,46 +47,46 @@ Vamos a casa.<FAC1010<NOD<CLO
 <MSG<FAC0105<FL+2000<FL+1460
 ¡Por poco!<FAC0005<NOD<CLR<FAC0105
 Logramos escapar por los pelos.<FAC0005<NOD<CLR<FAC1119
-Esta vez pense que acabaria
+Esta vez pensé que acabaría
 como chatarra.<FAC1019<NOD<FAC1119
 Parece que te debemos otra.<FAC1019<NOD<CLO<FAC0000<WAI0050
 <MSG<FAC0105
 No hace falta que digas eso.<FAC0005<NOD<FAC0105
-Solo hice lo que Misery pidio.<FAC0005<NOD<CLR<FAC1125
+Solo hice lo que Misery pidió.<FAC0005<NOD<CLR<FAC1125
 ¿Misery? 
 ¿Te refieres a esa bruja?<FAC1025<NOD<CLR
-<FAC0105¡Si!<FAC0005<NOD<CLR<FAC1125
+<FAC0105¡Sí!<FAC0005<NOD<CLR<FAC1125
 ¿Acaso ella no nos odia?<FAC1025<NOD<FAC1125
-Espera, ¿no NOS odias tu?<FAC1025<NOD<CLR<FAC0105
+Espera, ¿no NOS odias tú?<FAC1025<NOD<CLR<FAC0105
 Ustedes dos derrotaron a Ballos.<FAC0005<NOD<CLR<FAC0105
-Nuestra maldicion fue rota
+Nuestra maldición fue rota
 gracias a ustedes.<FAC0005<NOD<FAC0105
 Misery y yo ya no tenemos que
-obedecer las ordenes de nadie.<FAC0005<NOD<CLR<FAC1119
+obedecer las órdenes de nadie.<FAC0005<NOD<CLR<FAC1119
 ¿O sea que eras malo solo
 por culpa de la Corona del
 Demonio?<FAC1019<NOD<CLR<FAC0105
 Nosotros la buscamos...<FAC0005<NOD<FAC0105
 Tienes que recordar que fue
-Misery quien obligo a Ballos
+Misery quien obligó a Ballos
 a crear la corona.<FAC0005<NOD<CLR<FAC1125
 ¿Eh?
 ¿En serio?<FAC1025<NOD<FAC1125
-No sabia eso.<FAC1025<NOD<CLR<FAC0105
-¡Asi es!<FAC0005<NOD<CLO<FAC0000
+No sabía eso.<FAC1025<NOD<CLR<FAC0105
+¡Así es!<FAC0005<NOD<CLO<FAC0000
 <WAI0150
 <MSG<FAC0105
 Y ahora...<FAC0005<NOD<CLR
 <FAC1125¿Ahora?<FAC1025<NOD<CLR<FAC0105
-¿Que piensan hacer ahora?<FAC0005<NOD<FAC0105
+¿Qué piensan hacer ahora?<FAC0005<NOD<FAC0105
 ¡Puedo llevarlos a donde sea!<FAC0005<NOD<CLR<FAC1119
 Bueno, ya que lo preguntas...<FAC1019<NOD<CLR<FAC1119
-Nuestra mision termino, asi que
-quiero vivir en un lugar calma-
-do con una buena vista.<FAC1019<NOD<CLO<FAC0000
+Nuestra misión terminó, así que
+quiero vivir en un lugar calmado
+con una buena vista.<FAC1019<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0105
 Disculpen, pero... esto...<FAC0005<NOD<CLR
-<FAC1125¿Si?<FAC1025<NOD<CLR<FAC0105
+<FAC1125¿Sí?<FAC1025<NOD<CLR<FAC0105
 ...¿Puedo ir con ustedes?<FAC0005<NOD<CLR
 <FAC1119¡Claro!<FAC1019<NOD<FAC1119
 ¡Los tres podremos vivir
@@ -94,10 +94,10 @@ juntos sin duda alguna!<FAC1019<NOD<CLR
 <FAC0114¡¿De verdad?!<FAC0014<NOD<CLR<FAC1119
 ¡Incluso puedes elegir el lugar
 donde viviremos todos!<FAC1019<NOD<FAC1119
-Pero llevanos a un sitio lindo.<FAC1019<NOD<CLR
+Pero llévanos a un sitio lindo.<FAC1019<NOD<CLR
 <FAC0114¡Entendido!<FAC0014<NOD<CLR<FAC0114
 ¡Muy bien, 
-<ANP0230:0020:0002¡<WAI0010S<WAI0010u<WAI0010j<WAI0010e<WAI0010t<WAI0010e<WAI0010n<WAI0010s<WAI0010e<WAI0010 <WAI0010f<WAI0010u<WAI0010e<WAI0010r<WAI0010t<WAI0010e<WAI0010!<WAI0010!<FAC0014<NOD<CLO<FAC0000
+<ANP0230:0020:0002¡<WAI0010S<WAI0010u<WAI0010j<WAI0010e<WAI0010t<WAI0010é<WAI0010n<WAI0010s<WAI0010e<WAI0010 <WAI0010f<WAI0010u<WAI0010e<WAI0010r<WAI0010t<WAI0010e<WAI0010!<WAI0010!<FAC0014<NOD<CLO<FAC0000
 <KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0004:0015
 
 #0121

@@ -26,7 +26,7 @@
 
 
 #0105
-<PRI<MSGQuieres guardar?<YNJ0000<SVP<CLR
+<PRI<MSG¿Quieres guardar?<YNJ0000<SVP<CLR
 Juego guardado.<NOD<END
 #0106
 <PRI<LI+1000<SOU0020<AE+<MSG
@@ -41,10 +41,10 @@ Para nosotros los Mimiga, estas
 flores son una fuente preciada
 de alimento.<NOD<CLR
 Pero no las flores rojas.<NOD<CLR
-He oido que si comemos flores rojas
-nuestra presion sanguinea sube
-y moriremos al instante!<NOD<CLR
-Afortunadamente, aqui no cultivamos
+He oído que si comemos flores rojas
+nuestra presión sanguínea sube
+y ¡moriremos al instante!<NOD<CLR
+Afortunadamente, aquí no cultivamos
 esas viles flores rojas.<NOD<END
 
 
@@ -53,7 +53,7 @@ esas viles flores rojas.<NOD<END
 Es un aspersor.<NOD<END
 #0221
 <KEY<MSG
-Esta fijado firmemente al suelo!<NOD<END
+¡Está fijado firmemente al suelo!<NOD<END
 
 #0300
 <PRI
@@ -61,12 +61,12 @@ Esta fijado firmemente al suelo!<NOD<END
 <DNP0300
 <MSG
 No ves nada...<NOD<CLR<CMU0010<GIT1005<IT+0005
-Como obtuviste el Colmillo de Bestia?
+¿Cómo obtuviste el Colmillo de Bestia?
 ...<WAI0160<NOD<CLO
 <RMU<END
 
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Obtuviste una =Capsula de Energia=.<WAI0160<NOD<RMU<ML+0003
-Vida maxima aumentada en 3.<NOD<END
+Obtuviste una =Cápsula de Energía=.<WAI0160<NOD<RMU<ML+0003
+Vida máxima aumentada en 3.<NOD<END

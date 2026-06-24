@@ -1,9 +1,10 @@
+
 #0000
 <END
 
 #0001
 <PRI<MSG
-Vacio.<NOD<END
+Vacío.<NOD<END
 
 #0016
 <PRI<MSG
@@ -31,15 +32,15 @@ Salud restaurada.<NOD<CLO<RMU<FAI0004<END
 <PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
 <CMU0010¡Has obtenido el Lanzamisiles!<WAI0160<NOD<RMU<CLR
 Es un arma muy potente, pero
-su municion es limitada.<NOD
-Recoge municion extra de los
+su munición es limitada.<NOD
+Recoge munición extra de los
 enemigos derrotados.<NOD<END
 #0031
 <PRI<AM+0005:0005<MSG
-<GIT0006Municion maxima +<NUM0000.<NOD<END
+<GIT0006Munición máxima +<NUM0000.<NOD<END
 #0032
 <PRI<AM+0010:0005<MSG
-<GIT0011Municion maxima +<NUM0000.<NOD<END
+<GIT0011Munición máxima +<NUM0000.<NOD<END
 
 #0040
 <KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
@@ -58,7 +59,7 @@ Te has ahogado.<NOD<CLR
 #0042
 <KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
 <MSG<HM2
-Nadie volvio a verte jamas...<NOD<CLR
+Nadie volvió a verte jamás...<NOD<CLR
 ¿Quieres reintentarlo?<YNJ0049<CLO
 <FAO0001<WAI0050<FLJ0431:0048<INI<END
 
@@ -67,6 +68,3 @@ Nadie volvio a verte jamas...<NOD<CLR
 
 #0049
 <CLO<FAO0004<ESC
-
-XX: head.tsc   4000 - 4099
-4000:Almond����

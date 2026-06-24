@@ -29,15 +29,15 @@ repuestos para ellos.<NOD<END
 
 #0202
 <KEY<MSG<FL+1121
-Se rompio otra vez...<NOD<CLR<GIT1028<IT-0028
+Se rompió otra vez...<NOD<CLR<GIT1028<IT-0028
 Le diste el =Aspersor Roto=.<NOD<GIT0000
 <KEY<MSG
-Usa este con mas cuidado.<NOD<DNP0280<GIT1029<IT+0029<CLR
+Usa este con más cuidado.<NOD<DNP0280<GIT1029<IT+0029<CLR
 <CMU0010Obtuviste el =Aspersor=.<WAI0160<NOD<RMU<END
 
 #0203
 <KEY<MSG
-¿Sera que estas son las ultimas
+¿Será que estas son las últimas
 semillas que debemos plantar?<NOD
 Apenas si tenemos suficientes
 aspersores...<NOD<END
@@ -55,18 +55,18 @@ En efecto, los robots de la
 superficie atacaron esta isla.<NOD
 De hecho, varios de mis amigos
 murieron esa vez...<NOD
-Aun asi, algunos de esos robots
-parecian entendernos.<NOD
-Creo que esos robots poseian
+Aún así, algunos de esos robots
+parecían entendernos.<NOD
+Creo que esos robots poseían
 corazones y almas...<NOD<END
 
 #0212
 <MSG
 ¡Maldito sea ese Doctor!<NOD<CLR
-¡¿Como se atreve a llevarse a
-un nino tan pequeno por la fuerza?!<NOD
-Desearia ser un poco mas joven...<NOD
-Que frustrante...<NOD<END
+¡¿Cómo se atreve a llevarse a
+un niño tan pequeño por la fuerza?!<NOD
+Desearía ser un poco más joven...<NOD
+Qué frustrante...<NOD<END
 
 #0220
 <KEY<FLJ1020:0221
@@ -75,7 +75,7 @@ Que frustrante...<NOD<END
 <MSG
 ¡No le creo nada a ese Doctor!<NOD<CLR
 ¿¡¿Robots?!? 
-¡¡¡COMO SEA!!!<NOD
+¡¡¡CÓMO SEA!!!<NOD
 No tengo miedo, ni un poquito...<NOD<END
 
 #0230
@@ -93,10 +93,10 @@ Buenas...<NOD<CLR
 Debe haber sido en la Aldea Mimiga.<NOD
 Esa bruja de Misery me trajo...<NOD
 ...Odio el trabajo de granja.<NOD<CLR
-Ire a despejar mi mente un rato
+Iré a despejar mi mente un rato
 con algo de pesca.<NOD<CLR
 ¿Te gusta pescar?<NOD
-Si hay otra oportunidad, quiza nos
+Si hay otra oportunidad, quizá nos
 volvamos a cruzar.<NOD<CLO
 <ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
 <ANP0250:0000:0002<WAI0020

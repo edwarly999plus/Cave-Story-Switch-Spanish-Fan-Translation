@@ -27,13 +27,13 @@ No puedes pasar por el fuego.<NOD<CLO
 <FLJ0261:0000<WAI0030<FL+0261<FL+0263
 <ANP0300:0003:0002<WAI0045<ANP0300:0000:0002<MYD0000
 <MSG
-Quieres pasar por mi chimenea?<NOD<CLR
+¿Quieres pasar por mi chimenea?<NOD<CLR
 Para eso vas a necesitar un poco
 de Jugo de Medusa.<NOD<CLR
 La medusa grande lo tiene.<NOD<END
 #0202
 <KEY<GIT1008<MSG
-Quieres usar el Jugo de Medusa?<YNJ0000<CLO
+¿Quieres usar el Jugo de Medusa?<YNJ0000<CLO
 <FL+0213<IT-0008
 <ANP0200:0010:0000<WAI0030<FAO0004
 <TRA0006:0099:0124:0011
@@ -42,7 +42,7 @@ Quieres usar el Jugo de Medusa?<YNJ0000<CLO
 <PRI<ITJ0037:0019<FLJ0263:0211<EVE0019
 #0211
 <KEY<MSG
-Quieres descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+¿Quieres descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 .....<IT+0037<NOD<CLO
 <MNP0300:0015:0006:0000<ANP0300:0010:0000
 <WAI0050
@@ -54,8 +54,8 @@ Vida restaurada.<NOD<CLO<RMU<FAI0004<END
 <FLJ0261:0301
 <FLJ0241:0303
 <KEY<MSG
-Hola, en que puedo ayudarte?<NOD<CLR
-Ya conociste al debilucho de
+Hola, ¿en qué puedo ayudarte?<NOD<CLR
+¿Ya conociste al debilucho de
 Santa?<NOD<END
 #0301
 <KEY<MSG
@@ -64,17 +64,17 @@ entonces necesitas conseguir
 un poco de Jugo de Medusa.<NOD<CLR
 Puedes obtener el Jugo de Medusa
 de las medusas.<NOD
-Busca a la mas grande de todas.<NOD<END
+Busca a la más grande de todas.<NOD<END
 #0302
 <KEY<MSG
-Conseguiste el Jugo de Medusa?<NOD
+¿Conseguiste el Jugo de Medusa?<NOD
 ¡Buen trabajo!<NOD<CLR
 Aunque solo puedes llevar dos
 frascos de Jugo de Medusa, puedes
 obtenerlo una y otra vez.<NOD<END
 #0303
 <KEY<MSG
-Hola, ¿en que puedo ayudarte?<NOD<CLR
-¡Vaya, eso que llevas ahi parece
+Hola, ¿en qué puedo ayudarte?<NOD<CLR
+¡Vaya, eso que llevas ahí parece
 bastante peligroso!<NOD<CLR
-Dime, eres un viajero?<NOD<END
+Dime, ¿eres un viajero?<NOD<END

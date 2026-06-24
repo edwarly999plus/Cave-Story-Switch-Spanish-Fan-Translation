@@ -39,16 +39,16 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 
 ### 1. Menús e Interfaz
 <p align="left">
-  <img width="852" height="477" alt="Comandos principales en español" src="https://github.com/user-attachments/assets/c7e0ea81-faf5-4932-9dd8-65bf11ecea7f" />
+<img width="847" height="474" alt="Gameover" src="https://github.com/user-attachments/assets/8b0e7609-98d6-4e9d-be65-b34082450024" />
 </p>
 
-*Edición de botones SÍ/NO y menús de sistema para evitar errores gráficos.*
+*Edición de botones SÍ/NO y menús de sistema para que se vea más profesional.*
 
 ---
 
 ### 2. Inventario y Objetos
 <p align="left">
-  <img width="848" height="476" alt="Inventario en español" src="https://github.com/user-attachments/assets/441baf49-33f0-4960-944b-56f49426042d" />
+<img width="847" height="474" alt="Inv" src="https://github.com/user-attachments/assets/bf4b7368-24e8-40d3-ad69-9aed56430288" />
 </p>
 
 *Descripciones de armas y objetos clave localizadas.*
@@ -57,13 +57,10 @@ Este proyecto nace con el objetivo de traer la mejor versión del juego (con sus
 
 ### 3. Diálogos y Cinemáticas
 <p align="left">
-  <img width="853" height="475" alt="Corredor De Huevos 2" src="https://github.com/user-attachments/assets/4b0f70b0-8c04-4a55-be20-8fa16ce96243" />
-
-<img width="853" height="474" alt="Kazuma" src="https://github.com/user-attachments/assets/abd6f80e-bd68-475b-b35d-eeb80f2d6798" />
+<img width="847" height="474" alt="Cthu" src="https://github.com/user-attachments/assets/10a95cf2-9dc8-44b8-a752-c761b58ad3f2" />
+<img width="843" height="446" alt="CRE1" src="https://github.com/user-attachments/assets/52d22c4d-ba0b-459a-92aa-4391897a7cae" />
+<img width="847" height="474" alt="Blcny" src="https://github.com/user-attachments/assets/b02de8dc-452d-463d-8b40-9dbe679b702c" />
 </p>
-
-<img width="847" height="472" alt="image" src="https://github.com/user-attachments/assets/e29dc171-ed8b-4216-b3df-85829ac9ea16" />
-
 
 *Textos adaptados para una lectura fluida, respetando la personalidad de cada personaje.*
 
@@ -113,10 +110,12 @@ Si prefieres no usar Python, puedes copiar la carpeta `01007D4002682000` directa
 * **Entorno de Debugging:** Testeo nativo realizado mediante **doukutsu-rs** (motor en Rust) para garantizar la fluidez de los diálogos y la estabilidad de los eventos sin lag de emulación.
 * **Filtrado de Archivos:** Se ha realizado una limpieza profunda mediante *Everything* para incluir únicamente archivos de texto y recursos visuales, eliminando datos de mapas (.pxm) o entidades (.pxe) no modificados.
 
-## ⚠️ Notas de Localización (Importante)
-Debido a limitaciones en el renderizado de fuentes de la versión de Switch, esta traducción sigue estas reglas para evitar "píxeles basura" o crashes:
-* **Sin Acentos:** Se han omitido los acentos (á, é, í, ó, ú).
-* **Sin letra Ñ:** Sustituida por "n" o palabras alternativas (ej. "pequena" o "chica").
+## ⚠️ Notas de Localización (Actualizado)
+Gracias al trabajo de **ChrisXolt**, se ha implementado un **nuevo font personalizado** que reemplaza la fuente original del juego. Esta nueva fuente permite renderizar correctamente los caracteres del español sin los problemas de "píxeles basura" o crashes que ocurrían con la fuente por defecto.
+
+* **Acentos y diéresis:** Ahora se muestran correctamente (á, é, í, ó, ú, ü).
+* **Letra Ñ:** La eñe (Ñ/ñ) se renderiza sin fallos.
+* **Signos de apertura:** Los signos de exclamación e interrogación de apertura (¡, ¿) también son compatibles.
 * **Gráficos Limpios:** Se han editado archivos `.png` mediante revisión individual para localizar opciones de menú como el cuadro de **SÍ / NO**.
 
 ---
@@ -149,7 +148,7 @@ Para garantizar la estabilidad de la traducción y evitar errores críticos en e
 
 #### 4. 📝 Formato de Texto
 * Se debe respetar el límite de líneas de los cuadros de texto originales (31-36 Max.) para evitar que el texto se corte en la pantalla de la consola.
-* **IMPORTANTE:** No usar tildes ni eñes en los archivos `.tsc` para garantizar compatibilidad total con el motor de la consola y evitar caracteres extraños.
+* **IMPORTANTE:** Gracias al nuevo font de ChrisXolt, ya se pueden usar tildes, eñes y signos de apertura (¡, ¿) sin problemas en los archivos `.tsc`. Asegúrate de que el texto se mantenga dentro de los límites de caracteres por línea.
 
 ---
 
@@ -194,7 +193,8 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonC
 Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos finales del juego son:
 
 *  👑 **EdwarlyGamer999+ (Admin)** - Traducciones al Español de la campaña Principal y Programación TSC.
-* **LAIB** - Traducciones al Español de Curly Story (En Proceso...).
+*  🔧 **LAIB** - Traducciones al Español de Curly Story (En Proceso...).
+*  🔧 **ChrisXolt** - Creación e implementación del font personalizado que permite caracteres especiales (acentos, eñes, ¡¿).
 
 
 > **Nota para colaboradores:** Si deseas contribuir, puedes enviar un Pull Request. ¡Todas las contribuciones aceptadas serán añadidas a los créditos dentro del juego!
@@ -207,6 +207,7 @@ Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos f
 
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d8ec7815-4705-471a-954e-8ca856d51fa4" /> 
 <img width="64" height="64" alt="LAIB" src="https://github.com/user-attachments/assets/c698b57f-8a78-4ce9-9215-7af10f3ce85b" />
+<img width="64" height="64" alt="ChrisXolt" src="https://github.com/user-attachments/assets/84764488-cf24-4666-ae10-c0772730f62d" />
 
 ---
 

@@ -25,43 +25,43 @@ Hay un texto en la pantalla...<NOD<CLR
 #0201
 <KEY<MSG
 Hay un texto en la pantalla...<NOD<CLR
-<TUR¿Que tal si te tomas un descanso?<NOD<END
+<TUR¿Qué tal si te tomas un descanso?<NOD<END
 #0202
 <KEY<FL+1445<MSG
 Hay un texto en la pantalla...<NOD<CLR<TUR
-Eso me recuerda, tambien anote
+Eso me recuerda, también anoté
 algunos hallazgos en esa libreta.<NOD<END
 #0203
 <KEY<MSG
 Hay un texto en la pantalla...<NOD<CLR
-<TURTu puedes hacerlo.<NOD<END
+<TURTú puedes hacerlo.<NOD<END
 #0210
 #0220
 <KEY<MSG
 Nada interesante...<NOD<END
 #0221
 <KEY<MSG
-La libreta esta llena de polvo...<NOD<FLJ1441:0223<FLJ1445:0222<END
+La libreta está llena de polvo...<NOD<FLJ1441:0223<FLJ1445:0222<END
 #0222
 <KEY<MSG
 ¿Abrir la libreta?<YNJ0000<FL+1441<CLR<TUR
 Los robots fabricados en la
 superficie tienen movilidad
-acuatica limitada.<NOD<CLR
-En caso de inundacion, el sistema
-iniciara automaticamente un apagado
+acuática limitada.<NOD<CLR
+En caso de inundación, el sistema
+iniciará automáticamente un apagado
 para evitar un cortocircuito.<NOD<CLR
-Abajo hay instrucciones sobre como
+Abajo hay instrucciones sobre cómo
 reparar robots inundados.<NOD<CLR<MSG
 .<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010<NOD<CLR<CMU0010
-¡Aprendiste como reparar 
+¡Aprendiste cómo reparar 
 robots inundados!<WAI0160<NOD<RMU<CLR<TUR
-Los sistemas inundados iniciaran
-un proceso de reinicio automatico
-tras usar el metodo de drenaje.<WAI0030<NOD<END
+Los sistemas inundados iniciarán
+un proceso de reinicio automático
+tras usar el método de drenaje.<WAI0030<NOD<END
 #0223
 <KEY<MSG
-No hay nada mas de utilidad
+No hay nada más de utilidad
 escrito en la libreta.<NOD<END
 #0250
 <KEY
@@ -89,29 +89,29 @@ que sigue con vida.<NOD<END
 <WAI0150<MSG<FAC0020
 Nnghh...<NOD<CLR<CMU0014<FAC0025
 .....<NOD<CLR<ANP0260:0001:0002<FAC1119
-¡Estas a salvo!<FAC1019<NOD<CLR<FAC1119
-Oh, que alivio...<FAC1019<NOD<CLR<FAC1125
-Pense que habias muerto.<FAC1025<NOD<FAC1125
+¡Estás a salvo!<FAC1019<NOD<CLR<FAC1119
+Oh, qué alivio...<FAC1019<NOD<CLR<FAC1125
+Pensé que habías muerto.<FAC1025<NOD<FAC1125
 Perdiste el conocimiento y
-no sabia que hacer al 
+no sabía qué hacer al 
 respecto...<FAC1025<NOD<CLR<FAC1125
-Asi que te di mi tanque de aire.
-Funciono, ¿verdad?<FAC1025<NOD<CLR
+Así que te di mi tanque de aire.
+Funcionó, ¿verdad?<FAC1025<NOD<CLR
 <FAC1020Uuh...<NOD<CLO<FAC0000<ANP0260:0001:0000
 <WAI0050
 <MSG
-Se quedo dormida.<NOD
+Se quedó dormida.<NOD
 <END
 #0254
 <KEY<MSG
-El proceso de reinicio tardara
+El proceso de reinicio tardará
 un tiempo en completarse.<NOD<FL+1443<END
 #0255
 <KEY<MSG
-¿Quieres dejarla aqui?<YNJ0256<END
+¿Quieres dejarla aquí?<YNJ0256<END
 #0256
 <KEY<CNP0260:0259:0000<FL+0836<FL-1440<FL+1444<END
 #0257
 <KEY<MSG
-La cama esta empapada.<NOD<END
+La cama está empapada.<NOD<END
 #0260

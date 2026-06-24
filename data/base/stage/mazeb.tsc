@@ -22,9 +22,9 @@
 
 #0200
 <KEY<FLJ0744:0201<MS3
-La fuente de energia esta rota.<NOD<CLR
+La fuente de energía está rota.<NOD<CLR
 Un electricista con algo de 
-conocimiento podria arreglarla.
+conocimiento podría arreglarla.
 Tal vez...<NOD<END
 
 #0201
@@ -47,41 +47,41 @@ Tal vez...<NOD<END
 <MSG
 Uhh...<NOD<CLR<FAC0117
 ¡Oh!<FAC0017<NOD<FAC0117
-¡¿Por que estas aqui?!<FAC0017<NOD<CLR<FAC0117
+¡¿Por qué estás aquí?!<FAC0017<NOD<CLR<FAC0117
 .....<FAC0017<NOD<CLR<FAC0117
 Ya veo...
-Misery te envio aqui
-tambien...<FAC0017<NOD<CLR<FAC0117
+Misery te envió aquí
+también...<FAC0017<NOD<CLR<FAC0117
 Je...<FAC0017<NOD<CLR<FAC0117
-Esto podria ser buena suerte
+Esto podría ser buena suerte
 nacida de la desgracia.<FAC0017<NOD<CLR<FAC0117
 El caso es...<FAC0017<NOD<FAC0117
 Esta isla flota en el cielo
-debido a algun tipo de
+debido a algún tipo de
 fuerza vital.<FAC0017<NOD<FAC0117
-Hace poco descubri la
-ubicacion de esa fuerza.<FAC0017<NOD<CLR<FAC0117
-En algun lugar de 
+Hace poco descubrí la
+ubicación de esa fuerza.<FAC0017<NOD<CLR<FAC0117
+En algún lugar de 
 este laberinto...
 yace esa fuerza vital.<FAC0017<NOD<CLR<FAC0117
 Si puede ser destruida,
 entonces las funciones de la
-isla podrian cesar.<FAC0017<NOD<CLR<FAC0117
+isla podrían cesar.<FAC0017<NOD<CLR<FAC0117
 Je...<FAC0017<NOD<CLR<FAC0117
 Justo ahora creo que el
 Doctor debe estar en un
-gran panico...<FAC0017<NOD<FAC0117
-¡Te enviaron al corazon
+gran pánico...<FAC0017<NOD<FAC0117
+¡Te enviaron al corazón
 de esta isla!<FAC0017<NOD<CLR
 ....<NOD<FAC0117
 Espera, tengo algo
 para ti...<FAC0017<NOD<CLO<WAI0040<MSG<FAC0117<GIT1018
 Este es el Booster v0.8.<FAC0017<NOD<FAC0117
-Esta pequena maquina 
-te ayudara a volar 
+Esta pequeña máquina 
+te ayudará a volar 
 por el aire.<FAC0017<NOD<CLR<FAC0117
-Es la unica en su clase.<FAC0017<NOD<FAC0117 
-Por favor, tomala.<FAC0017<YNJ0510<CLR<EVE0505
+Es la única en su clase.<FAC0017<NOD<FAC0117 
+Por favor, tómala.<FAC0017<YNJ0510<CLR<EVE0505
 
 #0502
 <KEY<MSG
@@ -95,28 +95,28 @@ Uuhh...<NOD<END
 <FAC0000<IT+0018<GIT1018
 Obtuviste el Booster v0.8.<NOD<CLR<FAC0117
 Puedes planear en el aire
-pulsando el boton de salto.<FAC0017<NOD<CLR<FAC0117
-Usa el menu para equipar
+pulsando el botón de salto.<FAC0017<NOD<CLR<FAC0117
+Usa el menú para equipar
 y desequipar el Booster.<FAC0017<NOD<GIT0000<CLR<FAC0117
 Wooo...<FAC0017<NOD<CLR<FAC0117
-Pense que estaba en problemas
-en el momento en que cai.<FAC0017<NOD<FAC0117
+Pensé que estaba en problemas
+en el momento en que caí.<FAC0017<NOD<FAC0117
 Pero, gracias a eso, pude
 verte...<FAC0017<NOD<FAC0117
 Parece que, con esto, he usado
-mi ultimo bit de buena suerte.<FAC0017<NOD<CLR<FAC0117
+mi último bit de buena suerte.<FAC0017<NOD<CLR<FAC0117
 Mucha... suerte...<FAC0217<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
 
 #0510
 <CLR<GIT0000<FAC0117
-¿Que?<FAC0017<NOD<FAC0117 ¿No lo quieres?<FAC0017<NOD<CLR<FAC0117
+¿Qué?<FAC0017<NOD<FAC0117 ¿No lo quieres?<FAC0017<NOD<CLR<FAC0117
 Bueno, supongo que 
-esta incompleto, 
+está incompleto, 
 pero...<FAC0017<NOD<FAC0117
-Si cambias de opinion, 
+Si cambias de opinión, 
 vuelve a verme.<FAC0017<NOD<CLR<FAC0117
 No es como si fuera a
-ningun lado...<FAC0017<NOD<FAC0000<CLO<FL+0745<END
+ningún lado...<FAC0017<NOD<FAC0000<CLO<FL+0745<END
 
 #0520
 <MSG<FAC0117
@@ -126,7 +126,7 @@ ningun lado...<FAC0017<NOD<FAC0000<CLO<FL+0745<END
 #0521
 <CLR<GIT0000<FAC0117
 ¿No?<FAC0017<NOD<FAC0117 Bueno...<FAC0017<NOD<CLR<FAC0117
-Si cambias de opinion, 
+Si cambias de opinión, 
 vuelve a verme.<FAC0017<NOD<CLR<FAC0117
 No es como si fuera a
-ningun lado...<FAC0017<NOD<FAC0000<CLO<END
+ningún lado...<FAC0017<NOD<FAC0000<CLO<END

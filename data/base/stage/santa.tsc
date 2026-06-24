@@ -19,22 +19,22 @@
 #0120
 <KEY<MSG<TUR
 ¡PELIGRO!
-¡Esta trampa es muerte instantanea!
+¡Esta trampa es muerte instantánea!
 ¡Ten mucho cuidado!<NOD<END
 
 #0300
 <ITJ0008:0301
 <KEY<MSG
 Las llamas ondean...<NOD<FLJ0242:0000
-El carbon arde en la chimenea
+El carbón arde en la chimenea
 de Santa.<NOD<END
 #0301
 <KEY<GIT1008<MSG
-Usar el Jugo de Medusa?<YNJ0000<CLO<GIT0000
+¿Usar el Jugo de Medusa?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
 <MSG
 Hay algo entre las cenizas...<NOD<CLR<GIT1012<IT+0012
-<CMU0010Obtuviste un poco de Carbon.<WAI0160<NOD<CLO<RMU<DNP0300<END
+<CMU0010Obtuviste un poco de Carbón.<WAI0160<NOD<CLO<RMU<DNP0300<END
 
 #0302
 <KEY<DNP0300<END
@@ -48,28 +48,28 @@ Hay algo entre las cenizas...<NOD<CLR<GIT1012<IT+0012
 <KEY<FL+0240<MSG
 Gracias de nuevo por la ayuda
 de hace un rato.<NOD
-Me gustaria darte algo.<NOD<GIT0003<AM+0003:0000<CLR
+Me gustaría darte algo.<NOD<GIT0003<AM+0003:0000<CLR
 <CMU0010Obtuviste la Bola de Fuego.<WAI0160<NOD<RMU<GIT0000<CLR
-Estas buscando a alguien?<NOD
-No he visto a nadie por aqui.<NOD
-Pero si planeas ir mas lejos,
-tendras que pasar por la chimenea
+¿Estás buscando a alguien?<NOD
+No he visto a nadie por aquí.<NOD
+Pero si planeas ir más lejos,
+tendrás que pasar por la chimenea
 de la casa de Chako.<NOD<FL+0241<END
 #0503
 <KEY<MSG
 Si pasas por la chimenea en casa
-de Chako podras llegar al otro
+de Chako podrás llegar al otro
 lado de Grasstown.<NOD<END
 #0504
 <KEY<MSG
-Quieres un poco de Carbon?<NOD<CLR
-Si es el carbon de la chimenea
-lo que quieres, adelante, tomalo.<NOD<END
+¿Quieres un poco de Carbón?<NOD<CLR
+Si es el carbón de la chimenea
+lo que quieres, adelante, tómalo.<NOD<END
 #0505
 <KEY<MSG
-Para que vas a usar ese carbon?<NOD<END
+¿Para qué vas a usar ese carbón?<NOD<END
 #0506
 <KEY<MSG
-Oi una especie de estruendo.<NOD
-Luego algo que parecian ser gritos
+Oí una especie de estruendo.<NOD
+Luego algo que parecían ser gritos
 de alguien...<NOD<END

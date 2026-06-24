@@ -16,7 +16,7 @@
 #0200
 <KEY<MYD0000<ANP0400:0030:0000<CNP0300:0132:0002<ANP0300:0100:0002
 <MSG<FAC0014
-¡Tengo la llave del almacen!<NOD
+¡Tengo la llave del almacén!<NOD
 ¡Muy bien entonces, nos vemos!<NOD<CLR
 <FAC0113¡¡Espera!!<FAC0013<NOD<CLO
 <ANP0400:0030:0002<WAI0030
@@ -26,42 +26,42 @@
 <FLJ0596:0230
 <FL+0596
 <MSG<FAC0113
-Ohhh...<FAC0013<NOD<FAC0113 eres tu...<FAC0013<NOD<FAC0000<CLO
+Ohhh...<FAC0013<NOD<FAC0113 eres tú...<FAC0013<NOD<FAC0000<CLO
 <WAI0050
 <CNP0220:0133:0001<WAI0050
 <MSG<FAC1113La llave...<FAC1013<NOD<FAC1113
-La llave del almacen fue
+La llave del almacén fue
 robada por Balrog...<FAC1013<NOD<FAC1113
-Por favor... detenlos.<FAC1013<NOD<CLR<FAC1113
-Soltaran a los Mimigas rabiosos,
-poseidos por las flores rojas,
+Por favor... deténlos.<FAC1013<NOD<CLR<FAC1113
+Soltarán a los Mimigas rabiosos,
+poseídos por las flores rojas,
 contra la superficie.<FAC1013<NOD<CLR<FAC1113
 ¡Espera!<FAC1013<NOD<CLR<FAC1113
 Por favor lleva esto contigo.<FAC1013<NOD<GIT1015<IT+0015<CLR
 <FAC0000<CMU0010Obtuviste un =Pote Vital=.<WAI0160<NOD<RMU<CLR<FAC1113
-Usala y tu vida sera
+Úsala y tu vida será
 totalmente restaurada,<FAC1013<NOD<FAC1113
 pero solo UNA VEZ.<FAC1013<NOD<END
 #0230
 <KEY<FLJ0830:0231<MSG<FAC1113
 ¡Por favor!<FAC1013<NOD<FAC1113
-Por favor... detenlos.<FAC1013<NOD<CLR<FAC1113
-Soltaran a los Mimigas rabiosos,
-poseidos por las flores rojas,
+Por favor... deténlos.<FAC1013<NOD<CLR<FAC1113
+Soltarán a los Mimigas rabiosos,
+poseídos por las flores rojas,
 contra la superficie.<FAC1013<NOD<END
 #0231
 <KEY<ITJ0015:0232
 <MSG<FAC1113
 Llegas en buen momento.<FAC1013<NOD<GIT1015<IT+0015<CLR
-<FAC0000Obtuviste Pocion de Vida.<WAI0030<NOD<GIT0000<CLR<FAC1113
+<FAC0000Obtuviste Poción de Vida.<WAI0030<NOD<GIT0000<CLR<FAC1113
 Ven de nuevo si la usas.
-Te dare otra.<FAC1013<NOD<END
+Te daré otra.<FAC1013<NOD<END
 #0232
 <KEY<MSG<FAC1113
-Ni una bruja puede enganar
+Ni una bruja puede engañar
 a la edad o a la vejez...<FAC1013<NOD<FAC1113
-Creer en ti es mi ultima y
-unica opcion ahora.<FAC1013<NOD<END
+Creer en ti es mi última y
+única opción ahora.<FAC1013<NOD<END
 #0300
 <KEY<MSG
 ¡Guau!<NOD<END

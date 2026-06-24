@@ -15,10 +15,10 @@
 
 #0200
 <PRI<MSG
-Fue hace anos...<NOD
-Una bruja vivia en completa soledad
-aqui en esta isla.<NOD
-Esa bruja terminaria usando su magia
+Fue hace años...<NOD
+Una bruja vivía en completa soledad
+aquí en esta isla.<NOD
+Esa bruja terminaría usando su magia
 para crear este laberinto y 
 encerrarnos a los Gaudi dentro.<NOD<END
 
@@ -26,7 +26,7 @@ encerrarnos a los Gaudi dentro.<NOD<END
 <PRI<MSG
 Existe una salida del laberinto,
 pero... el camino que lleva a ella
-esta obstruido por una gran roca.<NOD<CLR
+está obstruido por una gran roca.<NOD<CLR
 Ni siquiera estoy seguro de si se
 puede alcanzar la salida tras mover
 semejante trozo de piedra...<NOD<END
@@ -34,7 +34,7 @@ semejante trozo de piedra...<NOD<END
 #0220
 <PRI<FLJ1020:0221<MSG
 Gaaah... quiero comer Mimiga...<NOD<CLR
-¿Que es ese olor?<NOD<CLR
+¿Qué es ese olor?<NOD<CLR
 Hueles un poco a Mimiga.<NOD<END
 
 #0221
@@ -46,17 +46,17 @@ Eres alguien divertido.<NOD<END
 <PRI<MSG
 ¿Has visto alguna vez el exterior? <NOD<CLR
 Esta isla flota alto en el cielo.<NOD
-Como es que la isla flota...<NOD
-El secreto de ello esta oculto en lo
-mas profundo de este laberinto.<NOD<END
+Cómo es que la isla flota...<NOD
+El secreto de ello está oculto en lo
+más profundo de este laberinto.<NOD<END
 
 #0240
 <PRI<FLJ0720:0241
 <MSG
-Ese teletransportador de ahi...<NOD
+Ese teletransportador de ahí...<NOD
 antes funcionaba, mmm.<NOD
 Bueno, incluso cuando funcionaba,
-su destino estaba en algun lugar 
+su destino estaba en algún lugar 
 dentro del laberinto...<NOD<END
 
 #0241
@@ -64,7 +64,7 @@ dentro del laberinto...<NOD<END
 El teletransportador finalmente vuelve
 a funcionar correctamente.<NOD<CLR
 En fin, gran cosa...<NOD
-Su destino final esta a mitad de 
+Su destino final está a mitad de 
 camino del laberinto...<NOD<END
 
 #0300
@@ -79,7 +79,7 @@ camino del laberinto...<NOD<END
 <KEY<FLJ0720:0311
 <KEY<MSG
 Un teletransportador.<NOD<CLR
-No esta recibiendo energia.<NOD<END
+No está recibiendo energía.<NOD<END
 
 #0311
 <CNP0300:0111:0002<HMC<WAI0060<ANP0310:0001:0000
@@ -89,15 +89,15 @@ No esta recibiendo energia.<NOD<END
 <KEY<FLJ0721:0410<MSG
 Hola.<NOD<CLR
 ¡Esta es la tienda del Laberinto!<NOD
-Lamentablemente, un ladron entro 
-hace poco y se lo llevo todo.<NOD
-Asi que no tengo nada que venderte.<NOD
+Lamentablemente, un ladrón entró 
+hace poco y se lo llevó todo.<NOD
+Así que no tengo nada que venderte.<NOD
 Perdona las molestias.<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
 
 #0401
 <KEY<MSG
-¿Que es eso?<NOD<CLR
-Tienes algo interesante ahi.<NOD<CLR
+¿Qué es eso?<NOD<CLR
+Tienes algo interesante ahí.<NOD<CLR
 ¡Eso es una =Estrella Polar= 
 y una =Bola de Fuego=!<NOD<CLR
 ¿Puedo echarles un vistazo?<YNJ0403<CLO
@@ -106,36 +106,36 @@ y una =Bola de Fuego=!<NOD<CLR
 Entregas la =Estrella Polar=.<NOD
 <GIT0003Entregas la =Bola de Fuego=.<NOD<GIT0000<CLR
 <SOU0044¡¡¡Hmph!!!<NOD<CLR<FL+0721<GIT0001<CLR
-<TAM0002:0001:0000<CMU0010¡La =Serpiente= esta terminada!<WAI0160<NOD<RMU<END
+<TAM0002:0001:0000<CMU0010¡La =Serpiente= está terminada!<WAI0160<NOD<RMU<END
 
 #0402
 <KEY<FL+0721<MSG
 Ah...<NOD<CLR
-Mira, te dare esto.<NOD<CLR<GIT1020<CLR
+Mira, te daré esto.<NOD<CLR<GIT1020<CLR
 <CMU0010<IT+0020<EQ+0008Obtuviste el =Turbocargador=.<WAI0160<NOD<RMU<GIT0000<CLR
-Es gratis, no te cobrare.<NOD
+Es gratis, no te cobraré.<NOD
 De todos modos no tienes dinero, ¿verdad?<NOD<END
 
 #0403
 <KEY<MSG<CLR
-¡Te arrepentiras mas tarde!<NOD<END
+¡Te arrepentirás más tarde!<NOD<END
 
 #0404
 <KEY<FL+0721<MSG
 Ah...<NOD<CLR
-Mira, te dare esto.<NOD<CLR<GIT1038<CLR
+Mira, te daré esto.<NOD<CLR<GIT1038<CLR
 <CMU0010<IT+0038Obtuviste la =Estrella Caprichosa=.<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLR
-Bueno, ahora es mas como un adorno.<NOD
+Bueno, ahora es más como un adorno.<NOD
 Es todo lo que puedo ofrecerte ya que
 posees un arma definitiva.<NOD<END
 
 #0410
 <KEY<MSG
-Una bruja llamada Jenka nos encerro.<NOD<CLR
+Una bruja llamada Jenka nos encerró.<NOD<CLR
 No es que nos odie.<NOD
-La razon por la que nos puso en el
+La razón por la que nos puso en el
 Laberinto es para proteger un secreto
-que se guarda aqui dentro.<NOD<CLR
+que se guarda aquí dentro.<NOD<CLR
 Pero los Gaudi tenemos mala memoria 
 y olvidamos que estamos protegiendo.
 ¡Lo siento!<NOD<END

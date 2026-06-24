@@ -22,7 +22,7 @@
 #0200
 <KEY<MSG
 El destino es desconocido.<NOD
-Aun asi deseas teletransportarte?<YNJ0000<CLO<FL+0524
+¿Aún así, deseas teletransportarte?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0018:0010
 
@@ -33,7 +33,7 @@ Oh, ¿eres un robot asesino?<NOD<CLR
 ¿Has venido a matarnos?<NOD<END
 #0401
 <PRI<MSG
-¡Sacanos de aqui!<NOD<END
+¡Sácanos de aquí!<NOD<END
 #0402
 <PRI<MSG
 ¡El Doctor puede irse al infierno!<NOD<END
@@ -41,16 +41,16 @@ Oh, ¿eres un robot asesino?<NOD<CLR
 #0403
 <PRI<MSG
 ¡Los Mimiga que trabajan en la granja
-estan siendo timados por el Doctor!<NOD<CLR
+están siendo timados por el Doctor!<NOD<CLR
 ¡Planea hacernos luchar contra los
 robots asesinos de la superficie!<NOD<END
 #0404
 <PRI<MSG
 ¿Conoces a alguien llamada Sakamoto?<NOD
-Deberia estar escondida en algun
-lugar de la Plantacion...<NOD<END
+Debería estar escondida en algún
+lugar de la Plantación...<NOD<END
 #0405
 <PRI<MSG
-Habia algunos humanos aqui tambien,
-pero no los he visto ultimamente...<NOD
+Había algunos humanos aquí también,
+pero no los he visto últimamente...<NOD
 Me pregunto si escaparon a salvo.<NOD<END

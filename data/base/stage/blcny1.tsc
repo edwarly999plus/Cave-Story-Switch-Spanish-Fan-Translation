@@ -30,7 +30,7 @@
 
 #0130
 <PRI<MSG
-¿Es este el helicoptero en el que llego Sue?<NOD<END
+¿Es este el helicóptero en el que llegó Sue?<NOD<END
 
 #0199
 <PRI<MSG
@@ -39,7 +39,7 @@ Gracias por todo tu esfuerzo.<NOD<END
 
 #0200
 <KEY<MYD0000<DNP0200<WAS<MSG
-¡Caeras si sigues adelante!<NOD<END
+¡Caerás si sigues adelante!<NOD<END
 
 #0201
 <PRI<MSG<TUR

@@ -112,17 +112,17 @@ Abriste el cofre del tesoro.<NOD<CLR<EVE0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
 <CMU0010Obtuviste el =Lanzamisiles=.<WAI0160<NOD<RMU<CLR
 El Lanzamisiles es un arma potente,
-pero tiene municion limitada.<NOD
-Recoge municion adicional de los
+pero tiene munición limitada.<NOD
+Recoge munición adicional de los
 enemigos derrotados.<NOD<END
 #0401
 <PRI<AM+0005:0032
 <MSG
-<GIT0006Misiles maximos aumentados en <NUM0000.<NOD<END
+<GIT0006Misiles máximos aumentados en <NUM0000.<NOD<END
 #0402
 <PRI<AM+0010:0024
 <MSG
-<GIT0011Misiles maximos aumentados en <NUM0000.<NOD<END
+<GIT0011Misiles máximos aumentados en <NUM0000.<NOD<END
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
@@ -132,7 +132,7 @@ fue confinado en la isla flotante
 por su hermana, Jenka.<NOD
 Eso fue todo lo que pudo hacer.<NOD
 Para Jenka, matar a su propio
-hermano menor habria sido
+hermano menor habría sido
 imposible.<NOD<END
 
 #0901
@@ -141,11 +141,11 @@ imposible.<NOD<END
 Misery, la hija bruja de Jenka,
 tiene la culpa de la Corona del
 Demonio...<NOD
-Ella obligo a Ballos a crearla.<NOD
+Ella obligó a Ballos a crearla.<NOD
 Debido a esta ofensa, fue maldecida
 por la Corona, obligada a obedecer
 a quienquiera que la posea.<NOD
-La maldicion puede romperse si la
+La maldición puede romperse si la
 Corona del Demonio es destruida.<NOD<CLR
 Sin embargo...<NOD<END
 

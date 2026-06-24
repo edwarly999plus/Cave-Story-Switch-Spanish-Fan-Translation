@@ -34,7 +34,7 @@
 <FLJ1272:0204
 <FLJ1270:0202
 <FLJ1271:0201<MSG
-Hey, tu eres el viajero que conoci
+Hey, tú eres el viajero que conocí
 hace tiempo en mi casa.<NOD<FLJ1020:0205<CLR
 ¿Has venido a salvarme?<NOD<END
 #0201
@@ -45,17 +45,17 @@ hace tiempo en mi casa.<NOD<FLJ1020:0205<CLR
 Lo hiciste bien.<NOD<CLR
 Me siento un poco como una princesa.<NOD<CLR
 ¿Sue?<NOD<CLR
-Si, la conozco.<NOD
+Sí, la conozco.<NOD
 Esa chica parece un Mimiga,
 pero es humana, ¿verdad?<NOD
 Bueno, mis ojos no se dejan timar.<NOD
-Aunque ella no esta aqui.<NOD<CLO
+Aunque ella no está aquí.<NOD<CLO
 <FL+1272<END
 #0203
 #0204
 <KEY<MSG
-Eres fuerte, ¿no es asi?<NOD
-Como nuestro gran heroe, Arthur.<NOD<FLJ1274:0000<FL+1274<CLR
+Eres fuerte, ¿no es así?<NOD
+Como nuestro gran héroe, Arthur.<NOD<FLJ1274:0000<FL+1274<CLR
 Heh.<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
@@ -66,14 +66,14 @@ Heh.<NOD<CLO
 <END
 #0205
 <KEY<MSG
-¡Eso es una mascara!
-No puedes enganarme.<NOD<END
+¡Eso es una máscara!
+No puedes engañarme.<NOD<END
 
 #0210
 <PRI<FLJ1270:0212<FLJ1271:0211
 <MSG
 El Doctor nos tiene miedo.<NOD
-Por eso nos metio en la carcel.<NOD
+Por eso nos metió en la cárcel.<NOD
 No hay duda de ello.<NOD<END
 #0211
 <PRI<MSG
@@ -86,28 +86,28 @@ No hay duda de ello.<NOD<END
 <PRI<FLJ1270:0222<FLJ1271:0221
 <MSG
 ¡Ah!<NOD<CLR
-Tu eres el de aquella vez...<NOD<END
+Tú eres el de aquella vez...<NOD<END
 #0221
 <PRI<MSG
 ¡Cuidado!
-¡¡¡Detras de ti!!!<NOD<END
+¡¡¡Detrás de ti!!!<NOD<END
 #0222
 <KEY<MSG
-¿Te acuerdas de mi?<NOD
-La vez que perdi mi 
+¿Te acuerdas de mí?<NOD
+La vez que perdí mi 
 llave en Grasstown...<NOD<FLJ1020:0223<CLR
 Te entiendo...<NOD<CLR
-Si, ese doctor es un tipo malo.<NOD<END
+Sí, ese doctor es un tipo malo.<NOD<END
 #0223
 <KEY<MSG
-¡¿¡Por que llevas una mascara de Mimiga!?!<NOD<END
+¡¿¡Por qué llevas una máscara de Mimiga!?!<NOD<END
 
 #0410
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
 <CMU0000<MS3
 ¡¡Aahhh!!<MYB0410<NOD<CLR
 Ooooh...<WAI0020 ¡¡¡NOOOoooo!!!<WAI0020<CLR
-¡El poder... esta fuera... de CONTROL!<NOD<CLO
+¡El poder... está fuera... de CONTROL!<NOD<CLO
 <ACH0043<WAI0050<CNP0420:0267:0004<WAI0100<FOM0016
 <ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
 
@@ -136,33 +136,33 @@ Ooooh...<WAI0020 ¡¡¡NOOOoooo!!!<WAI0020<CLR
 <CMP0003:0013:0021
 <MS3<FAC0121<ANP0400:0010:0000
 ¡JA JA JA!<FAC0021<NOD<CLR<FAC0121
-Finalmente, esta completo.<FAC0021<NOD<CLO<FAC0000
+Finalmente, está completo.<FAC0021<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
 <MS3<FAC0121
 Los Mimiga se enfurecen cuando
 les introducimos la flor roja
-como una forma de medicacion.<FAC0021<NOD<CLR<FAC0121
+como una forma de medicación.<FAC0021<NOD<CLR<FAC0121
 La causa es bastante simple.<FAC0021<NOD<CLR<FAC0121
 La flor roja hace aflorar
 habilidades latentes.<FAC0021<NOD<CLR<FAC0121
-No solo esto, sino que tambien
+No solo esto, sino que también
 contiene un compuesto que
-destruye la razon de uno.<FAC0021<NOD<CLR<FAC0121
+destruye la razón de uno.<FAC0021<NOD<CLR<FAC0121
 Y ahora he logrado extraerlo
-e intensificarlo con exito.<FAC0021<NOD<CLR<FAC0121
+e intensificarlo con éxito.<FAC0021<NOD<CLR<FAC0121
 Esto es...<FAC0021<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
 <MS3<FAC0121
 ...El =Cristal Rojo=.<FAC0021<WAI0030<NOD<CLR<FAC0121
 Y este =Cristal Rojo=...<FAC0021<NOD<FAC0121
-tambien funciona en humanos.<FAC0021<NOD<CLR<ANP0400:0050:0000
+también funciona en humanos.<FAC0021<NOD<CLR<ANP0400:0050:0000
 ¡Ja ja!<FAC0021<NOD<CLR<FAC0121
-¡Increible!<FAC0021<NOD<CLR<FAC0121
+¡Increíble!<FAC0021<NOD<CLR<FAC0121
 ¿Entiendes lo extraordinario
 que es esto?
 No lo entiendes, ¿verdad?<FAC0021<NOD<CLR<FAC0121
 ¡Bien, entonces!<FAC0021<NOD<CLR<FAC0121
-¡¡¡Te dare una leccion muy
+¡¡¡Te daré una lección muy
 especial ahora mismo!!!<FAC0021<NOD<CLO
 <CNP0410:0263:0000<WAI0005
 <ANP0410:0002:0000<WAI0050

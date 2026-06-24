@@ -26,10 +26,10 @@
 <KEY<FAO0000<MYD0000<TRA0094:0090:0017:0007
 #0200
 <PRI<MSG
-¿Un simbolo?<NOD<END
+¿Un símbolo?<NOD<END
 #0400
 <KEY<FLJ0960:0401<MSG<FAC0110
-Si estas buscando el Nucleo
+Si estás buscando el Núcleo,
 entonces tienes que darte
 mucha prisa.<FAC0010<NOD<END
 #0401
@@ -46,25 +46,25 @@ Sube <MYD0000ya.<FAC0010<NOD<FAC0000<CLO
 <DNP0400<DNP0420<DNP0421
 <ANP0410:0010:0002<WAI0200
 <MSG<FAC1110
-Agarrate fuerte.<FAC1010<NOD<CLO<FAC0000
+Agárrate fuerte.<FAC1010<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
 <MSG
-Y asi fue como tu y Kazuma
+Y así fue como tú y Kazuma
 escaparon a salvo de la isla.<WAI0200<CLR
-Poco despues, el Doctor uso la
+Poco después, el Doctor usó la
 isla como su fortaleza voladora
-y ataco la superficie.<WAI0200<CLR
-¿Pudieron los paises de la
+y atacó la superficie.<WAI0200<CLR
+¿Pudieron los países de la
 superficie resistir los ataques
 implacables del Doctor?<WAI0200<CLR<FAO0002
 Eso realmente no importa...<WAI0200<CLR
-Tras escapar, tu y Kazuma viven
+Tras escapar, tú y Kazuma viven
 una vida humilde, ocultos en lo
-profundo de las montanas...<WAI0200<CLR
+profundo de las montañas...<WAI0200<CLR
 ...y fuera del alcance del Doctor.<WAI0200<CLR<CMU0026
 <ACH0049
-<TUR                                 Fin? <WAI9999
+<TUR                                 ¿Fin? <WAI9999
 <END
 #0410
 <KEY<MSG
@@ -75,9 +75,9 @@ Grrrrrr...<NOD<END
 <KEY<MSG
 ¡Gracias por ayudar a probar
 este juego!<NOD
-Solo he avanzado hasta aqui por
+Solo he avanzado hasta aquí por
 ahora.<NOD
 Pienso que la siguiente etapa
-sera la ultima.<NOD
-Con dos meses mas veremos que
+será la última.<NOD
+Con dos meses más veremos qué
 tan lejos puedo llegar...<NOD<END
