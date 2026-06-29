@@ -217,3 +217,24 @@ Este mod es un esfuerzo comunitario. Los nombres que aparecen en los créditos f
 Si quieres ayudar a traducir los Mods (Wind Fortress, Nemesis Challenge, etc.) o mejorar los diálogos de la campaña, ¡siéntete libre de hacer un Fork o enviar un Pull Request!
 
 Para más info visita este [thread](https://forum.cavestory.org/threads/cave-story-switch-spanish-translation.18209/)
+
+---
+
+## 🎮 ¿No tienes Switch pero juegas en PC?
+
+Si no tienes una consola Nintendo Switch pero quieres disfrutar de **Cave Story+** en PC con la misma calidad de traducción, te recomendamos encarecidamente la versión de nuestro compañero de proyecto:
+
+<p align="center">
+  <a href="[https://github.com/ChrisXolt/Cave-Story-Steam-Spanish-Latino-Translation](https://github.com/CrisXolt/CSPlus-Spanish-Translation-Patch)">
+    <img src="https://img.shields.io/badge/¡PRUEBA_LA_TRADUCCIÓN_DE_STEAM!-ESPAÑOL_LATINO-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Traducción de Steam de ChrisXolt">
+  </a>
+</p>
+
+### 🔹 Características de la Versión de Steam (por ChrisXolt):
+* **Localización Completa:** Adaptada al Español Latino utilizando el mismo *font* personalizado que corrige los acentos y la letra "Ñ".
+* **Compatibilidad:** Diseñada específicamente para la estructura interna y los scripts modificados de la versión actual de Steam.
+* **Trabajo en Equipo:** Ambas traducciones comparten casi la misma esencia y control de calidad en los diálogos.
+
+> [!TIP]
+> ¡Haz clic en el botón de arriba para visitar su repositorio, dejarle una estrella (⭐) y descargar su parche para PC!
+---
